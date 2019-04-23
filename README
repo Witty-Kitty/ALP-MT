@@ -1,8 +1,9 @@
+# ALP-MT
 This project is aimed at aligning translations of the Bible for the task of Machine Translation. 
 We consider the English version to be our point of reference so all other efforts at adding datasets for other languages work towards aligning them with the English version, hence by extension, with each other.
 NEVER EDIT THE ENGLISH TEXTS AS THEY ARE THE 'SOURCE OF TRUTH'.
 
-Requirements:
+##Requirements:
 * python3
 * click
 
@@ -23,16 +24,20 @@ Options:
   --book TEXT      number of book you are aligning eg. 12
   --help           Show this message and exit.
 
-How to:
+##How to:
 1. the text_preprocessing function is to do some preprocessin on the text. It requires the options 'language' that you are working with, and 'book' of the bible that you are aligning. It removes most punctuation and breaks sentences up at full-stop so that each is on a new line. 
 
 example usage: 
-python3 text_preprocessing.py --language swahili --book 4
+```sh
+$ python3 text_preprocessing.py --language swahili --book 4
+```
 
 2. the alignment_check.py function will check to see if the text you are working on has the same number of sentences as its English equivalent. Should it not, you will see the difference in the number of lines. 
 
 example usage:
-python3 alignment_check.py --language swahili --book 4
+```sh
+$ python3 alignment_check.py --language swahili --book 4
+```
 
 If you have run this script on a book for the first time and it is aligned, please also run the third script for good measure. Sometimes the number of sentences may be equal but they have not been split correctly.
 Also, as this process is iterative, as you continually work on a book, sometimes the difference in the number of sentences will rise as opposed to fall. Do not be discouraged, keep going, eventually it shall get to alignment.
@@ -40,7 +45,9 @@ Also, as this process is iterative, as you continually work on a book, sometimes
 3. the discrepancy_discovery.py function will let you know where exactly sentences are not aligned, if the alignment check has failed. It returns an integer.
 
 example usage:
-python3 discrepancy_discovery.py --language swahili --book 4
+```sh
+$ python3 discrepancy_discovery.py --language swahili --book 4
+```
 
 It returns an integer, which is the line with the problem. 
 Note that when there is no discrepancy, you will instead get an 'IndexError: string index out of range' error.
@@ -59,7 +66,8 @@ Once the change is made, save the raw text of the file you are working on and th
 4. the final_processing.py removes all punctutation and saves, does further processing and saves the output in the 'aligned' folder.
 
 example usage:
-python3 final_processing.py --language swahili --book 4
-
+```sh
+$ python3 final_processing.py --language swahili --book 4
+```
 
 
