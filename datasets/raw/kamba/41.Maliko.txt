@@ -1,0 +1,666 @@
+10  Nĩwookĩlile auma vau na athi mĩvakanĩ ya Yutia, mũingo wa Yolotani, na ĩkomano yoombana ĩngĩ vala waĩ. Na o tondũ weekaa, ambĩĩa kũyĩmanyĩsya ĩngĩ.
+2  Na Avalisi mooka vala ũĩ mayenda kũmũtata, na mamũkũlya kana nĩ ũndũ wosanĩte na mĩao mũndũũme kũthasya mũtwaano na kĩveti kyake.
+3  Nake amasũngĩa: “Mose amwĩaĩe ata?”
+4  Mamwĩa: “Mose nĩweetĩkĩlĩtye mũndũũme kũandĩkĩa kĩveti kyake valũa wa kũthasya mũtwaano na kũkĩlũngya.”
+5  Ĩndĩ Yesũ amea: “Nũndũ wa wũmũ wa ngoo syenyu, nĩwamũandĩkĩie mwĩao ũsu.
+6  Ĩndĩ kuma mwambĩlĩlyonĩ wa wũmbi, ‘Amombie mũndũũme na mũndũ mũka.
+7  Nũndũ wa kĩtumi kĩu mũndũũme akatia ĩthe na inyia,
+8  na me elĩ makeethĩwa mwĩĩ ũmwe,’ na kwoou mayĩthĩawa me elĩ ĩngĩ, ĩndĩ nĩ mwĩĩ ũmwe.
+9  Kwoou kĩla Ngai ũlũmanĩtye vamwe, mũndũ ndakakĩtaanany’e.”
+10  Na yĩla malikile ĩngĩ nyũmba, amanyĩw’a make mambĩĩa kũmũkũlya ĩũlũ wa ũndũ ũsu.
+11  Nake amea: “Mũndũ o na wĩva ũla ũthaasya mũtwaano na kĩveti kyake na aitwaa kĩngĩ, ethĩawa aikĩvĩtĩsya kwa kwĩka ũlaalai,
+12  na ethĩwa kĩveti nĩkyathasya mũtwaano na mũũme wakyo na kĩitwawa nĩ ũngĩ, kĩthĩawa kĩyĩka ũlaalai.”
+13  Na andũ mambĩĩa kũmũetee syana nini nĩ kana aikwate na moko, ĩndĩ amanyĩw’a mamakany’a.
+14  Yĩla Yesũ woonie ũu nĩwathatie, na amea: “Ekanai na syana nini syũke vala nĩĩ; mũikatate kũisiĩĩa, nũndũ Ũsumbĩ wa Ngai nĩ wa ala mailye tasyo.
+15  Nĩ w’o nĩngũmwĩa, mũndũ o na wĩva ũla ũtawosaa Ũsumbĩ wa Ngai ta kana kanini, ndakalika nongi Ũsumbĩnĩ ũsu.”
+16  Na oosa syana isu na ambĩĩa kũiathima na kũsilĩĩla moko make.
+17  Na e nzĩanĩ aendete, mũndũ ũmwe ooka asembete atulya ndu mbee wake na amũkũlya: “Mũmanyĩsya mũseo, naĩle kwĩka ata nĩ kana nĩkwata thayũ wa tene na tene?”
+18  Nake Yesũ amwĩa: “Nĩkĩ ũũmbĩta mũseo? Vaiĩ mũndũ mũseo eka o ũmwe, nake nĩ Ngai.
+19  Nĩwĩsĩ mĩao ĩno: ‘Ndũkoae, ndũkalaalae, ndũkoye, ndũkaumye ũkũsĩ wa ũvũngũ, ndũkavenane na ũkengani, nenga ndaĩa ĩthe waku na inyia waku.’”
+20  Mũndũ ũsu amwĩa: “Mũmanyĩsya, maũndũ asu onthe nambĩĩie kũmaatĩĩa kuma nĩ mũnini.”
+21  Na Yesũ amũsisya, amwenda, na amwĩa: “Ve ũndũ ũtialĩtye: Enda ũkathoosye syĩndũ ila wĩ nasyo na ũinenga ngya, na ũkeethĩwa na ũthwii ĩtunĩ; na ĩndĩ ũyũka ũtw’ĩke mũatĩĩi wakwa.”
+22  Ĩndĩ  nĩwakwatiwe nĩ kĩmako yĩla wasũngĩiwe ũu na athi e na kyeva ngoonĩ, nũndũ aĩ na syĩndũ mbingĩ.
+23  Na Yesũ asisya ngalĩko syonthe na amea amanyĩw’a make atĩĩ: “Ũkeethĩwa wĩ ũndũ wĩ vinya ta kĩ kwa ala me mbesa kũlika Ũsumbĩnĩ wa Ngai!”
+24  Ĩndĩ amanyĩw’a maseng’a nũndũ wa ndeto syake. Nake Yesũ amea: “Syana, nĩ ũndũ wĩ vinya ta kĩ kũlika Ũsumbĩnĩ wa Ngai!
+25  Nĩ ũndũ wĩ laisi kwa ngamĩle kũlikĩla kalimanĩ ka singano, kwĩ mũndũ mũthwii kũlika Ũsumbĩnĩ wa Ngai.”
+26  Namo maseng’a mũno na mamũkũlya: “Nũũ ũtonya kũtangĩĩwa?”
+27  Yesũ amaketeea na asya: “Ũndũ ũũ ndũtonyeka kwa andũ, ĩndĩ ũu tiw’o vailye kwa Ngai, nũndũ maũndũ onthe nĩmatonyeka kwa Ngai.”
+28  Nĩvo ĩndĩ Vetelo wambĩĩie kũmwĩa: “Sisya! Ithyĩ nĩtwatiie syĩndũ syonthe na twakũatĩĩa.”
+29  Nake Yesũ asya: “Nĩ w’o nĩngũmwĩa, vaiĩ mũndũ waatia nyũmba kana ana-a-inyia kana eĩtu-a-inyia kana ĩthe kana inyia kana syana kana mĩũnda, kwondũ wakwa na kwondũ wa ũvoo mũseo,
+30  ũtakakwata kũndũ 100 ĩvindanĩ yĩĩ—nyũmba, ana-a-inyia, eĩtu-a-inyia, aa-inyia, syana, mĩũnda, vamwe na mothĩny’o—na ĩvinda yĩla yũkĩte, thayũ wa tene na tene.
+31  Ĩndĩ aingĩ ala me mbee makeethĩwa ĩtina, na ala me ĩtina makeethĩwa mbee.”
+32  Na me nzĩanĩ mambatĩte Yelusaleme, Yesũ aĩ mbee woo, na maseng’a, na ala mamaatĩĩe makwatwa nĩ wia. Na ĩngĩ ameta nzama ala Ĩkũmi na Elĩ na ambĩĩa kũmatavya maũndũ aa ala maĩ vakuvĩ kũmũkwata:
+33  “Sisyai! Twambatĩte Yelusaleme na Mwana wa mũndũ akanenganwe mokonĩ ma anene ma athembi na aandĩki. Makamũsilĩla kũawa na maimũnengane kwa andũ ma mbaĩ ingĩ,
+34  na asu makamũthekeea na maimũtw’ĩlanga mata na maimũvũa na maimũaa, ĩndĩ ĩtina wa mĩthenya ĩtatũ akathayũũka.”
+35  Na Yakovo na Yoana, ana ma Sevetii, mooka vala waĩ na mamwĩa: “Mũmanyĩsya, twĩenda ũtwĩke ũndũ o na wĩva ũla tũũkũkũlya.”
+36  Nake amakũlya: “Mwĩenda nĩmwĩke ata?”
+37  Namo mamũsũngĩa: “Tũnenge mwanya twĩĩkala, ũmwe kw’okonĩ kwaku kwa aũme na ũla ũngĩ kw’okonĩ kwaku kwa aka ũtheunĩ waku mũtisu.”
+38  Ĩndĩ Yesũ amea: “Mũyĩsĩ kĩla mũũvoya. Nĩmũtonya kũnyw’a kĩkombe kĩĩ ngũnyw’a, kana nĩmũtonya kũvatiswa ũvatiso ũũ ngũvatiswa?”
+39  Namo mamwĩa: “Nĩtũtonya.” Nake Yesũ amea: “Kĩkombe kĩĩ ngũnyw’a, mũkanyw’a, na ũvatiso ũũ ngũvatiswa, mũkavatiswa.
+40  Ĩndĩ kwĩkala kw’okonĩ kwakwa kwa aũme kana kw’okonĩ kwakwa kwa aka ti ĩũlũ wakwa kũnengane, ĩndĩ vakekala ala maseũvĩw’e.”
+41  Yĩla ala angĩ ĩkũmi meewie ũndũ ũsu, mamathatĩa Yakovo na Yoana.
+42  Ĩndĩ Yesũ ameta vala ũĩ, na amea: “Nĩmwĩsĩ kana ala matalawa ta masumbĩkĩte andũ ma mbaĩ ingĩ nĩmenenevasya, na ala me na ũkũmũ nĩmavinyĩĩaa ala angĩ.
+43  Inyw’ĩ mũyaĩle kwĩthĩwa mũilye ũu; ĩndĩ mũndũ o na wĩva ũla ũkwenda kwĩthĩwa e mũnene katĩ wenyu aĩle kwĩthĩwa e mũthũkũmi wenyu,
+44  na mũndũ o na wĩva ũla ũkwenda kwĩthĩwa e mbee katĩ wenyu aĩle kwĩthĩwa e ngombo ya onthe.
+45  Nũndũ o na Mwana wa mũndũ ndaaũka kũthũkũmwa, ĩndĩ kũthũkũma na kũnengane thayũ wake wĩthĩwe wovosyo kwondũ wa aingĩ.”
+46  Na mathi mavika Yeliko. Ĩndĩ we na amanyĩw’a make vamwe na ĩkomano ĩnene mayumaala Yeliko, Valitimeo (mwana wa Timeo), mũvoyi kĩlalinda, ailyĩ nthĩ ũtee wa nzĩa.
+47  Yĩla weewie nĩ Yesũ Mũnasaleti, ambĩĩa kũneena na wasya mũnene, akyasya: “Mwana wa Ndaviti, Yesũ, mbĩw’ĩe tei!”
+48  Yĩla aingĩ meewie ũu mambĩĩa kũmũkany’a makĩmwĩa akilye, ĩndĩ aendeea kũneena na wasya mũnene, akyasya: “Mwana wa Ndaviti, mbĩw’ĩe tei!”
+49  Kwoou Yesũ aũngama na asya: “Mwĩtei oke vaa nĩĩ.” Na meeta mũndũ ũsu kĩlalinda, makĩmwĩa: “Ĩthĩwa na ũkũmbaũ! Ũkĩla; nũkũkwĩta.”
+50  Nake ekya ngũa yake ya ĩũlũ, aũngama mĩtũkĩ, na athi vala ve Yesũ.
+51  Na ĩndĩ Yesũ amũkũlya: “Wĩenda ngwĩke ata?” Na mũndũ ũsu kĩlalinda asya: “Lavoni, eka nambĩĩe kwona ĩngĩ.”
+52  Nake Yesũ amwĩa: “Enda. Mũĩkĩĩo waku nĩwakũvosya.” Na vau kwa vau ambĩĩa kwona ĩngĩ, na ambĩĩa kũatĩĩa Yesũ nzĩanĩ.
+4  Na ĩngĩ, ambĩĩa kũmanyĩsya e ũtee wa ũkanga na ĩkomano ĩnene mũno yoombana vakuvĩ nake. Kwoou alika ĩsiwanĩ, ekala nthĩ, na athi vaasanga na ũtee wa ũkanga, ĩndĩ ĩkomano yonthe yaĩ vakuvĩ na kĩw’ũ, ũtee wa ũkanga.
+2  Na ambĩĩa kũmamanyĩsya maũndũ maingĩ aitũmĩa ngelekany’o, na aendeee kũmamanyĩsya, amea:
+3  “Ĩthukĩĩsyei. Sisyai! Mũvandi nĩwaendie kũvanda mbeũ.
+4  Na aendeee kũvanda, mbeũ imwe syavalũka ũtee wa nzĩa, na nyũnyi syooka syaiya.
+5  Na ingĩ syavalũka vandũ ve mavia na vate mũthanga mwingĩ, na syamea mĩtũkĩ nũndũ mũthanga ndwaĩ mũliku.
+6  Ĩndĩ yĩla syũa yaaie, nĩsyavĩe na syavova nũndũ iyaĩ na mĩi.
+7  Ingĩ nasyo syavalũka katĩ wa mĩtĩ yĩ mĩw’a, na mĩw’a yainyita, na syalea kũsyaa kĩndũ.
+8  Ĩndĩ ingĩ nasyo syavalũka mũthanganĩ mũseo, na syeana na kwongeleka, na syambĩĩa kũsyaa, na syasyaa kũndũ 30, 60, na kũndũ 100.”
+9  Na ongela kwasya atĩĩ: “Ũla wĩ na matũ ma kwĩw’a, nĩew’e.”
+10  Na yĩla waĩ weka, ala mamũthyũlũlũkĩte me na ala Ĩkũmi na Elĩ mambĩĩa kũmũkũlya ĩũlũ wa ngelekany’o isu.
+11  Nake amea: “Inyw’ĩ nĩmũnengetwe kũmanya syĩmbithĩ ntheu sya Ũsumbĩ wa Ngai, ĩndĩ ala me nza, maũndũ asu onthe kwoo no ngelekany’o,
+12  nĩ kana wĩthĩe, o na kau nĩmeũsisya, mesisya na maikwona, o na kau nĩmekwĩw’a, meĩw’a na maiũkwatya kĩndũ; o na mayĩsa kũalyũka nĩ kana maekewe.”
+13  Na ĩndĩ amea: “Inyw’ĩ mũyĩsĩ ngelekany’o ĩno, kwoou mũtonya kũelewa ata ngelekany’o ila ingĩ syonthe?
+14  “Mũvandi avandaa ndeto.
+15  Aa nĩmo ĩndĩ ila mbeũ syĩ ũtee wa nzĩa vala ndeto ĩvandĩtwe; ĩndĩ ĩtina wa kũmĩw’a oou, Satani ayũka na ayosa ĩla ndeto ĩvandĩtwe nthĩnĩ woo.
+16  O ta ũu, aa nĩmo ila ivandĩtwe vandũ ve mavia; meew’a ĩla ndeto oou, maimĩtĩkĩla na ũtanu.
+17  Ĩndĩ nũndũ mai na mĩi nthĩnĩ woo, maendeeaa kwa kavinda kakuvĩ; na mathĩna kana monyamao maumĩla oou nũndũ wa ĩla ndeto, mailulutĩka.
+18  Na ve ingĩ ivandĩtwe katĩ wa mĩtĩ yĩ mĩw’a. Isu syĩonany’a ala mew’ĩte ndeto,
+19  ĩndĩ mawĩmakĩo ma nthĩ ĩno, na vinya wa ũkengani wa ũthwii na mawendi ma syĩndũ ila ingĩ syonthe, mailika nthĩnĩ woo na mainyita ĩla ndeto na ĩilea kũsyaa.
+20  Na mũthya, ila ivandĩtwe mũthanganĩ mũseo syĩonany’a ala mew’aa ndeto na maimyosa nesa na maisyaa ũsyao—kũndũ 30, 60, na kũndũ 100.”
+21  O na ĩngĩ nĩwameie atĩĩ: “Taa nũetawe nĩ kana ũkunĩkĩlw’e kĩkavũ kana wiwe ungu wa kĩtanda? W’o ndũetawe nĩ kana wilĩĩlwe kĩndũnĩ kya kwilĩĩla taa?
+22  Nũndũ vaiĩ ũndũ mũvithe ũtakavuanw’a; na vaiĩ kĩndũ kĩvw’ĩke nesa kĩtakaumĩlw’a ũtheinĩ.
+23  Mũndũ o na wĩva ũla wĩ na matũ ma kwĩw’a, nĩew’e.”
+24  Na aendeea kũmea atĩĩ: “Ĩthukĩĩsyei nesa maũndũ ala mũkwĩw’a. Kĩthimi kĩla mũthimaa nakyo nokyo mũkathimĩwa nakyo, ĩĩ, o na mũkongeleelwa.
+25  Nũndũ mũndũ o na wĩva ũla wĩ na kĩndũ akongeleelwa, ĩndĩ mũndũ o na wĩva ũla ũte na kĩndũ, o na kĩla wĩ nakyo akavenwa.”
+26  Na aendeea kũneena namo, akĩmea: “Kwa nzĩa ĩsu Ũsumbĩ wa Ngai ũilye ta yĩla mũndũ wavanda mbeũ mũthanganĩ.
+27  Nũkomaa ũtukũ na aiamũka mũthenya, na mbeũ ĩimea na kũasava—na we mwene ndethĩawa esĩ nĩ kwa nzĩa yĩva.
+28  Na mũthanga nĩwumĩlasya ũsyao o kavola kwa kavola, mbee nĩ ĩtũ, na ĩndĩ kĩia, na mũthya mbeke mbusũu kĩianĩ.
+29  Na lĩu weew’a, nĩwosaa kavyũ ke ngoto, nũndũ ĩvinda ya ngetha nĩ ĩviku.”
+30  Na aendeea kwasya atĩĩ: “Ũsumbĩ wa Ngai tũtonya kũũvw’anany’a na kyaũ, kana tũtonya kũtũmĩa ngelekany’o yĩva kũũelesya?
+31  Ũilye ta mbeũ ya kalatali, ĩla ĩvinda ya kũvandwa mũthanganĩ yĩthĩawa yĩ nini vyũ katĩ wa mbeũ syonthe ĩũlũ wa nthĩ.
+32  Ĩndĩ yavandwa, nĩyĩanaa na kũneneva kwĩ mboka syonthe sya mũũndanĩ na ĩitw’ĩka mũtĩ wĩ na mbonge nene, ũkethĩa nyũnyi sya yayaya nitonya kũkwata wĩkalo muunyĩnĩ waw’o.”
+33  Nĩwatũmĩie ngelekany’o mbingĩ sya mũthemba ũsu kũmatavya ĩla ndeto, kwosana na ũndũ maĩ matonya kwĩthukĩĩsya.
+34  Kwa w’o, ndaneenaa namo atatũmĩĩte ngelekany’o, ĩndĩ nĩwamaeleasya amanyĩw’a make maũndũ onthe yĩla wĩ namo me oka.
+35  Na mũthenya o ũsu, yĩla kwavikie wĩoo, amea atĩĩ: “Ekai tũinge mũingo ũya ũngĩ wa ũkanga.”
+36  Kwoou ĩtina wa kũmbũũkya ĩkomano, mamũtwaa ĩsiwanĩ, ailye o ũndũ wailye, na vaĩ masiwa angĩ maendanisye vamwe na yĩu.
+37  Na  kĩuutani kyaĩ na vinya kyookĩlany’a, na itulumo syaendeea kũkima yĩla ĩsiwa, na kũlikya kĩw’ũ nthĩnĩ, nginya weethĩa yĩkilyĩ kusũa.
+38  Ĩndĩ Yesũ aĩ ngalĩko ya ĩtina akomeee kamũto. Kwoou mamũamũkya, makyasya: “Mũmanyĩsya, we ndũũmanya kana tũkilyĩ kũthela?”
+39  Eew’a ũu ookĩla na akany’a kĩseve, na awĩa ũkanga: “Usya! Kilya!” na kĩseve kyausya, na kweethĩwa na ũuu mũnene.
+40  Kwoou amea: “Nĩkĩ mwĩ na wia wingĩvĩte ũu? Inyw’ĩ mũi na mũĩkĩĩo o na ũmwe?”
+41  Ĩndĩ makwatwa nĩ wia mwingĩ mũno, na maneenany’a ene kwa ene, makyasya: “We ũũ kwa w’o nũũ? O na kĩseve na ũkanga nikũmwĩw’a.”
+11  Na yĩla mathengeeie Yelusaleme na mavika motũinĩ ma Vethivake na Vethania, ala me Kĩĩmanĩ kya Mĩthata, atũma amanyĩw’a make elĩ,
+2  na amea: “Endai ũtũinĩ ũya wĩ mbee wenyu, na mwalika vo oou, nĩmũkwĩthĩa kang’oli ke kove kala kataaĩkalĩlwa nĩ mũndũ. Kathasyei mũndetee vaa.
+3  Na mwakũlw’a nĩ mũndũ, ‘Nĩkĩ mũkwĩka ũu?’ mwĩei atĩĩ, ‘Mwĩaĩi nũkũkenda na nũkũkatũnga mĩtũkĩ.’”
+4  Kwoou mathi na meethĩa kang’oli kovetwe mũomonĩ, ũtee wa nzĩa nene, na makathasya.
+5  Ĩndĩ andũ amwe maũngamĩte vau mamakũlya: “Mwĩthasya kang’oli kau nĩkĩ?”
+6  Namo mamatavya o ũndũ Yesũ waĩtye, na mamaeka mathi.
+7  Na mamũetee Yesũ kang’oli kau, na makailĩĩla ngũa syoo sya ĩũlũ, nake akekalĩla.
+8  Na andũ aingĩ malany’a ngũa syoo sya ĩũlũ nzĩanĩ, ĩndĩ angĩ matũla mbonge syĩ matũ kuma mĩũndanĩ.
+9  Na ala maĩ mbee wake na ala mamũatĩĩe maneenaa na wasya mũnene, makyasya: “Mũtangĩĩe, nĩtũũvoya! Nĩmũathime ũla wũkĩte ĩsyĩtwanĩ ya Yeova!
+10  Ũsumbĩ ũla wũkĩte wa ĩthe witũ Ndaviti nĩmũathime! Mũtangĩĩe, nĩtũũvoya, ku ĩũlũ mũno!”
+11  Na athi Yelusaleme na alika ĩkalũnĩ, na asisya syĩndũ syonthe, ĩndĩ nũndũ kwaĩ kũnambĩĩa kũtuka, aumaala athi Vethania e na ala Ĩkũmi na Elĩ.
+12  Na ũnĩ wake, maumĩte Vethania, eew’a nzaa.
+13  Na e vaasa, oona mũkũyũ wĩ na matũ na athi vo asisye kana nũkwĩthĩa wĩ na kĩndũ. Ĩndĩ yĩla wavikie vo, ndaaĩthĩa wĩ na kĩndũ ate o matũ, nũndũ yĩyaĩ ĩvinda ya makũyũ.
+14  Kwoou awĩa: “Vaiĩ mũndũ ũkaya matunda kuma vala ũĩ ĩngĩ o na ĩndĩĩ.” Na amanyĩw’a make nĩmeethukĩĩsye.
+15  Na ĩndĩ mavika Yelusaleme. Na alika ĩkalũnĩ na ambĩĩa kũkuthũa onthe ala mathooasya na kũthooa ĩkalũnĩ, na ang’uthũlanga mesa sya ala mavunzasya mbesa na ivĩla sya ala mathooasya mavũĩ,
+16  na ndaaĩtĩkĩlya mũndũ o na ũmwe avĩtĩlye mũio ĩkalũnĩ.
+17  Amanyĩasya, akĩmea: “Kũiandĩkĩtwe, ‘Nyũmba yakwa ĩkeetwa nyũmba ya mboya kwondũ wa mbaĩ syonthe’? Ĩndĩ inyw’ĩ mũmĩtw’ĩte ngunga ya avutani.”
+18  Na anene ma athembi na aandĩki meew’a ũu, na mambĩĩa kũmantha ũndũ meũmũaa; nũndũ nĩmamũkĩaa, nĩkwĩthĩwa ĩkomano yonthe nĩyaseng’iw’e nĩ ũndũ wamanyĩasya.
+19  Na kwavika mawĩoo, mathi nza wa ndũa.
+20  Ĩndĩ kwakya tene mavĩtĩte, moona ũla mũkũyũ wĩ mũmũ nginya mĩi.
+21  Na Vetelo aũlilikana na amwĩa: “Lavai, sisya! ũla mũkũyũ ũnaumanĩie nĩwũmie.”
+22  Nake Yesũ amasũngĩa, amea: “Mũĩkĩĩei Ngai.
+23  Nĩ w’o nĩngũmwĩa kana mũndũ o na wĩva ũla ũkea kĩĩma kĩĩ, ‘Ũkĩla ũkalike ũkanganĩ,’ na ayĩthĩwa ate na nzika ngoonĩ yake, ĩndĩ e na mũĩkĩĩo kana ũndũ ũla waweta nũkwĩkĩka, ũu ũkeekĩka.
+24  Kĩu nĩkyo kĩtumi ngũmwĩa kana syĩndũ syonthe ila mwĩvoya na kwĩtya, ĩthĩwai na mũĩkĩĩo kana nĩmũikwatĩte, na mũkeethĩwa nasyo.
+25  Na yĩla mwaũngama mũivoya, ekeai mavĩtyo o na meva ala mũndũ ũtonya kwĩthĩwa amũvĩtĩsye, nĩ kana Ĩthe wenyu ũla wĩ ĩtunĩ o nake amũekee mavĩtyo menyu.”
+26  ——
+27  Na mavika ĩngĩ Yelusaleme. Na avĩtĩle ĩkalũnĩ, anene ma athembi na aandĩki na atumĩa mooka,
+28  na mamũkũlya: “Wĩkaa maũndũ aa na ũkũmũ mwaũ? Kana nũũ ũkũnengete ũkũmũ wa kwĩka maũndũ aa?”
+29  Nake Yesũ amea: “Nĩmũkũlya ĩkũlyo yĩmwe. Nzũngĩei, na nĩngũmũtavya nĩkaa maũndũ aa na ũkũmũ mwaũ.
+30  Ũvatiso wa Yoana waumĩte ĩtunĩ kana waumĩte kwa andũ? Nzũngĩei.”
+31  Na mambĩĩa kũneenany’a ene kwa ene, makyasya: “Twasya, ‘Waumĩte ĩtunĩ,’ etũkũlya, ‘Nĩkĩ mũtaamũĩkĩĩa?’
+32  Ĩndĩ twasya, ‘Waumĩte kwa andũ,’ vethi ata?” Makĩaa kwasya ũu nũndũ ĩkomano yonthe yaĩkĩĩaa kana Yoana kwa w’o aĩ mwathani.
+33  Kwoou mamũsũngĩa Yesũ, mamwĩa: “Tũyĩsĩ.” Nake Yesũ amea: “O nakwa ndimũtavya nĩkaa maũndũ aa na ũkũmũ mwaũ.”
+8  Mĩthenyanĩ ĩsu, ĩkomano ĩnene ya andũ nĩyoombanie ĩngĩ, na mayaĩ na kĩndũ maya. Kwoou eeta amanyĩw’a make, na amea:
+2  “Nĩngũmew’ĩa tei andũ aa nũndũ yu mekalĩte nakwa mĩthenya ĩtatũ na mai na kĩndũ maya.
+3  Na namombũũkya menũke mayĩw’a nzaa, nĩmeũvalũka nzĩanĩ, na amwe moo maumĩte kũasa mũno.”
+4  Ĩndĩ amanyĩw’a make mamũkũlya: “Mũndũ atonya kumya va mĩkate ĩanĩtye kũvũny’a andũ aa onthe, na vandũ vaa vaitwĩe andũ?”
+5  Nake amakũlya: “Mwĩ na mĩkate yĩana ata?” Namo mamwĩa: “Mũonza.”
+6  Nake ayĩa ĩkomano yĩkale nthĩ. Na ĩndĩ oosa ĩla mĩkate mũonza, atũnga mũvea, amĩtilanga, na ambĩĩa kũmanenga amanyĩw’a make, namo maaĩa ĩkomano.
+7  O na maĩ na tũkũyũ tũte twingĩ, natw’o atũathima na amea maaĩe ĩkomano.
+8  Kwoou maya na mavũna, na moosany’a tũlungu tũla twatialĩte mausũsya ikavũ mũonza nene.
+9  Vaĩ aũme ta 4,000. Na ĩndĩ amombũũkya.
+10  Na vau kwa vau alika ĩsiwanĩ vamwe na amanyĩwa make na mathi kĩsionĩ kya Ndalimanutha.
+11  Na Avalisi mooka kũu na mambĩĩa kũneenany’a nake, maimwĩa meenda amony’e kyama kuma ĩtunĩ, nĩ kana mamũtate.
+12  Kwoou avevũũka mũno vevanĩ wake na asya: “Nĩkĩ nzyawa ĩno ĩkwenda kwonw’a kyama? Nĩ w’o nĩngũmwĩa, vaiĩ kyama kĩkonw’a nzyawa ĩno.”
+13  Amina kũneena ũu amatia, alika ĩsiwanĩ ĩngĩ, na ainga mũingo ũla ũngĩ wa ũkanga.
+14  Ĩndĩ moolwa nĩ kũkua mĩkate, na mayaĩ na kĩndũ ĩsiwanĩ ate o mũkate ũmwe.
+15  Na amakany’a ateũmavitha kĩndũ, akĩmea: “Ĩkalai mwĩ metho; ĩsũvĩanei na ĩlawa ya Avalisi na ĩlawa ya Elote.”
+16  Kwoou mambĩĩa kũkũlany’a ene kwa ene nĩkĩ matanakua mĩkate.
+17  Amanya ũu, amea: “Nĩkĩ mũũkũlany’a ĩũlũ wa kwĩthĩwa mũte na mĩkate? O na yu mũiũmanya kana kũelewa? O na yu mũi na ũmanyi ngoonĩ syenyu?
+18  ‘O na kau mwĩ na metho, nũndũ mũteona; o na kau mwĩ na matũ, nũndũ mũteĩw’a?’ No mũũlilikana
+19  yĩla natilangile ĩla mĩkate ĩtano kwondũ wa aũme 5,000, mwoosanisye tũlungu mwausũsya ikavũ siana ata?” Mamwĩa: “Ĩkũmi na ilĩ.”
+20  “Yĩla natilangile mĩkate mũonza kwondũ wa aũme 4,000, mwoosanisye tũlungu mwausũsya ikavũ siana ata nene?” Namo mamwĩa: “Mũonza.”
+21  Nake amea: “O na yu mũikũelewa?”
+22  Na mavika Vethisaita. Na kũu andũ mamũetee mũndũ waĩ kĩlalinda, na mamwĩsũva amũkiite.
+23  Na amũkwata ũla mũndũ kĩlalinda kw’oko na amũtwaa nza wa ũtũi. Ĩtina wa kũmũtw’ĩla mata metho, amwilĩĩla moko na amũkũlya: “Nũkwona kĩndũ?”
+24  Na mũndũ ũsu ookĩlya metho na asya: “Nĩngwona andũ namo mailye ta mĩtĩ, ĩndĩ nĩmeũthi.”
+25  Na Yesũ ailĩĩla moko ĩngĩ methonĩ ma mũndũ ũsu, na avow’a, na ambĩĩa kwona nesa.
+26  Na kwoou amwĩaĩa enũke, akĩmwĩa: “Ndũkalike ũtũinĩ ũũ.”
+27  Na Yesũ vamwe na amanyĩw’a make mauma motũinĩ ma Kaisalea ya Vilivu, na me nzĩanĩ ambĩĩa kũmakũlya amanyĩw’a make atĩĩ: “Andũ measya ninyie ũũ?”
+28  Namo mamwĩa: “Yoana Mũvatisi, ĩndĩ angĩ measya Eliya, namo angĩ measya, ũmwe wa athani.”
+29  Nake amakũlya: “Inyw’ĩ nenyu mwĩasya ninyie ũũ?” Vetelo amũsũngĩa, amwĩa: “We nue Klĩsto.”
+30  Nake Yesũ ameaĩa kwa ũito maikatavye mũndũ o na ũmwe ĩũlũ wake.
+31  O na ĩngĩ, ambĩĩa kũmatavya kana no nginya Mwana wa mũndũ akwatwe nĩ mathĩna maingĩ na ailewa nĩ atumĩa na anene ma athembi na aandĩki na ayũawa, na ĩtina wa mĩthenya ĩtatũ aithayũũka.
+32  Yesũ aneenaa ndeto isu ũtheinĩ. Ĩndĩ Vetelo amwosa na amũtwaa vandũ ũtee na ambĩĩa kũmũkany’a.
+33  Nake eethyũũa, asisya amanyĩw’a make, na amũkany’a Vetelo, akĩmwĩa: “Thi ĩtina wakwa, Satani! nũndũ mosũanĩo maku nĩ ma andũ, ĩndĩ ti ma Ngai.”
+34  Na ayĩta ĩkomano vamwe na amanyĩw’a make, na amea: “Ethĩwa mũndũ o na wĩva nũkwenda kũngatĩĩa, nĩ elee mwene, na aikua mũtĩ wake wa mathĩna na ayĩendeea kũngatĩĩa.
+35  Nũndũ mũndũ o na wĩva ũla wendaa kũtangĩĩa thayũ wake akawasya, ĩndĩ mũndũ o na wĩva ũla waasya thayũ wake kwondũ wakwa na kwondũ wa ũvoo mũseo akaũtangĩĩa.
+36  Kwa w’o, mũndũ atonya kũunĩka ata akakwata nthĩ yonthe ĩndĩ ayasya thayũ wake?
+37  We mũndũ, kwa w’o, atonya kũnengane kyaũ atũngĩwe thayũ wake?
+38  Nũndũ mũndũ o na wĩva ũla ũkambĩw’ĩa nthoni kana ew’ĩe nthoni ndeto syakwa nzyawanĩ ĩno ya ũlaalai na yĩ na naĩ, Mwana wa mũndũ o nake akamwĩw’ĩa nthoni yĩla wĩũka vamwe na alaĩka atheu ũtheunĩ mũtisu wa Asa wake.”
+16  Na mũthenya wa Savato wathela, Meli Makatalene, Meli inyia wa Yakovo, na Salome mathooa syĩndũ syĩ mũuke mũseo nĩ kana mathi kũvaka mwĩĩ wa Yesũ.
+2  Na kwakya tene, mũthenya wa mbee wa kyumwa, mathi mavika mbũanĩ syũa yĩyuma.
+3  Na makũlanasya atĩĩ: “Nũũ ũkũtũvingilitĩlya ĩvia kuma mũomonĩ wa mbũa?”
+4  Ĩndĩ yĩla masyaisye ĩũlũ, meethĩa ĩvia nĩyĩvingilitilw’e yavetwa, o na kau yaĩ ĩnene mũno.
+5  Yĩla malikile mbũanĩ, nĩmoonie mwanake ekalĩte ngalĩ ya kw’oko kwa aũme, ekĩĩte kanzũ nzaũ, na maseng’a.
+6  Nake amea: “Mũikaseng’e. Mwĩmantha Yesũ Mũnasaleti ũla ũnooaĩwe mũtĩnĩ. Nũthayũũkiw’e. Nde vaa. Sisyai, vaa nĩ vo manamwiĩte.
+7  Ĩndĩ endai mũkatavye amanyĩw’a make na Vetelo, mũimea, ‘E nzĩanĩ aendete Kalilii. Mwĩmwĩthĩa kũu, o tondũ wamũtavisye.’”
+8  Kwoou yĩla maumaalile, masemba kuma mbũanĩ, matetemete na maseng’ete mũno. Na mayaatavya mũndũ o na ũmwe, nũndũ nĩmakĩaa.
+9  O na ĩngĩ amea: “Nĩ w’o nĩngũmwĩa kana ve amwe maũngamĩte vaa matakasama kĩkw’ũ nongi nginya mambe kwona Ũsumbĩ wa Ngai ũsumbĩkĩte wĩ na vinya.”
+2  Na mĩthenya thanthatũ ĩtina wa vau, Yesũ oosa Vetelo, Yakovo, na Yoana na ambata namo me oka kĩĩmanĩ kĩtũlu. Na mũvw’ano wake waalyũka e vamwe namo;
+3  na ngũa syake sya ĩũlũ syambĩĩa kũkengakenga, na syeethĩwa syĩ nzaũ mũno kũvĩtũka ũndũ mũvũi wa ngũa o na wĩva ĩũlũ wa nthĩ ũtonya kũivũa ikeũva.
+4  Na Eliya na Mose mamaumĩlĩla, namo nĩmaneenaa na Yesũ.
+5  Nĩvo ĩndĩ Vetelo wamwĩie Yesũ: “Lavai, nũseo kwitũ kwĩthĩwa vaa. Kwoou eka twambe maeema atatũ, yĩmwe yaku, yĩngĩ ya Mose, na yĩngĩ ya Eliya.”
+6  Kwa w’o, o na ndeesĩ atonya kwasya ata, nũndũ maĩ na wia mwingĩ.
+7  Na ĩtu yooka na yamavw’ĩka, na wasya wauma ĩtunĩ yĩu, ũkyasya: “Ũũ nĩwe Mwana wakwa mwendwa. Mwĩw’ei we.”
+8  Na o mĩtũkĩ masisya ngalĩko syonthe na mayaaona mũndũ ũngĩ vamwe namo, ate o Yesũ.
+9  Na matheeete kuma kĩĩmanĩ, nĩwameaĩe kwa ũito maikatavye mũndũ o na ũmwe ĩũlũ wa maũndũ ala moona nginya ĩtina wa kũthayũũka kwa Mwana wa mũndũ.
+10  Nĩmeekĩie ndeto isu ngoonĩ syoo, ĩndĩ makũlany’a ene kwa ene kĩla kyoonanaw’a nĩ kũthayũũka kwake.
+11  Na mambĩĩa kũmũkũlya, makyasya: “Nĩkĩ aandĩki maasya kana no nginya Eliya ambe kũka?”
+12  Nake amea: “Eliya nĩwe waĩ ambe kũka na kũtũngĩĩa maũndũ onthe; ĩndĩ ũu ũkonanĩtye ata na ũndũ kũandĩkĩtwe ĩũlũ wa Mwana wa mũndũ kana no nginya akwatwe nĩ mathĩna maingĩ na aivũthw’a?
+13  Ĩndĩ nĩngũmwĩa kana, kwa w’o, Eliya nĩwookie na mamwĩka maũndũ o na meva ala mendaa, o tondũ kũandĩkĩtwe ĩũlũ wake.”
+14  Na yĩla mookie vala vaĩ amanyĩw’a ala angĩ, nĩmoonie ĩkomano ĩnene yĩmathyũlũlũkĩte na vaĩ aandĩki maneenanasya namo.
+15  Ĩndĩ ĩkomano yonthe yamwona oou, yaseng’a mũno na yasemba vala ũĩ yĩmũkethye.
+16  Kwoou ayĩkũlya: “Mwĩneenanĩasya kyaũ namo?”
+17  Na mũndũ ũmwe waĩ ĩkomanonĩ yĩu amũsũngĩa, amwĩa: “Mũmanyĩsya, nĩngũeteie mwana wakwa nũndũ e na veva ũtumaa ataneena.
+18  Yĩla veva ũsu wamũkwata, nũmũvalũkasya nthĩ na ayumwa nĩ ĩvũyũ kanyw’anĩ, aivevetany’a maeo, na aithela vinya. Nĩnĩmakũlilye amanyĩw’a maku mawumye, ĩndĩ mainatonya kwĩka ũu.”
+19  Nake amasũngĩa, amea: “Inyw’ĩ nzyawa ĩte na mũĩkĩĩo, ngaendeea kwĩthĩwa nenyu ĩvinda yĩana ata? Nĩendeea kũmũmĩĩsya nginya ĩndĩĩ? Mũetei vaa nĩĩ.”
+20  Kwoou mamũetee kamwana kau, ĩndĩ yĩla veva ũsu wamwonie, vau kwa vau wambĩĩa kũkathingithangya mũno. Na kavalũka nthĩ, na kaendeea kwiliita kaumĩtwe nĩ ĩvũyũ kanyw’anĩ.
+21  Nĩvo ĩndĩ Yesũ wakũlilye ĩthe wako: “Kethĩĩtwe kaikwatwa nĩ ũndũ ũũ kwa ĩvinda yĩana ata?” Nake asya: “Kuma ke o kana kanini,
+22  na mavinda maingĩ nũkekasya mwakinĩ o na kĩw’ũnĩ nĩ kana ũkoae. Ĩndĩ ethĩwa nũtonya kwĩka ũndũ, twĩw’ĩe tei na ũitũtetheesya.”
+23  Yesũ amwĩa: “Atĩ wĩasya, ‘Ethĩwa nũtonya’! Maũndũ onthe nĩmatonyeka kwa ũla wĩ na mũĩkĩĩo.”
+24  Na vau kwa vau ĩthe wa kana kau aneena na wasya mũnene na amwĩa: “Nĩ na mũĩkĩĩo! Ndetheesye vala nde na mũĩkĩĩo!”
+25  Na yĩla Yesũ woonie kana ĩkomano nĩyeekalaatĩte yũkĩte vala maĩ, akany’a ũla veva mũvuku na awĩa: “We veva ũtumaa mũndũ ataneena na atew’a, nĩngũkwĩaĩa, uma nthĩnĩ wako na ndũkaakalike ĩngĩ!”
+26  Ĩtina wa veva ũsu kũkaya na wasya mũnene na kũthingithangya kana kau mavinda maingĩ, wauma na kekala ta kakw’ũ, kwoou andũ aingĩ mambĩĩa kwasya: “Nĩ kakw’ũ!”
+27  Ĩndĩ Yesũ akakwata kw’oko akokĩlya, nako kaũngama.
+28  Na yĩla walikile nyũmba, amanyĩw’a make mamũkũlya ũũ vate andũ angĩ: “Nĩkĩ tũemiwe nĩ kũwumya?”
+29  Nake amea: “Veva wa mũthemba ũũ ũtonya kumw’a kwĩsĩla o mboya.”
+30  Na mauma vau mathi na mavĩtĩla Kalilii, ĩndĩ ndendaa mũndũ o na ũmwe amanye ĩũlũ wa ũndũ ũsu.
+31  Nũndũ nĩwamanyĩasya amanyĩw’a make na kũmea: “Mwana wa mũndũ nũkũvũnyanĩwa kũla kwĩ andũ, namo makamũaa, ĩndĩ o na ooawa, akathayũũka ĩtina wa mĩthenya ĩtatũ.”
+32  Ĩndĩ mayaaelewa ndeto syake, na nĩmakĩaa kũmũkũlya.
+33  Na mavika Kavelinaumi. Na e nyũmba nthĩnĩ, amakũlya atĩĩ: “Mwĩneenanĩasya kyaũ nzĩanĩ?”
+34  Namo makilya, nũndũ me nzĩanĩ nĩmaneenanasya ene kwa ene maikũlany’a nũũ ũla mũnene katĩ woo.
+35  Kwoou ekala nthĩ na ameta ala Ĩkũmi na Elĩ, na amea: “Ethĩwa mũndũ o na wĩva nũkwenda kwĩthĩwa e mbee, no nginya ethĩwe e ĩtina wa onthe, na mũthũkũmi wa onthe.”
+36  Na ĩndĩ oosa kana kanini, akaũngamya katĩ woo; na akailĩĩla moko ituonĩ, na amea:
+37  “Mũndũ o na wĩva ũla ũthokasya kamwe ka syana nini ta kaa ĩsyĩtwanĩ yakwa, anthokasya nyie; na mũndũ o na wĩva ũla ũnthokasya ndanthokasya nĩ nyioka, ĩndĩ anthokasya vamwe na Ũla wandũmie.”
+38  Yoana amwĩa: “Mũmanyĩsya, nĩtwonie mũndũ ũkumasya ndaimoni aitũmĩa ĩsyĩtwa yaku, na twatata kũmũsiĩĩa, nũndũ ti ũmwe witũ.”
+39  Ĩndĩ Yesũ asya: “Mũikatate kũmũsiĩĩa, nũndũ vaiĩ mũndũ wĩka kyama kĩnene ĩsyĩtwanĩ yakwa na ĩtina wa ũu ayambĩĩa kũneena naĩ ĩũlũ wakwa.
+40  Nũndũ mũndũ o na wĩva ũla ũteũleana naitũ e ngalĩko yitũ.
+41  Na mũndũ o na wĩva ũla ũmũnengae kĩkombe kya kĩw’ũ mũnyw’e nũndũ mwĩ ma Klĩsto, nĩmũtavya w’o, ndakasya ĩtuvi yake nongi.
+42  Ĩndĩ mũndũ o na wĩva ũla ũlulutĩkasya kamwe ka tũũ tũnini twĩ na mũĩkĩĩo, nĩ kavaa akoveewa ngingonĩ ĩvia ya kũthia yĩla yĩthyũũkaw’a nĩ ĩng’oi na ayĩkw’a ũkanganĩ.
+43  “Na ethĩwa kw’oko kwaku nĩkũũtuma ũlulutĩka, kũtile. Nĩ kavaa ũkakwata thayũ ũte na kw’oko kũmwe kwĩ kũlika na moko elĩ Ngienanĩ, mwakinĩ ũtatonya kũvow’a.
+44  ——
+45  Na ethĩwa kũũ kwaku nĩkũũtuma ũlulutĩka, kũtile. Nĩ kavaa ũkakwata thayũ ũte na kũũ kũmwe kwĩ kwĩkw’a na maaũ elĩ Ngienanĩ.
+46  ——
+47  Na ethĩwa itho yaku nĩyĩũtuma ũlulutĩka, yĩkye kũasa. Nĩ kavaa kũlika Ũsumbĩnĩ wa Ngai wĩ na itho yĩmwe kwĩ kwĩkw’a wĩ na metho elĩ Ngienanĩ,
+48  vala kĩinyũ kĩtakusaa na mwaki ũtavoaw’a.
+49  “Nũndũ no nginya mwaki wĩĩtĩkĩw’a andũ ta asu, o tondũ mũndũ wĩtĩkasya mũnyũ.
+50  Mũnyũ nĩ mũseo, ĩndĩ mũnyũ waasya mũsamo, ũtonya kũtũngĩĩwa mũsamo waw’o ata? Ĩthĩwai na mũnyũ nthĩnĩ wenyu, na mũyĩthĩwa na mũuo katĩ wenyu.”
+7  Na Avalisi na amwe ma aandĩki kuma Yelusaleme moombana mamũthyũlũlũkĩte.
+2  Na moona amwe ma amanyĩw’a make makĩya lĩu woo me na moko mavuku, na ũu nĩ kwasya, matathambĩte moko.
+3  (Nũndũ Avalisi na Ayuti onthe mayĩĩsaa matathambĩte moko nginya kĩngokoanĩ, maatĩĩe syĩthĩo sya andũ ma tene,
+4  na mauma sokonĩ, mayĩĩsaa matathambĩte. O na ve syĩthĩo ingĩ mbingĩ matiĩwe na maatĩĩaa, ta kũvatisa ikombe, ngyaki, na mĩio ya ũthuku.)
+5   Kwoou, Avalisi na aandĩki asu mamũkũlya atĩĩ: “Nĩkĩ amanyĩw’a maku mataatĩĩaa syĩthĩo sya andũ ma tene, ĩndĩ maĩsaa lĩu woo na moko mavuku?”
+6  Nake amea: “Isaia nĩwathanie nesa ĩũlũ wenyu angangany’a, o tondũ kũandĩkĩtwe: ‘Andũ aa mandaĩaa na ilomo syoo, ĩndĩ ngoo syoo syĩ vaasa mũno nakwa.
+7  Manthaithaa mana, nũndũ mamanyĩasya mĩao ya andũ tayo momanyĩsyo makwa.’
+8  Nĩmũekanaa na mĩao ya Ngai na mũyĩatĩĩa syĩthĩo sya andũ.”
+9  O na ĩngĩ amea: “Nĩmũleaa na maũĩ kũkwata mĩao ya Ngai nĩ kana mũkwate syĩthĩo syenyu.
+10  Kwa ngelekany’o, Mose aisye, ‘Nenga ndaĩa ĩthe waku na inyia waku,’ na, ‘Ũla ũmũtavasya naĩ ĩthe kana inyia nĩoawe.’
+11  Ĩndĩ inyw’ĩ mwaasya atĩĩ, ‘Ethĩwa mũndũ akatavya ĩthe wake kana inyia wake ũũ: “Kyonthe kĩla nĩ nakyo kĩtonya kũũtethya nĩ kolivani (ũalyũlo wayo nĩ, kĩndũ kyumĩtw’e kĩthĩwe mũthĩnzĩo kwa Ngai),”’
+12  mũimwĩtĩkĩlasya kwĩka ũndũ o na ũmwe kwondũ wa ĩthe wake kana inyia wake.
+13  Kwondũ wa ũu nĩmwanangĩte ndeto ya Ngai nũndũ wa syĩthĩo syenyu ila mũtianĩaa. O na nĩmwĩkaa maũndũ maingĩ ta asu.”
+14  Na ĩndĩ amina kwĩta ĩngĩ ĩkomano vala waĩ, ayĩa: “Mbĩthukĩĩsyei inyw’onthe, na mũyĩelewa.
+15  Vaiĩ kĩndũ kyumaa nza kĩkalika nthĩnĩ wa mũndũ kĩtonya kũmũvukya; ĩndĩ syĩndũ ila syumaa nthĩnĩ wa mũndũ nĩsyo imũvukasya.”
+16  ——
+17  Yĩla watiie ĩkomano nĩwalikile nyũmba, na amanyĩw’a make mambĩĩa kũmũkũlya ĩũlũ wa ngelekany’o ĩsu.
+18  Kwoou amea: “Nũndũ o nenyu mũte na ũmanyi tamo? Mũyĩsĩ kana vaiĩ kĩndũ kyumaa nza kĩkalika mũndũnĩ kĩtonya kũmũvukya,
+19  nũndũ kĩilikaa ngoonĩ yake, ĩndĩ kĩlikaa ĩvunĩ yake na kĩivĩta kĩilika kyoonĩ?” Kwa kwasya ũu, oonanisye kana malĩu onthe nĩ matheu.
+20  Na asyoka asya: “Kĩla kyumaa mũndũnĩ nĩkyo kĩmũvukasya.
+21  Nũndũ kuma nthĩnĩ wa ngoo sya andũ, nĩ vo vaumaa mosũanĩo mathũku: ũlaalai, ũng’ei, ũaani,
+22  ũthaaa, ĩtomo, meko mathũku, ũkengani, kwĩka maũndũ mavuku na ngũlũ, itho yĩ na kĩwĩu, kũuma Ngai, mĩng’athĩlĩĩlyo, na maũndũ matosanĩte na kĩlĩko.
+23  Maũndũ asu onthe mathũku maumaa nthĩnĩ wa mũndũ na nĩmo mavukasya mũndũ.”
+24  Na ookĩla auma vau na athi kĩsio kya Tile na Sitoni. Na e kũu alika nyũmbanĩ na ndendaa mũndũ o na ũmwe amanye, ĩndĩ ndaatonya kũsiĩĩa andũ maikamanye.
+25  Na o mĩtũkĩ, mũndũ mũka ũmwe waĩ na kelĩtu kalikĩtwe nĩ veva mũvuku eew’a ũvoo ĩũlũ wake, ooka na avalũka maaũnĩ make.
+26  Mũndũ mũka ũsu aĩ Mũkiliki wekalaa nthĩ ya Silovonike, na nĩwamwĩsũvie Yesũ mavinda maingĩ aumye ndaimoni ĩla yalikĩte kelĩtunĩ kake.
+27  Ĩndĩ amwĩa: “Amba kũeka syana ivũne, nũndũ ti ũseo kwosa mũkate wa syana na kwĩkĩsya tũkitĩ.”
+28  Ĩndĩ amũsũngĩa, amwĩa: “Nĩ w’o Mwĩaĩi, ĩndĩ o na tũkitĩ tũla twĩ ungu wa mesa nĩtũĩsaa tũtilĩkango tũla twavalũkangw’a nĩ syana nini.”
+29  Nake amwĩa: “Nũndũ nĩwasya ũu, enda; ndaimoni ĩsu nĩyauma kelĩtunĩ kaku.”
+30  Kwoou enũka, na eethĩa kana kau kakomete kĩtandanĩ, ndaimoni yumie.
+31  Yĩla Yesũ wasyokie kuma kĩsionĩ kya Tile, nĩwavĩtĩile Sitoni athi nginya Ũkanganĩ wa Kalilii, esĩle kĩsionĩ kya Ndekavoli.
+32  Na mamũetee mũndũ mwau matũ na waĩ na thĩna wa kwĩthĩwa atatonya kũneena nesa, na mamwĩsũva amwilĩĩle moko.
+33  Na amũtwaa ũtee, vaasa na ĩkomano. Na ĩndĩ eekĩa syaa syake matũnĩ ma mũndũ ũsu, na ĩtina wa kũtw’ĩla mata, akiita ũĩmĩ wake.
+34  Na asisya ĩtunĩ, avevũũka, na amwĩa: “Evavatha,” ũalyũlo wayo nĩ, “Vingũka.”
+35  Ĩtina wa ũu, matũ make mavingũka, na thĩna wake wa kwĩthĩwa atatonya kũneena nesa wathela, na ambĩĩa kũneena nesa.
+36  Amina ũu, ameaĩa maikatavye mũndũ, ĩndĩ o ũndũ wameaĩaa mũno wĩana, now’o manyaĩĩkasya ũvoo ũsu.
+37  Kwa w’o, maseng’ie mũno vyũ na masya: “Ekaa maũndũ onthe nesa. O na nũtumaa ala matew’aa nthĩ mew’a, na ala mataneenaa maneena.”
+6  Na auma vau athi kĩsionĩ kya kwoo, na amanyĩw’a make maendany’a nake.
+2  Na mũthenya wa Savato, ambĩĩa kũmanyĩsya ĩsinakokenĩ, na aingĩ ala mamwĩwie maseng’a na makũlya: “Mũndũ ũũ aumĩtye maũndũ aa va? Na nĩkĩ ũnengetwe ũĩ ũũ na syama ii ikwĩkĩka kwĩsĩla moko make?
+3  Ũũ nĩ ũla vundi wa mbwaũ, mwana wa Meli, na ana-a-inyia make nĩ Yakovo, Yosevu, Yutasi, na Simoni, kana ti w’o? Na eĩtu-a-inyia make twĩ namo, kana tũi namo?” Na kwoou mambĩĩa kũlulutĩka nũndũ wake.
+4  Ĩndĩ Yesũ amea: “Mwathani ethĩawa anengetwe ndaĩa, ate o kĩsionĩ kya kwoo na katĩ wa andũ make ma mũsyĩ na nyũmbanĩ yake mwene.”
+5  Kwoou ndaatonya kwĩka syama vau, eka o kwilĩĩla moko andũ anini ala maĩ awau na kũmavosya.
+6  Kwa w’o, nĩwaseng’ie oona mate na mũĩkĩĩo. Na athyũlũlũka motũinĩ akĩmanyĩsya.
+7  Na ameta ala Ĩkũmi na Elĩ ambĩĩa kũmatũma elĩ elĩ, na amanenga ũkũmũ ĩũlũ wa maveva mavuku.
+8  Na ameaĩa maikakue kĩndũ kwondũ wa kyalo ate o ndata—maikakue mĩkate, mũvuko wa lĩu, kana mbesa mĩsivinĩ yoo ya kwĩkĩa mbesa—
+9  ĩndĩ mekĩe iatũ na maikekĩe ngũa kũndũ kwĩlĩ.
+10  O na ĩngĩ amea: “Mũsyĩ o na wĩva ũla mwĩlika, ĩkalai vau nginya yĩla mwĩuma kũu.
+11  Na vandũ o na va vala mũteũthokw’a kana kwĩthukĩĩw’a, mũyuma vau, tuangai kĩtoo kĩla kĩ maaũnĩ menyu nĩ kana ũu wĩthĩwe ũkũsĩ kwoo.”
+12  Kwoou mathi na matavany’a kana andũ nĩmaĩle kwĩlila,
+13  na maumya ndaimoni mbingĩ, na mamavaka mauta andũ aingĩ ala maĩ awau na mamavosya.
+14  Na Mũsumbĩ Elote eew’a ũndũ ũsu, nũndũ ĩsyĩtwa ya Yesũ nĩyamanyĩkĩte mũno, na andũ maasya: “Yoana Mũvatisi nũnathayũũkiw’e, na nĩkyo kĩtumi ũkwĩka syama.”
+15  Ĩndĩ angĩ maasya: “Nĩ Eliya.” Na angĩ makasya: “Nĩ mwathani o ta ũmwe wa athani ma tene.”
+16  Ĩndĩ Elote eew’a ũu, asya: “Yoana ũla nĩnatilile mũtwe, ũsu nũnathayũũkiw’e.”
+17  Nĩkwĩthĩwa Elote mwene nĩwatũmanĩte Yoana akakwatwa na akamwova yela nũndũ wa Elotia, mũka wa Vilivu mwana-a-ĩthe, nĩkwĩthĩwa nĩwamũtwaĩte.
+18  Na Yoana nĩwamwĩaa Elote: “Ti ũndũ wosanĩte na mĩao kwosa mũka wa mwana-a-au.”
+19  Kwoou Elotia nĩwamwĩw’ĩaa woo ngoonĩ na nĩwendaa kũmũaa, ĩndĩ ndaĩ atonya.
+20  Nũndũ Elote nĩwakĩaa Yoana, akĩmanya kana aĩ mũndũ mũlũngalu na mũtheu, na nĩwamũsũvĩaa. Ĩtina wa kũmwĩthukĩĩsya, ndeesĩ ũndũ ũtonya kwĩka, ĩndĩ nĩwaendeeie kũmwĩthukĩĩsya na ũtanu.
+21  Ĩndĩ ĩvinda yĩla yaaĩlĩte nĩyavikie, na waĩ mũthenya wa kũsyawa kwa Elote, na ũ Elote avangĩthya kwĩthĩwe lĩu wa wĩoo kwondũ wa andũ make anene, anene ma ita, na andũ me nguma mũno ma Kalilii.
+22  Na mwĩĩtu wa Elotia ooka asũnga na endeesya Elote na ala maĩsaa nake. Kwoou mũsumbĩ amwĩa mwĩĩtu ũsu: “Mbĩtye kĩla ũkwenda, na nĩngũũnenga.”
+23  Ĩĩ, amwĩvĩtĩa atĩĩ: “Kĩndũ o na kĩva kĩla ũũmbĩtya nĩngũũnenga, o na ethĩwa nĩ nusu ya ũsumbĩ wakwa.”
+24  Kwoou aumaala na akũlya inyia wake: “Naĩle kũmwĩtya kyaũ?” Nake amwĩa: “Mũtwe wa Yoana Mũvatisi.”
+25  Na vau kwa vau athi na mĩtũkĩ kũla kwĩ mũsumbĩ na amwĩtya, akyasya: “Nĩenda ũnenge oyu mũtwe wa Yoana Mũvatisi wĩ ĩsaaninĩ.”
+26  O na kau ũndũ ũsu nĩwatumie mũsumbĩ akwatwa nĩ kyeva kingĩ, ndaĩ atonya kũlea, nũndũ wa mawĩvĩto make na nũndũ wa aeni make.
+27  Na vau kwa vau mũsumbĩ atũma mũsungi na amwĩaĩa aete mũtwe wa Yoana. Kwoou athi na amũtila mũtwe e yela
+28  na aete mũtwe wake wĩ ĩsaaninĩ. Na aũnenga ũla mwĩĩtu, nake mwĩĩtu anenga inyia wake.
+29  Yĩla amanyĩw’a make meewie ũndũ ũsu, mooka na moosa mwĩĩ wake na maũthika mbũanĩ.
+30  Na atũmwa moombana mamũthyũlũlũkĩte Yesũ na mamũtavya maũndũ onthe ala meekĩte na kũmanyĩsya.
+31  Nake amea: “Ũkai, inyw’ĩ, tũthi vandũ vate andũ nĩ kana mũthũmũe vanini.” Nũndũ ve aingĩ ala mookaa na kũthi, na kwoou mayaĩ na ĩvinda ya kũthũmũa o na ya kũya lĩu.
+32  Kwoou mathi malika ĩsiwanĩ nĩ kana mathi vandũ vate andũ makekale me oka.
+33  Ĩndĩ andũ mamona maendete na aingĩ mamanya ũndũ ũsu, na masemba vamwe kuma ndũanĩ syonthe na mavika vo mbee woo.
+34  Na auma ĩsiwanĩ, nĩwoonie ĩkomano ĩnene ya andũ na amew’ĩa tei mũno, nũndũ mailye ta malondu mate na mũĩthi. Na ambĩĩa kũmamanyĩsya maũndũ maingĩ.
+35  Kũvikĩĩa vau kwaĩ kũnambĩĩa kũtuka, na amanyĩw’a make mooka vala ũĩ na mamwĩa: “Vandũ vaa vaitwĩe andũ, na nĩkwambĩĩa kũtuka.
+36  Ũmbũũkya andũ, nĩ kana mathi mĩũndanĩ na motũinĩ ala me vakuvĩ makethooee kĩndũ maye.”
+37  Nake amasũngĩa, amea: “Manengei kĩndũ maye.” Namo meew’a ũu mamũkũlya: “We yu wĩasya tũthi tũkathooe mĩkate ya ndinalĩ 200 tũnenge andũ aa maye?”
+38  Nake amakũlya: “Mwĩ na mĩkate yĩana ata? Endai mũsisye!” Na ĩtina wa kũmanya, mamwĩa: “Ĩtano, na makũyũ elĩ.”
+39  Na ameaĩa andũ onthe mekale nthĩ ikundi ikundi nyekinĩ nziũ.
+40  Kwoou mekala nthĩ me ikundi sya andũ 100 na sya andũ 50.
+41  Na oosa ĩla mĩkate ĩtano na ala makũyũ elĩ, asisya ĩũlũ ĩtunĩ na aiathima. Na ĩndĩ atilanga mĩkate ĩsu na ambĩĩa kũnenga amanyĩw’a make maaĩe andũ, na aany’a ala makũyũ elĩ kwondũ wa andũ onthe.
+42  Na andũ onthe maya mavũna,
+43  na moosany’a tũlungu twa mĩkate tũla twatialĩte mausũsya ikavũ 12, o na nĩmoosanisye makũyũ ala matialĩte.
+44  Ala maĩe mĩkate maĩ aũme 5,000.
+45  Na vate kũselewa, amea amanyĩw’a make malike ĩsiwa maendae mũingo ũla ũngĩ wa ũkanga melekele Vethisaita, nake atiwa ayũmbũũkya ĩkomano.
+46  Na ĩtina wa kũtaanĩsya namo, athi kĩĩmanĩ kũvoya.
+47  Yĩla kwavikie wĩoo, ĩsiwa yaĩ katĩkatĩ wa ũkanga, nake aĩ weka nthĩ nyũmũ.
+48  Kwoou yĩla wamonie maing’ang’ana kũtwaa ĩsiwa, nũndũ kĩseve kyaumĩte ngalĩko ĩla maendete, kũkilye kũkya ooka vala maĩ akinyĩle ũkanganĩ ĩũlũ; ĩndĩ ailye ta ũkwenda kũmavĩtũka.
+49  Yĩla mamwonie akinyĩle ũkanganĩ ĩũlũ, makaya na wasya mũnene, makyasya: “Kĩya nĩ kyaũ kyũkĩte!”
+50  Nũndũ onthe nĩmamwonie na makwatwa nĩ wia. Ĩndĩ vau kwa vau aneena namo, na amea: “Ĩthĩwai na ũkũmbaũ! Ninyie; ekai ũkĩa.”
+51  Nĩvo ĩndĩ walikile ĩsiwanĩ vala maĩ, na kĩseve kyausya. Na moona ũu maseng’a mũno,
+52  nũndũ mayaaelewa nĩ kĩla kyoonanaw’a nĩ ĩla mĩkate, ĩndĩ ngoo syoo syaendeea kwĩthĩwa ite na ũmanyi.
+53  Yĩla maendie mũingo ũla ũngĩ wa ũkanga, mavika Kenesaleti na moova ĩsiwa vau vakuvĩ.
+54  Na mauma ĩsiwanĩ oou, andũ mamũmanya.
+55  Na masemba mathi kĩsionĩ kyonthe, na mambĩlĩlya kũtwaa andũ ala maĩ awau vala meew’a ũĩ, mamakuĩte na mokomo moo.
+56  Na kw’onthe kũla wavika, motũinĩ kana ndũanĩ kana ndee sya ndũa, andũ nĩmaiaa ala awau sokonĩ, na maimwĩsũva nĩ kana o makiite ũtiivo wa ngũa yake ya ĩũlũ. Na onthe ala maũkiitaa nĩmavoaa.
+13  Na aumĩte ĩkalũnĩ, ũmwe wa amanyĩw’a make amwĩa: “Mũmanyĩsya, sisya! Mavia aa na myako ĩno ko nĩ mbanake!”
+2  Ĩndĩ Yesũ amwĩa: “Nũkwona myako ĩno ĩnenevete ũu? Vaiĩ ĩvia yĩkatiwa nongi ĩũlũ wa yĩngĩ yĩla yĩtakaombowa.”
+3  Na ekalĩte Kĩĩmanĩ kya Mĩthata asyaĩtye ĩkalũ, Vetelo, Yakovo, Yoana, na Endelea mamũkũlya ũũ vate andũ angĩ:
+4  “Tũtavye maũndũ aa makeethĩwa ĩndĩĩ, na wonany’o nĩ wĩva wa yĩla maũndũ aa onthe makavikĩa mũminũkĩlyo?”
+5  Na Yesũ ambĩĩa kũmea atĩĩ: “Ĩsũvĩei mũndũ o na wĩva ndakamwasye.
+6  Aingĩ makooka ĩsyĩtwanĩ yakwa, makyasya, ‘Ninyie we,’ na makamasya aingĩ.
+7  O na ĩngĩ, mweew’a ĩũlũ wa makaũ na kũwetangwa kwa makaũ, mũikateleme; no nginya maũndũ asu mekĩke, ĩndĩ mũthya ndũkethĩwa wĩ mũviku.
+8  “Nũndũ mbaĩ ĩkookĩlĩla mbaĩ na ũsumbĩ ũkookĩlĩla ũsumbĩ; na kũkeethĩwa na ithingitho sya nthĩ kũũ na kũũ; o na kũkeethĩwa ũnyivu wa lĩu. Maũndũ asu nĩ mwambĩlĩlyo wa woo.
+9  “Ĩndĩ inyw’ĩ ĩsũvĩei. Andũ makamũnengane kotinĩ, na mũkavũĩwa masinakokenĩ na mũitwawa mbee wa makavana na asumbĩ kwondũ wakwa, nĩ kana mumye ũkũsĩ kwoo.
+10  Na ĩngĩ, no nginya ũvoo mũseo ũtavanw’e mbaĩnĩ syonthe mbee.
+11  Na mamũtwaĩte makamũnengane, mũikavũavũane ĩũlũ wa ũndũ mwĩneena kana kĩla mwĩneena; ĩndĩ kĩla mwĩnengwa saanĩ o ũsu, neenai kĩu, nũndũ ti inyw’ĩ mwĩĩthĩwa mũineena, ĩndĩ nĩ veva mũtheu wĩĩthĩwa ũineena.
+12  O na ĩngĩ, mũndũ akanengane mwana-a-inyia oawe, na ĩthe mwana wake, na syana ikamokĩlĩla asyai masyo na kũmoaĩthya.
+13  Na mũkamenwa nĩ andũ onthe kwondũ wa ĩsyĩtwa yakwa. Ĩndĩ ũla ũkomĩĩsya kũvika mũthya, ũsu akatangĩĩwa.
+14  “Ĩndĩ yĩla mũkona ũthatyo ũla ũetae wanangĩko ũũngamĩte vala ũtaĩle kwĩthĩwa (ũla ũsomaa natũmĩe ũmanyi), eka ala me Yutia mambĩĩe kũkĩĩa iĩmanĩ.
+15  Na mũndũ ũla wĩ nyũmbanĩ ĩũlũ ndakatheee o na ndakalike kwosa kĩndũ o na kĩva nyũmbanĩ yake;
+16  na mũndũ ũla wĩ mũũndanĩ ndakasyoke ĩtina kwosa ngũa yake ya ĩũlũ.
+17  Kyeva nĩ kwa aka ala makethĩwa me aito na ala makethĩwa mayongya mĩthenyanĩ ĩsu!
+18  Endeeai kũvoya nĩ kana maũndũ asu maikethĩwe ĩvinda ya mbevo;
+19  nũndũ mĩthenya ĩsu ĩkeethĩwa mĩthenya ya thĩna ũtaaĩthĩwa kuma mwambĩlĩlyo wa wũmbi ũla Ngai woombie kũvika ĩvinda yĩu, na ndũkethĩwa ĩngĩ.
+20  Kwa w’o, ta kethĩwa Yeova ndaakuvĩvya mĩthenya ĩsu, kũivĩta mwĩĩ o na wĩva. Ĩndĩ kwondũ wa ala anyuve, ala we ũnyuvĩte, nũkuvĩvĩtye mĩthenya ĩsu.
+21  “O na ĩngĩ, ethĩwa mũndũ o na wĩva akamwĩa, ‘Sisyai! Klĩsto e vaa,’ kana, ‘Sisyai! E vaya,’ mũikaĩkĩĩe.
+22  Nũndũ andũ mekwĩyĩta Klĩsto na athani ma ũvũngũ makaumĩla na makeeka syama na maũndũ ma ũsengy’o nĩ kenda masye andũ, na vatonyeka, ala anyuve.
+23  Kwoou, syaĩĩsyai. Nĩnamũtavya maũndũ onthe mbee wa matanethĩwa.
+24  “Ĩndĩ mĩthenyanĩ ĩsu, ĩtina wa thĩna ũsu, syũa yĩkamesya kĩvindu, na mwei ndũkaumya kyeni kyaw’o,
+25  na ndata ikethĩwa iivalũka kuma ĩtunĩ, na mavinya ala me ĩtunĩ makathingithangw’a.
+26  Nĩvo ĩndĩ meona Mwana wa mũndũ okĩte na mathweo e na vinya mwingĩ na ũtheu mũtisu.
+27  Na ĩndĩ aitũma alaĩka, namo makoombany’a anyuve make vamwe kuma ila iseve inya, kuma mũthya ũmwe wa nthĩ kũvika ũla ũngĩ, na kuma mũthya ũmwe wa ĩtu kũvika ũla ũngĩ.
+28  “Yu ĩmanyĩsyei kumana na ngelekany’o ya mũkũyũ: Tũũvonge twaw’o twamina kwololoa na twathongoosya matũ, nĩmũmanyaa kana ĩvinda ya mbua nĩyĩthengeee.
+29  O ta ũu, o nenyu mwoona maũndũ asu mayĩkĩka, manyai kana e vakuvĩ mũomonĩ.
+30  Nĩ w’o nĩngũmwĩa kana nzyawa ĩno ndĩkavĩta nongi nginya maũndũ asu onthe mekĩke.
+31  Ĩtu na nthĩ ikavĩta, ĩndĩ ndeto syakwa iikavĩta nongi.
+32  “Na ĩũlũ wa mũthenya ũsu kana saa ũsu, vaiĩ mũndũ wĩsĩ, o na alaĩka ĩtunĩ, o na Mwana, ate o Asa.
+33  Ĩkalai mwĩ metho, endeeai kũsyaĩĩsya, nũndũ mũyĩsĩ ĩvinda yĩla yĩnyuvĩtwe nĩ ĩndĩĩ.
+34  Ũilye ta mũndũ waendie nthĩ ĩngĩ ũla watiie nyũmba yake na ainenga ngombo syake ũkũmũ, kĩla ĩmwe wĩa wayo, na eeaĩa mũsũvĩi wa mũomo aendeee kũsyaĩĩsya.
+35  Endeeai kũsyaĩĩsya ĩndĩ, nũndũ mũyĩsĩ mwene nyũmba akooka ĩndĩĩ, ethĩwa nĩ mawĩoo, kana nĩ ũtukũ katĩ, kana nĩ kũkilyĩ kũkya, kana nĩ kwakya tene,
+36  nĩ kana ooka na mĩtũkĩ mũtesĩ, ndakethĩe mũkomete.
+37  Ĩndĩ kĩla ngũmũtavya, nĩtavya onthe: Endeeai kũsyaĩĩsya.”
+14  Na Vasaka na Mboka ya Mũkate Ũte Ĩlawa yaĩ yĩthĩwe ĩtina wa mĩthenya ĩlĩ. Na anene ma athembi na aandĩki nĩmamanthaa nzĩa ya kũmũkwata na maũĩ na kũmũaa;
+2  nũndũ nĩmaasya: “Tũimũkwata ĩvinda ya mboka; nĩkwĩthĩwa andũ nĩmatonya kwambĩĩsya ithokoo.”
+3  Yĩla Yesũ waĩ Vethania akĩya nyũmbanĩ ya Simoni, ũla mbeenĩ waĩ mũwau mangũ, mũndũ mũka ũmwe nĩwookie na sũva wa alambasita wĩ na mauta ma nando mate mavulany’e na kĩndũ, me mũuke mũseo, na ma thooa mũnene. Nĩwakunũie sũva ũsu wa alambasita na ambĩĩa kwĩtĩkĩsya mauta mũtwenĩ wa Yesũ.
+4  Amwe moona ũu makũlany’a ũũ mathatĩte: “Nĩkĩ mauta aa me mũuke mũseo maanangwa?
+5  Nũndũ mauta aa me mũuke mũseo meĩ matonya kũthoow’a ndinalĩ mbee wa 300, na mbesa isu ikanengwa ngya!” Na mathata mũno nũndũ wake.
+6  Ĩndĩ Yesũ asya: “Ekanai nake. Nĩkĩ mũũmũthĩny’a? Ambĩka ũndũ mũseo.
+7  Nũndũ ngya mwĩ nasyo mavinda onthe, na nĩmũtonya kũsyĩka maũndũ maseo ĩvinda o na yĩva yĩla mũkwenda, ĩndĩ nyie mũi nakwa mavinda onthe.
+8  Eeka ũndũ ũtonya; etĩkĩĩsya mauta me mũuke mũseo mwĩĩnĩ wakwa nĩ kana ambũmbany’e kwondũ wa mathiko.
+9  Nĩ w’o nĩngũmwĩa, o kũla kũkatavanw’a ũvoo mũseo nthĩ yonthe, ũndũ ũla mũndũ mũka ũũ weeka o naw’o ũkatavanaw’a kwondũ wa kũmũlilikana.”
+10  Na Yutasi Isikalioti, ũmwe wa ala Ĩkũmi na Elĩ, athi kwa anene ma athembi nĩ kana akamũvũnyanĩe kũla maĩ.
+11  Yĩla meewie ũu, nĩmatanie na mamwatha kũmũnenga mbesa. Kwoou ambĩĩa kũmantha mwanya wa kũmũvũnyanĩa.
+12  Na mũthenya wa mbee wa Mũkate Ũte Ĩlawa, ĩvinda yĩla maumasya nthembo ya Vasaka, amanyĩw’a make mamũkũlya: “Wĩenda tũthi tũkaũseũvĩsye va ũĩĩe Vasaka?”
+13  Nake atũma amanyĩw’a make elĩ, na amea: “Endai ndũanĩ na nĩmũũkomana na mũndũ akuĩte mbisũ ya yũmba ya kwĩkĩa kĩw’ũ. Mũatĩĩei,
+14  na o vala ũkũlika, mũtavyei mwene wa nyũmba, ‘Mũmanyĩsya ekũlya atĩĩ: “Yĩ va nyũmba ya aeni vala ndonya kũĩĩa Vasaka vamwe na amanyĩw’a makwa?”’
+15  Na nũkũmwony’a nyũmba nene ya ĩũlũ, yũmbanĩtw’e na yĩ na mĩio. Mĩseũvĩsyei vau kwondũ witũ.”
+16  Kwoou amanyĩw’a mathi, na malika ndũanĩ na meethĩa o ũndũ wamatavĩtye, na maseũvya Vasaka.
+17  Na kwavika mawĩoo, ooka na ala Ĩkũmi na Elĩ.
+18  Na mekalĩte mesanĩ makĩya, Yesũ asya: “Nĩ w’o nĩngũmwĩa, ũmwe wenyu ũla ũendeee kũĩsanĩa nakwa nũkũmbũnyanĩa.”
+19  Namo makwatwa nĩ kyeva, na mambĩĩa kũmwĩa ũmwe kwa ũmwe: “Tinyie, kana ninyie?”
+20  Nake amea: “Nĩ ũmwe wa ala Ĩkũmi na Elĩ, ũla ũkũlikya kw’oko kwake mbakũlinĩ vamwe nakwa.
+21  Nũndũ Mwana wa mũndũ nũkũthi, o tondũ kũandĩkĩtwe ĩũlũ wake, ĩndĩ kyeva nĩ kwa mũndũ ũla kwĩsĩla kwake Mwana wa mũndũ ũkũvũnyanĩwa! Nĩ kavaa ta kethĩwa mũndũ ũsu ndaasyawa.”
+22  Na maendeee na kũya, oosa mũkate, aũathima na aũtilanga, na amanenga, akĩmea: “Osai; ũũ wĩonany’a mwĩĩ wakwa.”
+23  Na oosa kĩkombe, atũnga mũvea na amanenga, na onthe manyw’a.
+24  Na amea: “Kĩĩ kĩonany’a ‘nthakame yakwa ya ũtianĩo,’ ĩla yĩĩtĩkw’a kwondũ wa aingĩ.
+25  Nĩ w’o nĩngũmwĩa, ndikanyw’a ĩngĩ nongi ya ũsyao wa mũsavivũ nginya yĩla ngamĩnyw’a yĩ nzaũ Ũsumbĩnĩ wa Ngai.”
+26  Na mũthya, ĩtina wa kwina mbathi sya kũmũkumya Ngai, mathi Kĩĩmanĩ kya Mĩthata.
+27  Na Yesũ amea: “Inyw’onthe nĩmũũlulutĩka, nĩkwĩthĩwa nĩkũandĩkĩtwe: ‘Ngakũna mũĩthi, na malondu makanyaĩĩka.’
+28  Ĩndĩ ĩtina wa kũthayũũkw’a, ngathi mbee wenyu Kalilii.”
+29  Ĩndĩ Vetelo amwĩa: “O na ethĩwa ala angĩ onthe makalulutĩka, nyie ndikalulutĩka.”
+30  Nake Yesũ amwĩa: “Nĩ w’o nĩngũkwĩa kana ũmũnthĩ, ĩĩ, ũtukũ ũũ, nzamba ĩtanasya kelĩ, nũũngaĩa mavinda atatũ.”
+31  Ĩndĩ Vetelo aendeea kwasya: “O na natw’ĩka nĩngũkw’a vamwe naku, ndikakũkaĩa nongi.” Na ala angĩ onthe mambĩĩa kwasya oou.
+32  Kwoou mavika vandũ vetawa Ngesemanii, na amea amanyĩw’a make atĩĩ: “Ĩkalai nthĩ vaa nambe kũvoya.”
+33  Na oosa Vetelo na Yakovo na Yoana athi namo, na akwatwa nĩ kyeva kingĩ na ambĩĩa kũthĩnĩka mũno.
+34  Na amea: “Nĩĩw’a nĩ na kyeva kingĩ ũkethĩa nĩĩw’a ta ngũkw’a. Ĩkalai vaa na mũyĩendeea kũsyaĩĩsya.”
+35  Na aendanga mbee vanini, avalũka nthĩ, na ambĩĩa kũvoya nĩ kana, ethĩwa nĩvatonyeka, saa ũsu ũmũvĩtũke.
+36  Na asya: “Abba, Asa, maũndũ onthe kwaku nĩmatonyeka, mbetangĩe kĩkombe kĩĩ. Ĩndĩ ti ũndũ ngwenda, ĩndĩ nĩ ũndũ we ũkwenda.”
+37  Na asyoka amethĩa makomete, na amwĩa Vetelo atĩĩ: “Simoni, nũkomete? Ndwĩĩ na vinya wa kwĩkala ũsyaĩĩsye vandũ va ĩsaa yĩmwe?
+38  Endeeai kũsyaĩĩsya na kũvoya mũte kũeka, nĩ kana mũikese kũlika ĩtatwanĩ. Nĩ w’o veva nũkwenda, ĩndĩ mwĩĩ nĩ mwonzu.”
+39  Na athi ĩngĩ avoya, aiweta ũndũ o ũla.
+40  Na ooka ĩngĩ na amethĩa makomete, nũndũ metho moo maĩ na too mwingĩ, kwoou mayeesĩ memũsũngĩa ata.
+41  Na asyoka ĩvinda ya katatũ, na amea: “Ĩvindanĩ ta yĩĩ no mũkomete na kũthũmũa! Nũu! Saa nĩwavika! Sisyai! Mwana wa mũndũ nũkũvũnyanĩwa kũla kwĩ eki ma naĩ.
+42  Ũkĩlai tũthi. Sisyai! Mũvũnyanĩi wakwa nũthengeee.”
+43  Na vau kwa vau, o aendeee kũneena, Yutasi, ũmwe wa ala Ĩkũmi na Elĩ, avika e na nguthu yĩ na mbyũ na nzũma, ĩtũmĩtwe nĩ anene ma athembi na aandĩki na atumĩa.
+44  Na mũvũnyanĩi wake nĩwamanengete wonany’o ũla meetĩkĩlanĩte, akamea: “Mũndũ ũla ngũmumunya, nĩwe; mũkwatei, na mũimũtwaa e ungu wa asungi.”
+45  Na ooka ĩmwe kwa ĩmwe vala ve Yesũ na amwĩta, “Lavai!” na amũmumunya.
+46  Kwoou mooka na mamũkwata.
+47  Ĩndĩ ũmwe wa ala maĩ na Yesũ akũa ũvyũ wake na atema ngombo ya mũthembi mũnene amĩtila kũtũ.
+48  Ĩndĩ Yesũ amakũlya: “Mwooka kũngwata mũkuĩte mbyũ na nzũma ta mũkĩte kũkwata kĩng’ei?
+49  Kĩla mũthenya nĩneethĩawa nenyu ĩkalũnĩ ngĩmanyĩsya na mũyaangwata. Ĩndĩ, ũu weekĩka nĩ kana Maandĩko meanĩe.”
+50  Na onthe masemba mamũtia.
+51  Ĩndĩ  mwanake ũmwe weekĩĩte ngũa nzeo ya katane yĩ yoka ambĩĩa kũmũatĩĩa e vakuvĩ, na matata kũmũkwata,
+52  ĩndĩ atia ngũa ĩsu ya katane na asemba e mũthei.
+53  Na mamũtwaa Yesũ kwa mũthembi mũnene, na anene ma athembi, na atumĩa, na aandĩki moombana vamwe onthe.
+54  Ĩndĩ Vetelo amũatĩĩa e vaasa nginya nza kwa mũthembi mũnene, na ekala nthĩ na athũkũmi ma nyũmba ayota mwaki mũkenu.
+55  Na anene ma athembi na Nzama ya Ayuti yonthe mamanthaa ũkũsĩ nĩ kana moae Yesũ, ĩndĩ mayaakwata ũkũsĩ o na ũmwe.
+56  Kwa w’o, aingĩ nĩmaumasya ũkũsĩ wa ũvũngũ ĩũlũ wake, ĩndĩ mokũsĩ moo mayoosanaa.
+57  O na ĩngĩ, amwe nĩmaũngamaa na kumya ũkũsĩ wa ũvũngũ ĩũlũ wake, makyasya:
+58  “Nĩtũnamwĩwie ayasya, ‘Ngaananga ĩkalũ yĩĩ yĩseũvĩtw’e na moko, na ĩtina wa mĩthenya ĩtatũ ndyaka yĩngĩ yĩtaseũvĩtw’e na moko.’”
+59  Ĩndĩ o na ũndũnĩ ũsu, ũkũsĩ woo ndwoosanĩte.
+60  Na ĩndĩ mũthembi mũnene aũngama katĩ woo na amũkũlya Yesũ atĩĩ: “Ndũũsũngĩa kĩndũ? No ũkwĩw’a ũkũsĩ ũla aũme aa mekumya ĩũlũ waku?”
+61  Ĩndĩ aendeea kũvindya na ndaasũngĩa o na vanini. Na ĩngĩ mũthembi mũnene ambĩĩa kũmũkũlya atĩĩ: “We nue Klĩsto, Mwana wa Ũla Mũathime?”
+62  Nake Yesũ amwĩa: “Ninyie; na mũkoona Mwana wa mũndũ ailyĩ kw’okonĩ kwa aũme kwĩ vinya, na okĩte na mathweo ma ĩtu.”
+63  Na mũthembi mũnene eew’a ũu atembũa ngũa syake na asya: “Ve vata ũngĩ mwaũ wa ngũsĩ?
+64   Nĩmweew’a ayĩuma Ngai. Ũtwi wenyu nĩ mwaũ?” Na onthe mamũsilĩla kana aĩle kũawa.
+65  Na amwe mambĩĩa kũmũtw’ĩlanga mata na kũmũvw’ĩka ũthyũ na kũmũkũna ngundi, makyasya: “Athana!” Na athũkũmi ma koti mamina kũmũmandũla ũthyũ, mamwosa.
+66  Na Vetelo e ĩtheo vau nza, ũmwe wa eĩtu ala mathũkũmaa kwa mũthembi mũnene ooka.
+67  Yĩla woonie Vetelo ayota mwaki, amũketeea na asya: “O naku ũnaĩ na ũla Mũnasaleti, Yesũ ũũ.”
+68  Ĩndĩ akaĩa, akyasya: “Nyie ndimwĩsĩ o na ndikũelewa kĩla ũũneenea,” na aumaala athi mũvĩanĩ.
+69  Na e vau ũla mũthũkũmi mwĩĩtu amwona na ĩngĩ ambĩĩa kwĩa ala maũngamĩte vau: “Ũũ nĩ ũmwe woo.”
+70  Na akaĩa ĩngĩ. Ĩtina wa kavinda, ala maũngamĩte vau mambĩĩa ĩngĩ kũmwĩa Vetelo: “Vate nzika, we wĩ ũmwe woo, nĩkwĩthĩwa, kwa w’o, wĩ Mũkalilii.”
+71  Na ĩndĩ ambĩĩa kwĩyĩumanĩa na kwĩvĩta, akyasya: “Nyie ndyĩsĩ mũndũ ũũ mũũneenea!”
+72  Na o mĩtũkĩ nzamba yasya ya kelĩ, na Vetelo alilikana ũndũ Yesũ wamũtavĩtye: “Nzamba ĩtanasya kelĩ, nũũngaĩa mavinda atatũ.” Na ambĩĩa kũĩa.
+5  Na mainga mũingo ũla ũngĩ wa ũkanga, mathi kĩsionĩ kya Kelasene.
+2  Na Yesũ amina kuma ĩsiwanĩ oou, akomana na mũndũ walikĩtwe nĩ veva mũvuku aumĩte kũla kweethĩawa mbũa.
+3  Mũndũ ũsu ekalaa kũla kweethĩawa mbũa, na kũvikĩĩa ĩvinda yĩu, vayaĩ mũndũ o na ũmwe waĩ atonya kũmwova akalũma, o na atũmĩĩte nyololo.
+4  Mavinda maingĩ nĩwoovawa na mbĩngũ na nyololo, ĩndĩ nĩwatusangaa mbĩngũ isu na kũtilanga nyololo isu; na vayaĩ mũndũ waĩ na vinya wa kũmũlũmya.
+5  Na kĩla ĩvinda ũtukũ na mũthenya, nĩwakayaa na wasya mũnene e kũu mbũanĩ na iĩmanĩ, na nĩweetemangaa na mavia.
+6  Ĩndĩ ĩla wamwonie Yesũ e vaasa, asemba na amũkumanĩa.
+7  Na ĩndĩ akaya na wasya mũnene, akyasya: “Nyie nĩ na ũndũ mwaũ naku Yesũ, Mwana wa Ngai Ũla wĩ Ĩũlũ wa Onthe? Nĩngũkũavĩthya ĩsyĩtwanĩ ya Ngai, ndũkanthĩny’e.”
+8  Aisye ũu nũndũ Yesũ aĩ anawĩa veva ũsu mũvuku: “Uma nthĩnĩ wake, we veva mũvuku.”
+9  Ĩndĩ Yesũ amũkũlya: “Wĩtawa ata?” Nake amũsũngĩa: “Nĩtawa Nguthu, nũndũ twĩ aingĩ.”
+10  Na aendeea kũmwĩsũva Yesũ ndakamalũngye maveva asu maume nthĩ ĩsu.
+11  Na vaĩ ĩĩthya ĩnene ya ngũlũe ikĩya kĩĩmanĩ.
+12  Kwoou maveva asu mamwĩsũva, makĩmwĩa: “Tũeke tũthi ĩĩthyanĩ ya ngũlũe, tũlike nthĩnĩ wasyo.”
+13  Na amanenga mwanya. Na ĩtina wa ũu, maveva asu mavuku mauma na malika ila ngũlũenĩ, na ĩĩthya yĩu ya ngũlũe ta 2,000, yatheea kĩvaũũkonĩ yĩsembete, na yalika ũkanganĩ yakw’ĩĩa vo.
+14  Ĩndĩ aĩthi masyo masemba na maweta ũndũ ũsu ndũanĩ na ndee sya ndũa, na andũ mooka kwona kĩla kyaĩ kĩneethĩwa.
+15  Kwoou mooka vala ve Yesũ na mamwona ũla mũndũ eĩlikĩtwe nĩ ndaimoni, ũla vu mbeenĩ eĩ na ĩla nguthu, ailyĩ nthĩ, ekĩĩte ngũa nesa, na e na kĩlĩko kĩseo, na makwatwa nĩ wia.
+16  O na ĩngĩ, ala maĩ manoona ũndũ ũsu mamaelesya ĩũlũ wa kĩla kyaĩ kĩneekĩka kwa mũndũ ũla eĩ na ndaimoni, na ĩũlũ wa ngũlũe.
+17  Na kwondũ wa ũu mambĩĩa kũmwĩsũva Yesũ aume kĩsionĩ kyoo.
+18  Na ailika ĩsiwanĩ, ũla mũndũ eĩ na ndaimoni amwĩsũva aendany’e nake.
+19  Ĩndĩ alea na amwĩa: “Ĩnũka kwa andũ maku ma mũsyĩ, na ũimatavya maũndũ onthe ala Yeova wakwĩka na tei ũla wakwony’a.”
+20  Na mũndũ ũsu athi na ambĩĩa kũtavany’a Ndekavoli maũndũ onthe ala Yesũ wamwĩkĩte, na andũ onthe maseng’a.
+21  Na ĩtina wa Yesũ kũinga ĩngĩ na ĩsiwa na kũvika mũingo ũla ũngĩ wa ũkanga, ĩkomano ĩnene yoombana vala waĩ, nake aĩ ũtee wa ũkanga.
+22  Na ũmwe wa aũngamĩi ma ĩsinakoke weetawa Yailu ooka, na yĩla wamwonie, avalũka maaũnĩ make.
+23  Na amwĩsũva mavinda maingĩ, akĩmwĩa: “Kelĩtu kakwa nĩ kawau mũno. Mwa! Ũka ũkakailĩĩle moko nĩ kana kavoe na kayĩkala thayũ.”
+24  Na ĩtina wa vau, Yesũ aendany’a nake, na ĩkomano ĩnene yamũatĩĩa yĩmũvivinyĩte.
+25  Na vaĩ mũndũ mũka wekalĩte ayumwa nĩ nthakame kwa ĩvinda ya myaka 12.
+26  Nĩwaiitĩtwe nĩ aiiti aingĩ na nĩwathĩnĩte mũno, o na nĩwatũmĩĩte syĩndũ syonthe ila waĩ nasyo, ĩndĩ vandũ va kwĩw’a kavaa, aendeee o na kũwaĩĩa.
+27  Yĩla weewie ũvoo ĩũlũ wa Yesũ, nĩwookie ĩtina wake ĩkomanonĩ na akiita ngũa yake ya ĩũlũ,
+28  nũndũ aasya: “Nakiita, o na ethĩwa nĩ ngũa yake ya ĩũlũ, nĩngũvoa.”
+29  Na vau kwa vau, aeka kumwa nĩ nthakame, na eew’a mwĩĩnĩ wake kana nĩwavow’a ũwau ũsu mũthũku.
+30  Na kavindanĩ o kau, Yesũ eew’a kana vinya nĩwauma nthĩnĩ wake, na eethyũũa e ĩkomanonĩ na akũlya: “Nũũ ũla wakiita ngũa syakwa sya ĩũlũ?”
+31  Ĩndĩ amanyĩw’a make mamwĩa: “We nũkwona ũndũ ĩkomano yĩkũvivinyĩte, na wĩkũlya, ‘Nũũ wangiita?’”
+32  Ĩndĩ asisya ngalĩko syonthe one nũũ ũla weeka ũu.
+33  Na ũla mũndũ mũka, ew’ĩte wia na atetemete, aimanya ũndũ ũla weekĩka kwake, ooka na avalũka mbee wake na amũtavya ũw’o w’onthe.
+34  Nake amwĩa: “Mwĩĩtu wakwa, mũĩkĩĩo waku nĩwakũvosya. Enda na mũuo, na ũivoa ũwau waku mũthũku.”
+35  Na aendeee kũneena, andũ amwe kuma mũsyĩ wa ũla mũũngamĩi wa ĩsinakoke mooka na mamwĩa: “Kelĩtu kaku nĩkakw’a! Ve vata mwaũ wa kũendeea kũmũthĩny’a Mũmanyĩsya?”
+36  Ĩndĩ Yesũ eew’a ndeto syoo na amwĩa ũla mũũngamĩi wa ĩsinakoke atĩĩ: “Ndũkethĩwe na wia, ĩndĩ ĩthĩwa na mũĩkĩĩo.”
+37  Ĩndĩ ndaaeka mũndũ o na ũmwe aendany’e nake, ate o Vetelo, Yakovo, na Yoana mwana-a-inyia wa Yakovo.
+38  Kwoou mavika nyũmba kwa ũla mũũngamĩi wa ĩsinakoke, na oona kĩtuu kĩla kyaĩ vau na ala maĩaa na kua mbu.
+39  Ĩtina wa kũlika nyũmba, amakũlya: “Nĩkĩ mũkũĩa na kwĩthĩwa na kĩtuu? Kana ti kakw’ũ ĩndĩ kekĩte kũkoma.”
+40  Na meew’a ũu mambĩĩa kũmũthekeea na kĩvũthya. Ĩndĩ ĩtina wa kũmea onthe maumaale nza, oosa ĩthe na inyia wa kala kana, na ala waĩ namo, na malika vala kana kau kaĩ.
+41  Na akwata kana kau kw’oko, na akea: “Talitha kumi,” ĩla ũalyũlo wayo nĩ, “Kelĩtu, nĩkwĩa, ũkĩla!”
+42  Na o mĩtũkĩ, kelĩtu kookĩla na kambĩĩa kũthi. (Kaĩ na myaka 12.) Na vau kwa vau, meethĩwa na ũtanu mwingĩ mũno nginya weethĩa o na maitonya kwĩsiĩĩa.
+43  Ĩndĩ amakany’a ĩngĩ na ĩngĩ maikatavye mũndũ o na ũmwe ĩũlũ wa ũndũ ũsu, na asya nĩkanengwe kĩndũ kaye.
+15  Na o mĩtũkĩ kũkilyĩ kũkya, anene ma athembi vamwe na atumĩa na aandĩki, ũu nĩ kwasya Nzama yonthe ya Ayuti, yasamana na mamwova Yesũ na mamũtwaa na mamũnengane kwa Vilato.
+2  Kwoou Vilato amũkũlya: “We nue Mũsumbĩ wa Ayuti?” Nake amũsũngĩa: “We mwene nĩwaneena.”
+3  Ĩndĩ anene ma athembi nĩmamũsikatĩe maũndũ maingĩ.
+4  Vilato ambĩĩa kũmũkũlya atĩĩ: “Ndwĩ na ũndũ ũtonya kũsũngĩa? Kwoona ũndũ maũndũ ala meũkũsikatĩa maingĩvĩte.”
+5  Ĩndĩ Yesũ ndaasũngĩa ĩngĩ, na kwoou Vilato aseng’a.
+6  Kĩla ĩvinda ya mboka, Vilato nĩwamathaĩasya mwovwa ũmwe, o ũla meetya.
+7  Na ĩvinda yĩu vaĩ mũndũ ũmwe weetawa Valava ũla waĩ mwove e na andũ angĩ maleanaa na ũsumbĩ, na nĩmooaanĩte ĩvinda yĩla maleanaa na ũsumbĩ.
+8  Kwoou ĩkomano yooka na yambĩĩa kwĩtya kĩla yĩkwenda kwosana na ũndũ Vilato wamanyĩĩte kũyĩka.
+9  Nake ayĩsũngĩa, ayĩa: “Nĩmũkwenda nĩmũthaĩsye Mũsumbĩ wa Ayuti?”
+10  Nũndũ Vilato nĩweesĩ kana anene ma athembi mamũnenganĩte kwake nũndũ wa kĩwĩu.
+11  Ĩndĩ anene ma athembi na atumĩa mathing’ĩĩsya ĩkomano yasye yĩthaĩw’e Valava vandũ vake.
+12  Na Vilato amakũlya ĩngĩ: “Mwĩenda nĩkane ata na ũla mũmwĩtaa Mũsumbĩ wa Ayuti?”
+13  Namo maneena ĩngĩ na wasya mũnene: “Akoaĩwe mũtĩnĩ!”
+14  Ĩndĩ Vilato amakũlya: “Nĩkĩ? Ekĩte ĩvĩtyo yaũ?” Namo maendeea kũneena na wasya mũnene mũno, makyasya: “Akoaĩwe mũtĩnĩ!”
+15  Vilato eew’a ũu, nũndũ nĩwendaa kwendeesya ĩkomano, ayĩthaĩsya Valava; na asya Yesũ akũnwe ivoko, na ĩndĩ amũnengane akoaĩwe mũtĩnĩ.
+16  Na ĩndĩ asikalĩ mamũtwaa nyũmba kwa ngavana vau nza, na moombany’a ita syonthe sya asikalĩ vamwe.
+17  Na mamwĩkĩa ngũa ya langi wa nzambalaũ, na maseũvya ngovia ya mĩw’a na mamwĩkĩa;
+18  na mambĩĩa kũneena na wasya mũnene, maimwĩa: “Ũvoo waku, Mũsumbĩ wa Ayuti!”
+19  O na ĩngĩ, nĩmamũkũnaa mũtwe na mũangi na maimũtw’ĩlanga mata, o na nĩmatulilye ndu na kũmũkumanĩa.
+20  Na mũthya, mamina kũmũthekeea, mamumya ĩla ngũa ya langi wa nzambalaũ na mamwĩkĩa ngũa syake sya ĩũlũ. Na mamũtwaa makamũathĩĩe mũtĩnĩ.
+21  O na nĩmamũlasimĩthisye mũndũ ũmwe wavĩtĩte aumĩte mĩũndanĩ, nake eetawa Simoni kuma Kulene, ĩthe wa Alekisanda na Luvusi, amũkuĩe mũtĩ wa mathĩna.
+22  Kwoou mamũtwaa vandũ veetawa Kolokotha, na ũalyũlo wayo nĩ, “Vandũ va Kĩng’ala.”
+23  Me vau nĩmatatie kũmũnenga mbinyu ĩvulanĩtw’e na manemane, ĩndĩ ndaamĩnyw’a.
+24  Na mamũathĩĩa mũtĩnĩ na maaana ngũa syake sya ĩũlũ kwa kũkũna kula nĩ kana mamanye kĩla ũmwe eosa yĩkũ.
+25  Ĩvinda yĩu kwaĩ ta saa itatũ, na mamũathĩĩa mũtĩnĩ.
+26  Na ũandĩko ũla wawetete kĩla wasikatĩwe waĩtye: “Mũsumbĩ wa Ayuti.”
+27  O na ũtee wake vaĩ ing’ei ilĩ, kĩla kĩmwe mũtĩnĩ wakyo, kĩmwe kw’okonĩ kwake kwa aũme na kĩla kĩngĩ kw’okonĩ kwake kwa aka.
+28  ——
+29  Na ala mesĩlaa vau mamũneeneaa naĩ, makĩthingithya mĩtwe yoo na kwasya: “A! We ũla ũnaĩ wanange ĩkalũ na kũyaka na mĩthenya ĩtatũ,
+30  ĩtangĩĩe mwene kwa kuma mũtĩnĩ wa mathĩna.”
+31  O ta ũu, o namo anene ma athembi na aandĩki mambĩĩa kũmũthekeea, mayĩana atĩĩ: “Nĩwatangĩĩe angĩ; ĩndĩ ndatonya kwĩtangĩĩa mwene!
+32  Eka yu Klĩsto, Mũsumbĩ wa Isilaeli, aume mũtĩnĩ wa mathĩna nĩ kana twone na tũyĩĩkĩĩa.” O na ala maĩ mĩtĩnĩ ũtee wake nĩmamũneeneaa naĩ.
+33  Yĩla saa sita syavikie, nĩkwethĩiwe kĩvindu nthĩ ĩsu yonthe nginya ta saa kenda.
+34  Na saa kenda, Yesũ aneena na wasya mũnene, akyasya: “Eli, Eli, lama savakathani?” na ũalyũlo wayo nĩ, “Ngai wakwa, Ngai wakwa, ũndekee kĩ?”
+35  Na amwe ala maũngamĩte vau vakuvĩ, yĩla meewie ũu, mambĩĩa kwasya: “Sisyai! Eĩta Eliya.”
+36  Na mũndũ ũmwe asemba, ainda sivongyi mbinyunĩ ngaatu, amĩtonyeesya mũanginĩ, na amũnenga anyw’e, akyasya: “Ekanai nake! Ekai twone kana Eliya nũkũka kũmumya.”
+37  Ĩndĩ Yesũ aneena na wasya mũnene, na akw’a.
+38  Na vasia wa vala vandũ vatheu watembũkanĩla katĩ, kuma ĩũlũ kũvika nthĩ.
+39  Na yĩla mũnene wa asikalĩ ũla waũngeme amũsyaĩtye woonie maũndũ ala meekĩka aikw’a, asya atĩĩ: “Nĩ w’o mũndũ ũũ eĩ Mwana wa Ngai.”
+40  Na vaĩ aka masyaĩĩsye me kũasa, amwe katĩ woo nĩ Meli Makatalene, o na Meli inyia wa Yakovo na Yose, na Salome,
+41  ala maendanasya na Yesũ na kũmũthũkũma yĩla waĩ Kalilii, na aka angĩ aingĩ ala mookĩte vamwe nake Yelusaleme.
+42  Na kwaĩ kũnavika ĩ ya mawĩoo, na nũndũ waĩ mũthenya wa Kwĩyũmbany’a, kana mũthenya ũla waĩ mbee wa Savato,
+43  vooka Yosevu wa kuma Alimathia, mũndũ wanengetwe ndaĩa wa ĩla Nzama, ũla o nake mwene weeteele Ũsumbĩ wa Ngai. Nĩwaendie mbee wa Vilato e na ũkũmbaũ, na eetya mwĩĩ wa Yesũ.
+44  Ĩndĩ Vilato enda kũmanya kana Yesũ nũkwie, na kwoou eeta mũnene wa asikalĩ na amũkũlya kana Yesũ nũkwie.
+45  Na ĩtina wa kũmanya nesa kuma vala ve mũnene wa asikalĩ, amũnenga Yosevu mwĩĩ wa Yesũ.
+46  Ĩtina wa kũthooa kĩtambaa kĩseo kya katane na kũmumya mũtĩnĩ, amwova na kĩtambaa kĩu kĩseo na amwia mbũanĩ ĩla yenzĩtwe ĩvianĩ; na ĩndĩ avingilitya ĩvia nginya mũomonĩ wa mbũa.
+47  Ĩndĩ Meli Makatalene na Meli inyia wa Yose maendeea kũsyaĩĩsya vala waiĩtwe.
+1  Mwambĩlĩlyo wa ũvoo mũseo ĩũlũ wa Yesũ Klĩsto, Mwana wa Ngai:
+2  O tondũ kũandĩkĩtwe ĩvukunĩ ya mwathani Isaia: “(Sisya! nĩngũtũma mũtũmwa wakwa mbee waku, ũla ũkaseũvya nzĩa kwondũ waku.)
+3  Wasya mũnene wa mũndũ ũkũneena weũnĩ, akyasya: ‘Seũvyai nzĩa ya Yeova! Lũngalyai nzĩa syake.’”
+4  Yoana Mũvatisi aĩ weũnĩ akĩmatavya andũ mavatiswe nĩ kana monany’e nĩmelilĩte nũndũ wa naĩ syoo nĩ kana maekewe.
+5  Na andũ onthe ma kĩsio kya Yutia na onthe ala mekalaa Yelusaleme nĩmaendaa vala waĩ, na kũvatiswa nĩwe Ũsĩnĩ wa Yolotani, na kumbũla naĩ syoo ũtheinĩ.
+6  Na Yoana eekĩĩte ngũa ya w’ĩa wa ngamĩle na aĩ na mũsivi wa kĩthuma kĩnyunyunĩ kyake, na aĩsaa ngie na ũkĩ wa nzũkĩ wa kĩthekanĩ.
+7  Nake atavanasya, akyasya: “Mũndũ ũla wũkĩte ĩtina wakwa e vinya kwĩ nyie, na ndii sya iatũ syake ndyaĩlĩtwe nĩ kũkumana nĩithasye.
+8  Nyie nĩnamũvatisaa na kĩw’ũ, ĩndĩ we akamũvatisaa na veva mũtheu.”
+9  Mĩthenyanĩ ĩsu Yesũ nĩwookie kuma Nasaleti ya Kalilii, na avatiswa nĩ Yoana Ũsĩnĩ wa Yolotani.
+10  Na aumĩla kĩw’ũnĩ oou, oona matu mavingũka, na veva wamũtheeea ta ĩvũĩ.
+11  Na wasya wauma ĩtunĩ, ũkyasya: “Nue Mwana wakwa mwendwa; nĩnendeeaw’a nue.”
+12  Na vau kwa vau veva mũtheu wamũtwaa weũnĩ.
+13  Kwoou ekala weũnĩ mĩthenya 40, aitatwa nĩ Satani. Na aĩ vamwe na nyamũ sya kĩthekanĩ, na alaĩka nĩmamũthũkũmaa.
+14  Na ĩtina wa Yoana kũkwatwa, Yesũ nĩwaendie Kalilii, akĩtavany’a ũvoo mũseo wa Ngai
+15  na kwasya: “Ĩvinda yĩla yĩnyuvĩtwe nĩ ĩviku, na Ũsumbĩ wa Ngai nĩ mũthengeeu. Ĩlilei, na mũyĩĩkĩĩa ũvoo mũseo.”
+16  Na esĩlĩte ũtee wa Ũkanga wa Kalilii, nĩwoonie Simoni na Endelea mwana-a-inyia mayĩkya itei syoo ũkanganĩ, nũndũ maĩ atei ma makũyũ.
+17  Na Yesũ amea: “Ngatĩĩai, nakwa ngamũtw’ĩkĩthya atei ma andũ.”
+18  Na vau kwa vau matia itei syoo na mamũatĩĩa.
+19  Ĩtina wa kũendanga o vanini, nĩwoonie Yakovo mwana wa Sevetii na Yoana mwana-a-inyia, namo maĩ ĩsiwanĩ maiseũvya itei syoo,
+20  na vau kwa vau ameta. Kwoou matia ĩthe woo Sevetii ĩsiwanĩ vamwe na athũkũmi na mamũatĩĩa.
+21  Na mathi Kavelinaumi. Mũthenya wa Savato wambĩlĩlya oou, nĩwalikile ĩsinakokenĩ na ambĩĩa kũmanyĩsya.
+22  Na andũ maseng’a nũndũ wa nzĩa yake ya kũmanyĩsya, nĩkwĩthĩwa amanyĩasya ta ũmwe wĩ na ũkũmũ, na ti ta aandĩki.
+23  Na ĩvinda o yĩu kwaĩ mũndũũme ĩsinakokenĩ walikĩtwe nĩ veva mũvuku, na akaya na wasya mũnene, akyasya:
+24  “Ithyĩ twĩ na ũndũ mwaũ naku, Yesũ Mũnasaleti? Wooka kũtwananga? Nĩngwĩsĩ nesa nue ũũ, we nue Ũla Mũtheu wa Ngai!”
+25  Ĩndĩ Yesũ aũkany’a, akyasya: “Vindya, na ũyuma mũndũnĩ ũũ!”
+26  Na veva ũsu mũvuku wauma nthĩnĩ wa mũndũ ũsu, ĩtina wa kũmũthingithangya mũno na kũkaya na wasya mũnene.
+27  Na andũ onthe maseng’a mũno nginya mambĩĩa kũneenea ũndũ ũsu katĩ woo, makyasya: “Ũndũ ũũ nĩ mwaũ? Nĩ ũmanyĩsyo mweũ! E na ũkũmũ wa kwĩaĩa o na maveva mavuku, na maimwĩw’a.”
+28  Kwoou ũvoo ĩũlũ wake wanyaĩĩka mĩtũkĩ kĩla vandũ na kĩsionĩ kyonthe kya Kalilii.
+29  Ĩtina wa ũu mauma ĩsinakokenĩ na mathi mũsyĩ kwa Simoni na Endelea, na Yakovo na Yoana maendany’a vamwe namo.
+30  Na inyia wa mũka wa Simoni nĩwakomete awaĩte ndetema, na vau kwa vau mamũtavya ĩũlũ wake.
+31  Nake athi vala waĩ, amũkwata kw’oko, na amũkĩlya. Na avoa ndetema na ambĩĩa kũmathũkũma.
+32  Na kwavika mawĩoo, syũa yamina kũthũa, andũ mambĩĩa kũmũetee andũ onthe ala maĩ awau na malikĩtwe nĩ ndaimoni;
+33  na andũ onthe ma ndũa nĩmoombanĩte vamwe mũomonĩ.
+34  Kwoou avosya aingĩ ala mawaĩte mowau me kĩvathũkany’o, na aumya ndaimoni mbingĩ, ĩndĩ ndaasyĩtĩkĩlya ndaimoni isu ineene, nũndũ nĩsyeesĩ we nĩwe Klĩsto.
+35  Kwakya tene, o kwĩ kĩvindu, nĩwookĩlile na aumaala nza na athi vandũ vate andũ, na e vau ambĩĩa kũvoya.
+36  Ĩndĩ Simoni na ala waĩ namo mambĩĩa kũmũmantha na kĩthito,
+37  na mamwona mamwĩa: “Kĩla mũndũ nũkũũmantha.”
+38  Ĩndĩ amea: “Tũendei vandũ vangĩ, ndũanĩ ila syĩ vakuvĩ, nĩ kana nĩtavany’e kũu o nakw’o, nũndũ nookie kwondũ wa ũu.”
+39  Na athi akĩtavany’a masinakokenĩ kĩla vandũ Kalilii yonthe, na kumya ndaimoni.
+40  Na mũndũ ũwaĩte mangũ ooka vala ũĩ na amwĩsũva atulĩtye ndu, akyasya: “Mwĩaĩi, ethĩwa nũkwenda, nũtonya kũnthesya.”
+41  Eew’a ũu amwĩw’ĩa tei mũno, na atambũũkya kw’oko kwake amũkiita, na amwĩa: “Nĩngwenda! Ĩthĩwa mũtheu.”
+42  Na vau kwa vau avoa mangũ vyũ, na eethĩwa e mũtheu.
+43  Na ĩndĩ amũkany’a kwa ũito na vau kwa vau amwĩa nĩ athi,
+44  akyasya: “Ndũkatate kũtavya mũndũ o na ũmwe, ĩndĩ enda ũkeyonany’e kwa mũthembi na ũyumya syĩndũ ila Mose waisye syumaw’e, kwondũ wa kũthew’a kwaku, nĩ kana ũu wĩthĩwe ũkũsĩ kwoo.”
+45  Ĩndĩ mũndũ ũsu amina kũthi, ambĩĩa kũtavany’a ũvoo ũsu mũno na kũũnyaĩĩkya kĩla vandũ nginya weethĩa Yesũ ndatonya ĩngĩ kũlika ndũanĩ enekee, ĩndĩ ekala nza wa ndũa kũndũ kũte andũ. O na ũu wĩ o vo, andũ nĩmaendeeie kũthi vala waĩ kuma ngalĩ syonthe.
+2  Ĩndĩ ĩtina wa mĩthenya mĩnini asyoka ĩngĩ Kavelinaumi, na ũvoo wanyaĩĩka  kana e mũsyĩ.
+2  Na andũ aingĩ moombana vamwe weethĩa vaiĩ vandũ ve kamwanya, o na mũomonĩ, na ambĩĩa kũmatavya ĩla ndeto.
+3  Na mamũetee mũndũ mwonzu mamutha akuanĩlwe nĩ aũme ana.
+4  Ĩndĩ mayaĩ matonya kũmũvikya vala ve Yesũ nũndũ wa ĩkomano, na kwoou mathaĩlya kĩala vala Yesũ waĩ, na mamina kũvũthũa ĩima, matheesya ũkomo ũla wakomeewe nĩ ũsu mwonzu mamutha.
+5  Yĩla Yesũ woonie mũĩkĩĩo woo, amwĩa mũndũ ũsu waĩ mwonzu mamutha atĩĩ: “Mwanawa, naĩ syaku nĩsyaekewa.”
+6  Na amwe ma aandĩki maĩ vau, mekalĩte nthĩ maisũanĩa ngoonĩ syoo:
+7  “Nĩkĩ mũndũ ũũ ũkũneena ũu? Nũkũuma Ngai. Nũũ ũtonya kũekea naĩ ate o ũmwe, nake nĩ Ngai?”
+8  Ĩndĩ o mĩtũkĩ Yesũ amanya kana mesũanĩa ũu, na kwoou amakũlya atĩĩ: “Nĩkĩ mũũsũanĩa maũndũ aa ngoonĩ syenyu?
+9  Nĩ ũndũ wĩva wĩ laisi, nĩ kwĩa mũndũ ũũ mwonzu mamutha, ‘Naĩ syaku nĩsyaekewa,’ kana nĩ kwasya, ‘Ũkĩla wose ũkomo waku na ũithi’?
+10  Ĩndĩ nĩ kana mũmanye kana Mwana wa mũndũ e na ũkũmũ ĩũlũ wa nthĩ wa kũekea naĩ—” amwĩa mũndũ ũsu waĩ mwonzu mamutha atĩĩ:
+11  “Nĩkwĩa, Ũkĩla, wose ũkomo waku, na ũyĩnũka.”
+12  Na eew’a ũu ookĩla na mĩtũkĩ oosa ũkomo wake na athi onthe mene. Kwoou onthe maseng’a, na mamũtaĩa Ngai, makyasya: “Ũndũ ta ũũ tũyaawona.”
+13  Na ĩngĩ aumaala athi ũtee wa ũkanga na ĩkomano yonthe yathi vala ũĩ, na ambĩĩa kũyĩmanyĩsya.
+14  Na avĩtĩte, oona Livai mwana wa Alivaio ailyĩ nthĩ ovisinĩ wa koti, na amwĩa: “Ĩthĩwa mũatĩĩi wakwa.” Nake ookĩla na amũatĩĩa.
+15  Na kweethĩwa e nyũmba kwa mũndũ ũsu aiya, aumĩthya aingĩ ma koti na eki ma naĩ maĩ vamwe na Yesũ maiya na amanyĩw’a make, nũndũ maĩ aingĩ ala mamũatĩĩte.
+16  Ĩndĩ yĩla aandĩki na Avalisi mamwonie aiya na eki ma naĩ na aumĩthya ma koti, mambĩĩa kũkũlya amanyĩw’a make: “Nũndũ ũĩsaa na aumĩthya ma koti na eki ma naĩ?”
+17  Na Yesũ eew’a ũu amea: “Ala mate awau mayĩthĩawa na vata wa mũiiti, ĩndĩ no ala awau. Ndyaaũka kwondũ wa ala alũngalu, ĩndĩ nookie kwondũ wa eki ma naĩ.”
+18  Na amanyĩw’a ma Yoana na Avalisi nĩmatĩĩaa kũya. Na kwoou mooka vala waĩ na mamũkũlya: “Nĩkĩ amanyĩw’a ma Yoana na amanyĩw’a ma Avalisi matĩĩaa kũya, ĩndĩ amanyĩw’a maku maitĩĩaa kũya?”
+19  Kwoou Yesũ amakũlya atĩĩ: “Mo anyanyae ma mũtwaani nĩmethĩawa na kĩtumi kya kũtĩĩa kũya yĩla mũtwaani wĩ namo? Nũndũ mũtwaani e vamwe namo maitonya kũtĩĩa kũya.
+20  Ĩndĩ mĩthenya nĩyũkĩte yĩla mũtwaani ũkavetwa vala maĩ, na ĩvinda yĩu makatĩĩa kũya.
+21  Vaiĩ mũndũ ũtumĩĩaa kĩlaka kya ngũa nzaũ ngũanĩ ngũũ ya ĩũlũ. Eeka ũu, kĩlaka kĩu kyeũ nĩkĩkusasya ngũa ĩsu ngũũ, na ũtembũku wayo ũineneveea.
+22  O ta ũu, vaiĩ mũndũ wĩkĩaa mbinyu nzaũ ithumanĩ ngũũ sya mbinyu. Nũndũ eeka ũu, mbinyu ĩsu nĩtembũaa ithuma isu, na ayasya mbinyu vamwe na ithuma. Ĩndĩ mbinyu nzaũ yĩkĩawa ithumanĩ nzaũ sya mbinyu.”
+23  Na esĩlĩte mĩũndanĩ ya nganũ mũthenya wa Savato, amanyĩw’a make mambĩĩa kũtw’a iia sya nganũ maendete.
+24  Kwoou Avalisi mamwĩa: “Sisya! Nĩkĩ mekwĩka ũndũ ũtosanĩte na mĩao mũthenya wa Savato?”
+25  Nake amakũlya: “No mwaasoma ũndũ Ndaviti weekie yĩla watheleilwe nĩ lĩu, na we na andũ ala waĩ namo maĩ na nzaa?
+26  Na ũndũ, nthĩnĩ wa ĩla ngewa ĩũlũ wa mũnene wa athembi Aviathali, Ndaviti walikile nyũmbanĩ ya Ngai na aya mĩkate ĩla yaiawa mbee wa Ngai, ĩla kwosana na mĩao ĩtaaĩle kũĩwa nĩ mũndũ o na wĩva ate o athembi, o na amanenga aũme ala waĩ namo?”
+27  Na ĩndĩ amea: “Savato yaetiwe kwondũ wa mũndũ, ĩndĩ ti mũndũ kwondũ wa Savato.
+28  Kwondũ wa ũu, Mwana wa mũndũ nĩ Mwĩaĩi, o na wa Savato.”
+3  Na ĩngĩ alika ĩsinakokenĩ na vau vaĩ mũndũ waĩ na kw’oko kwonzu.
+2  Na mamũsyaĩĩsya nesa mone kana nũkũvosya mũndũ ũsu mũthenya wa Savato, nĩ kana mamũsikate.
+3  Na amwĩa mũndũ ũsu waĩ na kw’oko kwonzu atĩĩ: “Ũkĩla wũke vaa katĩ.”
+4  Na amakũlya atĩĩ: “Nĩ ũndũ wĩva, kwosana na mĩao, waĩle kwĩkwa mũthenya wa Savato; nĩ ũndũ mũseo kana nĩ ũndũ mũthũku, nĩ kũtangĩĩa thayũ kana nĩ kũaa?” Ĩndĩ mayaamũsũngĩa.
+5  Ĩtina wa kũmasisya onthe ew’ĩte woo, nĩweewie kyeva kingĩ nũndũ wa kwona wũmũ wa ngoo syoo, na amwĩa mũndũ ũsu atĩĩ: “Tambũũkya kw’oko kwaku.” Nake atambũũkya kw’oko kwake, na kwavoa.
+6  Yĩla Avalisi moonie ũu, maumaala na mĩtũkĩ na mathi nzama na aatĩĩi ma kyama kya Elote, nĩ kana mamũae.
+7  Ĩndĩ Yesũ auma vau athi ũkanganĩ e na amanyĩw’a make, na andũ aingĩ kuma Kalilii na Yutia mamũatĩĩa.
+8  O na angĩ kuma Yelusaleme na Itumea na angĩ kuma mũingo wa Yolotani na ngalĩko sya Tile na Sitoni, nguthu nene ya andũ nĩyookie vala ũĩ yĩla meewie maũndũ maingĩ ala weekaa.
+9  Na amea amanyĩw’a make mamũmanthĩe kasiwa nĩ kana ĩkomano yĩikamũvivinye.
+10  Na nũndũ nĩwavoisye aingĩ, onthe ala maĩ na mowau mathũku nĩmamũthyũlũlũkĩte nĩ kana mamũkiite.
+11  O na maveva mavuku, o yĩla mamwona, nĩmavalũkaa mbee wake na maineena na wasya mũnene, makyasya: “We nue Mwana wa Ngai.”
+12  Ĩndĩ mavinda maingĩ nĩwameaĩaa kwa ũito maikawete we nĩwe ũũ.
+13  Na ambata kĩĩmanĩ, ameta ala wendaa, na mooka vala ũĩ.
+14  Na anyuva kĩkundi kya andũ 12, ala wametie atũmwa, na nĩmo maĩ maendanasye nake na aimatũma makatavany’e
+15  na mayĩthĩwa na ũkũmũ wa kumya ndaimoni.
+16  Na kĩkundi kya ala 12 wanyuvie nĩ Simoni, ũla wamwĩtie Vetelo,
+17  Yakovo mwana wa Sevetii na Yoana mwana-a-inyia wa Yakovo (asu namo amanengie ĩsyĩtwa Voaneliki, yĩla ũalyũlo wayo nĩ, “Ana ma Kĩtundumo”),
+18  Endelea, Vilivu, Valitholomayo, Mathayo, Thoma, Yakovo mwana wa Alivaio, Thatayo, Simoni Mũkena,
+19  na Yutasi Isikalioti, ũla wesie kũmũvũnyanĩa. Na ĩndĩ alika nyũmba,
+20  na ĩkomano yoombana ĩngĩ, nginya weethĩa maitonya kũya lĩu.
+21  Ĩndĩ yĩla andũ ma mũsyĩ mamanyie ũu, nĩmaendie kũmũkwata, nũndũ maasya: “E na ndũũka.”
+22  O na aandĩki ala matheeie kuma Yelusaleme maasya: “E na Veelisevuli, na aumasya ndaimoni aitũmĩa vinya wa mũnene wa ndaimoni.”
+23  Na amina kũmeta moke vala ũĩ, aneena namo na ngelekany’o, akyasya: “Satani atonya kũlũngya Satani ata?
+24  Ethĩwa ũsumbĩ nũaanĩkĩte, ũsumbĩ ũsu ndũtonya kũũngama;
+25  na ethĩwa nyũmba nĩaanĩkĩte, nyũmba ĩsu ndĩtonya kũũngama.
+26  O na ĩngĩ, ethĩwa Satani nũkwĩyũkita mwene na nũaanĩkĩte, ndatonya kũũngama, ĩndĩ okĩte kũthela.
+27  Kwa w’o, vaiĩ mũndũ ũtonya kũlika nyũmbanĩ ya mũndũ wĩ vinya na kũmũyĩa malĩ yake atambĩte kũmwova mũndũ ũsu wĩ vinya. No ekie ũu nĩ kana amũvene malĩ ĩla yĩ nyũmbanĩ yake.
+28  Nĩ w’o nĩngũmwĩa, ana ma andũ makaekewa maũndũ onthe, o na ethĩwa mekĩte naĩ syĩva kana maneenete ndeto syĩva sya kũumana.
+29  Ĩndĩ mũndũ o na wĩva ũla ũumaa veva mũtheu ndakaaekewa o na ĩndĩĩ, ĩndĩ akeethĩawa e na naĩ ya tene na tene.”
+30  Aneenie ũu nũndũ maasya: “E na veva mũvuku.”
+31  Nĩvo ĩndĩ inyia wake na ana-a-inyia mookie, na maũngamĩte nza, matũma mũndũ akamwĩte.
+32  Na nũndũ vaĩ na ĩkomano yekalĩte nthĩ yĩmũthyũlũlũkĩte, mamwĩa: “Sisya! Inyia waku na ana-a-inyia maku me vaya nza maikũmantha.”
+33  Ĩndĩ amasũngĩa, amea: “Inyia wakwa na ana-a-inyia makwa naaũ?”
+34  Na ĩndĩ asisya ala mekalĩte nthĩ mamũthyũlũlũkĩte na asya: “Sisyai! Inyia wakwa na ana-a-inyia makwa!
+35  Mũndũ o na wĩva ũla wĩkaa kwenda kwa Ngai, ũsu nĩwe mwana-a-inyia wakwa, na mwĩĩtu-a-inyia wakwa, na inyia wakwa.”
+12  Na ĩndĩ ambĩĩa kũneena namo aitũmĩa ngelekany’o: “Kwaĩ mũndũ wavandie mũũnda wa mĩsavivũ, na awiĩĩa na enza kĩangĩo kya nzavivũ mũũndanĩ ũsu, na aaka mwako mũtũlu; na ĩndĩ akomboethya aĩmi mũũnda ũsu na athi nthĩ ĩngĩ.
+2  Na ĩvinda ya ngetha yavika, nĩwatũmie ngombo kũla kwĩ aĩmi asu ĩkanengwe matunda amwe ma mũũnda ũsu wa mĩsavivũ.
+3  Ĩndĩ aĩmi asu mamyosa, mamĩvũa, na mamĩlũngya ĩte na kĩndũ.
+4  Na asyoka amatũmĩa ngombo ĩngĩ, na ĩsu mamĩkũna mũtwe na mamĩkĩĩthya nthoni.
+5  Na atũma ĩngĩ, na ĩsu mamyũaa, na atũma ingĩ mbingĩ, na imwe mavũa na ingĩ moaa.
+6  Na aĩ na ũngĩ ũmwe, mwana wake mwendwa. Na ĩndĩ ĩtina amũtũma vala maĩ, akyasya, ‘Makamũnenga ndaĩa mwana wakwa.’
+7  Ĩndĩ aĩmi asu maneenany’a ene kwa ene, makyasya, ‘Ũũ nĩwe ũkatiĩwa mũũnda. Ũkai tũmũae na ũtiĩwa ũsu ũkeethĩwa wĩ witũ.’
+8  Kwoou mamwosa, mamũaa, na mamwĩkya nza wa mũũnda wa mĩsavivũ.
+9  Mwene mũũnda ũsu wa mĩsavivũ akeeka ata? Akooka na kũmoaa aĩmi asu na ainenga aĩmi angĩ mũũnda ũsu wa mĩsavivũ.
+10  Mũyaasoma ĩandĩko yĩĩ: ‘Ĩvia yĩla aki maleile, nĩyo yĩtw’ĩkĩte ĩvia ĩnene ya kĩkotonĩ?
+11  Ĩvia yu yumĩte kwa Yeova, na nĩyaũsengy’a methonĩ maitũ.’”
+12  Yĩla meewie ũu, menda kũmũkwata, ĩndĩ makĩa ĩkomano, nũndũ nĩmamanyie kana aneenaa ĩũlũ woo ngelekany’onĩ ĩsu. Kwoou mamũtia na mathi.
+13  Na ĩtina wa vau, mamũtũmĩa Avalisi amwe na aatĩĩi ma kyama kya Elote, nĩ kana mamũkwatye kwĩsĩla ũneeni wake.
+14  Na yĩla mavikie mamwĩa: “Mũmanyĩsya, nĩtwĩsĩ ũneenaa w’o, na ndwendeeasya mũndũ, nũndũ ndũsiasya ũndũ mũndũ ũilye nza, ĩndĩ ũmanyĩasya nzĩa ya Ngai kwosana na ũla w’o. Nĩ ũndũ wosanĩte na mĩao kũĩva Kaisali koti ũla waĩle kũĩvwa nĩ kĩla mũndũ, kana ũndũ ũsu ndwaĩle?
+15  Nĩtwaĩle kũĩva, kana tũyaĩle kũĩva?” Na amanya wangangany’a woo, amea: “Nĩkĩ mũũndata? Ndeteei ndinalĩ nĩsisye.”
+16  Na mamũetee ĩmwe, nake amakũlya: “Visa ũũ na ũandĩko ũũ nĩ syaũ?” Namo mamwĩa: “Nĩ sya Kaisali.”
+17  Nĩvo Yesũ wameie: “Mũnengei Kaisali syĩndũ sya Kaisali, na Ngai syĩndũ sya Ngai.” Na maseng’a mũno nũndũ wake.
+18  Na Asatukai, ala maasya kana kũi ũthayũũkyo, mooka, na mamwĩa:
+19  “Mũmanyĩsya, Mose atũandĩkĩie kana ethĩwa mũndũ nĩwakw’a na atia mũka ate kana, mwana-a-inyia wa mũndũ ũsu aĩle kũtwaa kĩveti kĩu kyatiwa, na aisyaa syana kwondũ wa mwana-a-inyia.
+20  Kwaĩ aũme mũonza masyaanĩw’e. Na wa mbee atwaa kĩveti, ĩndĩ yĩla wakwie atia kĩte kana.
+21  Na wa kelĩ akĩtwaa ĩndĩ o nake akw’a akĩtia kĩte kana, na wa katatũ eeka oou.
+22  Na onthe me mũonza mayaatia kana. Na ĩndĩ ĩtina ũla mũndũ mũka akw’a.
+23  Ĩvinda ya ũthayũũkyo, mũndũ mũka ũsu akeethĩwa e kĩveti kya wĩva? Nũndũ onthe me mũonza nĩmamũtwaĩte.”
+24  Nake Yesũ amea: “Inyw’ĩ nĩmũũvĩtya, nũndũ mũyĩsĩ Maandĩko o na mũyĩsĩ vinya wa Ngai.
+25  Nũndũ ĩvinda ya ũthayũũkyo, aũme maikatwaana o na aka maikatwawa, ĩndĩ makeethĩwa ta alaĩka ĩtunĩ.
+26  Na ĩũlũ wa ũthayũũkyo wa akw’ũ, no mwaasoma ĩvukunĩ ya Mose, nthĩnĩ wa ũvoo ĩũlũ wa kala kakuthu ke mĩw’a, kana Ngai amwĩie: ‘Nyie ninyie Ngai wa Avalaamu, na Ngai wa Isaka, na Ngai wa Yakovo’?
+27  We ti Ngai wa ala akw’ũ, ĩndĩ wa ala me thayũ. Nĩmũvĩtĩtye mũno.”
+28  Na ũmwe wa aandĩki, ũla wookĩte na akamew’a maineenany’a, amanya kana nĩwamasũngĩa nesa, amũkũlya: “Nĩ mwĩao wĩva ũla wĩ mbee wa yonthe?”
+29  Yesũ amũsũngĩa: “Wa mbee nĩ, ‘Ĩw’a, we Isilaeli, Yeova Ngai waitũ nĩ Yeova ũmwe,
+30  na no nginya ũmwende Yeova Ngai waku na ngoo yaku yonthe, na thayũ waku w’onthe, na kĩlĩko kyaku kyonthe, na vinya waku w’onthe.’
+31  Na wa kelĩ nĩw’o ũũ: ‘No nginya ũmwende mũtũi waku o ũndũ wĩyendete.’ Vaiĩ mwĩao ũngĩ mũnene kwĩ ĩsu.”
+32  Na ũla mũandĩki amwĩa: “Mũmanyĩsya, nĩwaneena nesa, kwosana na ũw’o, ‘Ngai nĩ ũmwe, na vaiĩ ũngĩ ate o we’;
+33  na kũmwenda na ngoo yonthe, na kĩlĩko kyonthe, na vinya w’onthe, na mũndũ kũmwenda mũtũi wake o ũndũ wĩyendete, nĩw’o ũndũ ũla wa vata mũno kwĩ nthembo sya kũvĩvw’a na nthembo ila ingĩ.”
+34  Na Yesũ oona kana nĩwasũngĩa kwosana na kĩlĩko, amwĩa: “Ndwĩ vaasa na Ũsumbĩ wa Ngai.” Ĩndĩ vaiĩ mũndũ waĩ na ũkũmbaũ wa kũmũkũlya ũndũ ũngĩ.
+35  Na Yesũ aendeee kũmanyĩsya ĩkalũnĩ asya: “Nĩkĩ aandĩki maasya kana Klĩsto nĩ mwana wa Ndaviti?
+36  Ndaviti mwene atongoew’e nĩ veva mũtheu aisye, ‘Yeova eeie Mwĩaĩi wakwa atĩĩ: “Ĩkala kw’okonĩ kwakwa kwa aũme nginya yĩla ngaia amaitha maku ungu wa nyaaĩ syaku.”’
+37  Ndaviti mwene amwĩtĩte Mwĩaĩi, kwoou vatonyeka ata akethĩwa mwana wake?” Na ĩkomano ĩnene nĩyamwĩthukĩĩsye na ũtanu.
+38  Na aendeee kũmanyĩsya, asya: “Ĩsũvĩanei na aandĩki ala mendete kũthi kũũ na kũũ mekĩĩte kanzũ, na mendete kũkethw’a masokonĩ
+39  na kwĩkala ivĩlanĩ sya mbee masinakokenĩ na kũndũ kũla kwa ndaĩa mbokanĩ.
+40  Nĩmavenaa aka ndiwa syĩndũ syoo, na nĩmavoyaa mboya ndaasa sya kwĩyonany’a. Asu makakwata ũsilĩlo mũthũku mũno.”
+41  Na ekala vakuvĩ na syĩndũ ila syeekĩawa mĩvothi, na ambĩĩa kũsisya ũndũ ĩkomano yeekĩaa mbesa syĩndũnĩ isu sya kwĩkĩa mĩvothi, na andũ aingĩ athwii nĩmeekĩaa mbesa mbingĩ.
+42  Na mũndũ mũka ndiwa na ngya ooka na eekĩa tũsendi twĩlĩ twa thooa mũnini.
+43  Kwoou eeta amanyĩw’a make, na amea: “Nĩ w’o nĩngũmwĩa kana mũndũ mũka ũũ ndiwa na ngya eekĩa mbingĩ kwĩ ala angĩ onthe meekĩa mbesa syĩndũnĩ sya kwĩkĩa mĩvothi.
+44  Nũndũ onthe meekĩa kwosana na kwingĩvĩwa kwoo, ĩndĩ ũũ, o na kau nĩ ngya, eekĩa kyonthe kĩla eĩ nakyo, kyonthe kĩla eĩkwatĩtye nĩ kana ekale thayũ.”

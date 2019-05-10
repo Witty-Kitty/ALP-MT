@@ -7,7 +7,7 @@ import bible_dictionaries
 
 def text_preprocessing(language, book):
     #   read in the file
-    file = open("datasets/raw/" + language + "_nwt/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "r").read()
+    file = open("datasets/raw/" + language + "/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "r").read()
     # remove space characters from text 
     text = file.replace(u'\xa0', u' ')
     # split at newline character
@@ -27,7 +27,7 @@ def text_preprocessing(language, book):
         new_text2.append(re.sub(r'[^\w\s]','',line.lower()))
     # remove any empty sensences in the list
     new_text2 = list(filter(None, new_text2))
-    f = open("datasets/preprocessed/" + language + "_nwt_preprocessed/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "w")
+    f = open("datasets/preprocessed/" + language + "/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "w")
     for line in new_text2: 
         # strip sentences of space either at the beginning or end
         f.write(line.lstrip())

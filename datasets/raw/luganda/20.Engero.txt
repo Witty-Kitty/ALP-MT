@@ -1,0 +1,915 @@
+10  Engero za Sulemaani. Omwana ow’amagezi asanyusa kitaawe,Naye omwana omusirusiru anakuwaza nnyina.
+2  Eby’obugagga ebifunibwa mu makubo amakyamu tebigasa,Naye obutuukirivu buwonya omuntu okufa.
+3  Yakuwa taalekenga mutuukirivu kulumwa njala,Naye ababi ajja kubamma bye beegomba.
+4  Emikono emigayaavu gyavuwaza,Naye emikono emikozi gigaggawaza.
+5  Omwana akola ebintu mu ngeri ey’amagezi akungula ebirime mu kiseera eky’omusana,Naye omwana akola ebiswaza yeebakira mu kiseera eky’amakungula.
+6  Omutwe gw’omutuukirivu gubaako emikisa,Naye akamwa k’omubi kasirikira ebikolwa eby’obukambwe by’ayagala okukola.
+7  Erinnya ly’omutuukirivu lijja kuweebwa omukisa,Naye erinnya ly’omubi lijja kusaanawo.
+8  Omuntu ow’omutima ogw’amagezi akkiriza obulagirizi,Naye oyo ayogera eby’obusirusiru ajja kulinnyirirwa.
+9  Oyo atambulira mu bugolokofu atambula mirembe,Naye oyo akyamya amakubo ge ajja kumanyibwa.
+10  Oyo atta ku liiso n’ekigendererwa ekibi aleeta ennaku,N’oyo ayogera ebitali bya magezi wa kuzikirira.
+11  Akamwa k’omutuukirivu nsulo ya bulamu,Naye akamwa k’omubi kasirikira ebiruubirirwa eby’obukambwe.
+12  Obukyayi bwe buvaako ennyombo,Naye okwagala kubikka ku bisobyo byonna.
+13  Amagezi gaba ku mimwa gy’omutegeevu,Naye omuggo gukuba omugongo gw’oyo atalina magezi.
+14  Abantu ab’amagezi batereka okumanya ng’ekintu eky’omuwendo,Naye akamwa k’omusirusiru kaleeta okuzikirira.
+15  Ebintu by’omugagga kye kibuga kye ekiriko bbugwe. Obwavu bwe buviirako omwavu okuzikirira.
+16  Ebikolwa by’omutuukirivu bimuviiramu obulamu;Naye ebintu omubi by’afuna bimuleetera okwonoona.
+17  Oyo akkiriza okubuulirirwa alaga abalala ekkubo ery’obulamu,Naye oyo atayagala kunenyezebwa awabya abalala.
+18  Oyo akweka obukyayi ayogera eby’obulimba,N’oyo agenda ng’ayogera ebitali bituufu ku balala aba musirusiru.
+19  Mu bigambo ebingi temubula kusobya,Naye oyo afuga emimwa gye aba wa magezi.
+20  Olulimi lw’omutuukirivu lulinga ffeeza asingayo obulungi,Naye omutima gw’omubi gugasa kitono.
+21  Emimwa gy’omutuukirivu giriisa bangi,Naye abasirusiru bafa olw’obutaba na magezi.
+22  Omukisa gwa Yakuwa gwe gugaggawaza,Era tagugattako bulumi.
+23  Eri abasirusiru, okukola eby’obuswavu kiringa omuzannyo,Naye omuntu omutegeevu aba n’amagezi.
+24  Omubi ky’atya kijja kumutuukako;Naye abatuukirivu bajja kuweebwa ebyo bye baagala.
+25  Kibuyaga bw’akunta, omubi ajja kusaanawo,Naye omutuukirivu musingi gwa lubeerera.
+26  Ng’omwenge omukaatuufu bwe gunyenyeeza amannyo era ng’omukka bwe gubalagala mu maaso,N’omugayaavu bw’atyo bw’aba eri oyo amutuma.
+27  Okutya Yakuwa kuwangaaza omuntu,Naye emyaka gy’ababi gijja kusalibwako.
+28  Abatuukirivu bye basuubira bibawa essanyu,Naye essuubi ly’ababi lijja kusaanawo.
+29  Ekkubo lya Yakuwa kigo eri abo abataliiko kya kunenyezebwa,Naye litegeeza kuzikirira eri abo abakola ebibi.
+30  Omutuukirivu talyesittala;Naye ababi tebalisigala mu nsi.
+31  Akamwa k’omutuukirivu kavaamu eby’amagezi,Naye olulimi olwogera ebitasaana lujja kusirisibwa emirembe gyonna.
+32  Emimwa gy’omutuukirivu gimanyi ebisanyusa,Naye akamwa k’ababi koogera ebitasaana.
+4  Baana bange, muwulirize kitammwe by’abayigiriza;Musseeyo omwoyo mufune okutegeera,
+2  Kubanga nja kubayigiriza ebintu ebirungi;Temuvanga ku ebyo bye mbayigiriza.
+3  Nnali mwana muwulize eri kitange,Era nnayagalibwanga nnyo mmange.
+4  Kitange yanjigirizanga n’aŋŋamba nti: “Omutima gwo gunywererenga ku bigambo byange. Kwatanga ebiragiro byange, obenga mulamu.
+5  Funa amagezi, funa okutegeera. Teweerabiranga bigambo byange, era tobivangako.
+6  Tovanga ku magezi, gajja kukukuuma. Gaagalenga, gajja kukuwonya emitawaana.
+7  Amagezi kye kintu ekisinga obukulu, kale funa amagezi,Era mu byonna by’ofuna, funa n’okutegeera.
+8  Amagezi gatwale nga ga muwendo nnyo, gajja kukugulumiza. Gajja kukuweesa ekitiibwa olw’okuba ogaagala.
+9  Gajja kukwambaza omuge ogulabika obulungi;Gajja kukutikkira engule ekulabisa obulungi.”
+10  Mwana wange wuliriza, era kkiriza ebigambo byange,Olyoke owangaale emyaka mingi.
+11  Nja kukuyigiriza okutambulira mu kkubo ery’amagezi;Nja kukukulembera mu makubo ag’obutuukirivu.
+12  Bw’onoobanga otambula, tewali kineekiikanga mu kkubo lyo;Bw’onoddukanga, teweesittalenga.
+13  Nywerera ku ebyo ebikuyigiriziddwa; tobivangako. Bikuumenga, kubanga bwe bulamu bwo.
+14  Tokwatanga kkubo ly’ababi,Era totambuliranga mu kkubo ly’abakozi b’ebibi.
+15  Lyesambe, tolikwatanga;Lyewale, liyiteko buyisi.
+16  Kubanga tebayinza kwebaka nga tebannakola bibi. Tebafuna tulo okuggyako nga balina gwe baleetedde okugwa.
+17  Ebikolwa ebibi n’ebikolwa eby’obukambwe,Biringa emmere n’omwenge gye bali.
+18  Naye ekkubo ly’abatuukirivu liringa ekitangaala ekibaawo ng’obudde bwakakyaEkigenda kyeyongerayongera okutuusa obudde lwe butangaalira ddala.
+19  Ekkubo ly’ababi liringa ekizikiza;Tebamanya kibaleetera kwesittala.
+20  Mwana wange, ssaayo omwoyo ku bigambo byange;Wuliriza bulungi bye njogera.
+21  Tobyerabiranga,Bikuumire mu mutima gwo.
+22  Kubanga ebyo bwe bulamu eri abo ababizuula,Era bye bisobozesa omubiri gwabwe gwonna okuba omulamu obulungi.
+23  Kuumanga omutima gwo okusinga ekintu ekirala kyonna,Kubanga gwe gusibukamu ensulo ez’obulamu.
+24  Weesambe okwogera eby’obulimba,Era weewalire ddala ebigambo eby’obukuusa.
+25  Amaaso go gatunulenga butereevu mu maaso.Tomagamaganga.
+26  Tereeza ebigere byo we biyita,Olwo amakubo go gonna gajja kuba matebenkevu.
+27  Toddanga ku mukono ogwa ddyo oba ogwa kkono. Ebigere byo biggye awali ebibi.
+26  Ng’omuzira bwe gutasaana kugwa mu kiseera eky’omusana, era ng’enkuba bw’etasaana kutonnya mu kiseera eky’amakungula,N’ekitiibwa tekisaana kuweebwa musirusiru.
+2  Ng’ekinyonyi bwe kitaddukira bwereere, era ng’akataayi bwe katabuukira bwereere,N’ekikolimo tekibaawo awatali nsonga.
+3  Embalaasi eweweenyulwa kibooko, endogoyi esibibwa nkoba,N’abasirusiru bakubibwa emiggo mu mugongo.
+4  Omusirusiru tomuddangamu ng’obusirusiru bwe bwe buli,Oleme okumufaanana.
+5  Omusirusiru omuddangamu ng’obusirusiru bwe bwe buli,Aleme okulowooza nti wa magezi.
+6  Akwasa omusirusiru ensonga zeAba ng’omuntu alemaza ebigere bye ne yeereetera emitawaana.
+7  Engero eziva mu kamwa k’abasirusiruZiringa amagulu g’omulema agalebera.
+8  Okuwa omusirusiru ekitiibwaKuba ng’okusibira ejjinja mu nvuumuulo.
+9  Engero eziva mu kamwa k’abasirusiruZiba ng’ekimera ekiriko amaggwa ekiri mu mukono gw’omutamiivu.
+10  Akozesa omusirusiru oba abo ababa bayitawoAba ng’omulasi w’obusaale amala galasa buli ky’asanze.
+11  Omusirusiru akola eby’obusirusiru enfunda n’enfunda,Aba ng’embwa erya ebisesemye byayo.
+12  Wali olabye omuntu alowooza nti wa magezi? Omusirusiru wandimusuubira okukyusaamu okusinga omuntu ng’oyo.
+13  Omugayaavu agamba nti: “Mu kkubo mulimu empologoma,Mu luguudo mulimu empologoma!”
+14  Omugayaavu yeekyusiza ku kitanda kye,Ng’oluggi bwe lwekyusiza ku ppata zaalwo.
+15  Omugayaavu ateeka omukono gwe mu kibya,Naye n’abulwa amaanyi agaguzza ku mumwa.
+16  Omugayaavu alowooza nti wa mageziOkusinga abantu omusanvu abaddamu mu ngeri ey’amagezi.
+17  Omuntu aba ayitawo n’asunguwala olw’oluyombo olutali lulweAba ng’omuntu asika amatu g’embwa.
+18  Ng’omulalu akasuka eby’okulwanyisa eby’omuliro n’obusaale obutta,
+19  Bw’atyo bw’ali omuntu alimba munne n’agamba nti, “Mbadde nsaaga!”
+20  Bwe wataba nku, omuliro guzikira,Bwe watabaawo awaayiriza, okuyomba kuggwaawo.
+21  Ng’amanda n’enku bwe bireetera omuliro okwaka,N’omuyombi bw’atyo akoleeza oluyombo.
+22  Ebigambo by’omuntu awaayiriza biringa emmere ewooma;Bimirwa ne bikka mu lubuto.
+23  Ebigambo ebyoleka omukwano ebiva mu mutima omubiBiringa ffeeza asiigiddwa ku luggyo.
+24  Atayagala balala akikweka n’emimwa gyeNaye nga mu mutima gwe mulimu obulimba.
+25  Ne bw’ayogeza ekisa, tomwesiganga,Kubanga omutima gwe gulimu ebintu musanvu ebibi ennyo.
+26  Ne bw’alimbalimba n’akweka obukyayi bwe,Ebibi by’akola bijja kwanikibwa mu kibiina.
+27  Asima ekinnya alikigwamu,N’oyo ayiringisa ejjinja, lirimuddira.
+28  Olulimi olulimba terwagala abo be lulumya,N’akamwa akawaanawaana kaleeta emitawaana.
+11  Yakuwa akyayira ddala minzaani ezitali ntuufu,Naye ekipimo ekituufu kimusanyusa.
+2  Okwetulinkiriza kuvaamu okuswala,Naye abeetoowaze baba ba magezi.
+3  Obugolokofu bw’abatuukirivu bwe bubaluŋŋamya,Naye obutali bwesigwa bw’ab’enkwe bujja kubaviirako okuzikirira.
+4  Obugagga tebujja kuba na mugaso ku lunaku olw’obusungu,Naye obutuukirivu bwe bujja okuwonya omuntu okufa.
+5  Obutuukirivu bw’omuntu ataliiko kya kunenyezebwa butereeza ekkubo lye,Naye omubi ajja kugwa olw’ebintu ebibi by’akola.
+6  Obutuukirivu bw’abagolokofu bujja kubawonya,Naye ab’enkwe okwegomba kwabwe kujja kubakwasa.
+7  Omubi bw’afa, by’abadde asuubira biggwaawo;N’amaanyi agabadde gamweyinuza gaggwaawo.
+8  Omutuukirivu bamuwonya ennaku,Ennaku n’eddira omubi.
+9  Kyewaggula azikiriza munne ng’akozesa akamwa ke,Naye abatuukirivu okumanya kubawonya.
+10  Empisa ennungi ez’abatuukirivu zisanyusa ekibuga,Naye omubi bw’afa, abantu bajaguza.
+11  Ekibuga kigulumizibwa olw’omukisa gw’abatuukirivu,Naye akamwa k’ababi kakimenyaamenya.
+12  Buli atalina magezi anyooma munne,Naye omuntu omutegeevu asirika.
+13  Awaayiriza abalala agenda ayasanguza ebyama,Naye omwesigwa akuuma ebyama.
+14  Awatali bulagirizi bulungi abantu babonaabona,Naye awali abawi b’amagezi abangi ebintu bitambula bulungi.
+15  Eyeeyimirira omuntu gw’atamanyi agwa mu mitawaana,Naye oyo atayanguyiriza kukola ndagaano yeewala ebizibu.
+16  Omukazi ow’ekisa yeefunira ekitiibwa,Naye abasajja abakambwe banyaga eby’obugagga.
+17  Omuntu bw’abeera ow’ekisa kimuganyula,Naye omuntu omukambwe yeereetera emitawaana.
+18  Omuntu omubi afuna empeera eterina ky’egasa,Naye oyo asiga obutuukirivu afuna empeera eya nnamaddala.
+19  Anywerera ku butuukirivu aliba mulamu,Naye oyo akola ebibi ajja kufa.
+20  Yakuwa akyawa ab’omutima omukyamu,Naye abo abataliiko kya kunenyezebwa bamusanyusa.
+21  Ba mukakafu ku kino: Omubi talirema kubonerezebwa,Naye abaana b’omutuukirivu tebalituukibwako kabi.
+22  Omukazi alabika obulungi naye nga talina mageziAlinga empeta eya zzaabu eri mu nnyindo y’embizzi.
+23  Omutuukirivu bye yeegomba bimutuusa ku birungi,Naye omubi by’asuubira bisunguwaza Katonda.
+24  Omuntu omugabi afuna bingi;Naye omukodo ayavuwala.
+25  Omugabi ajja kugaggawala,Na buli azzaamu abalala amaanyi ajja kuzzibwamu amaanyi.
+26  Oyo atatunda mmere ye ey’empeke abantu bamukolimira,Naye oyo agitunda abantu bamusabira emikisa.
+27  Oyo afuba okukola ebirungi aba ayagala okusiimibwa,Naye oyo ayagala okukola ebibi, ebibi birimutuukako.
+28  Eyeesiga obugagga bwe ajja kugwa,Naye abatuukirivu bajja kutinta ng’ebikoola by’emiti.
+29  Oyo aleetera ab’omu maka ge emitawaana ajja kusikira mpewo,Era omusirusiru ajja kuba muweereza w’oyo alina omutima ogw’amagezi.
+30  Ebibala by’omutuukirivu muti gwa bulamu,Era oyo akubiriza abalala okukola ebirungi aba wa magezi.
+31  Bwe kiba nti abatuukirivu abali ku nsi baweebwa empeera ebagwanira,Kati olwo ababi n’aboonoonyi nabo tebaliweebwa mpeera ebagwanira?
+8  Amagezi tegakoowoola? N’okutegeera tekwogerera waggulu?
+2  Amagezi gayimirira ku bifunvu ku mabbali g’ekkubo,Ne mu masaŋŋanzira.
+3  Ku miryango gy’ekibuga,Ku nzigi awayingirirwa,Gakoowoola nti:
+4  “Mmwe abantu, mbayita;Nkoowoola buli omu.
+5  Mmwe abatalina bumanyirivu, muyige okubeera ab’amagezi;Mmwe abasirusiru, mufune omutima omutegeevu.
+6  Muwulirize, kubanga bye njogera bikulu,Emimwa gyange bye gyogera bituufu;
+7  Akamwa kange bye koogera bya mazima,Emimwa gyange gikyayira ddala ebintu ebibi.
+8  Byonna akamwa kange bye koogera bya butuukirivu. Tewali na kimu ku byo kinyooleddwanyooleddwa oba kikyamye.
+9  Bitegeerekeka bulungi eri abategeevu,Era bituufu eri abo abafunye okumanya.
+10  Mu kifo kya ffeeza, mulondewo bye mbayigiriza,Ne mu kifo kya zzaabu asinga obulungi, mulondewo okumanya,
+11  Kubanga amagezi gasinga amayinja ag’omuwendo ag’omu nnyanja;Ebintu ebirala byonna ebyegombebwa tebiyinza kugeraageranyizibwa nago.
+12  Nze amagezi mbeera wamu n’okutegeera;Nfunye okumanya n’obusobozi bw’okulowooza obulungi.
+13  Okutya Yakuwa kwe kukyawa ebintu ebibi. Nkyawa okwegulumiza, amalala, ekkubo ebbi, n’ebigambo ebitasaana.
+14  Mbuulirira bulungi era nnina amagezi;Okutegeera n’amaanyi byange.
+15  Nnyamba bakabaka okufuga,Nnyamba abakungu okuteekawo amateeka ag’obutuukirivu.
+16  Nnyamba abafuzi okufuga,Era nnyamba abakungu okulamula mu butuukirivu.
+17  Njagala abo abanjagala,N’abo abannoonya bajja kunzuula.
+18  Nnina obugagga n’ekitiibwa,Era nnina eby’obugagga eby’olubeerera n’obutuukirivu.
+19  Ebyo bye ngaba bisinga zzaabu, wadde oyo alongooseddwa,Era ebirabo bye mbawa bisinga ffeeza asinga obulungi.
+20  Mu kkubo ery’obutuukirivu mwe ntambulira,Wakati mu mpenda ez’obwenkanya;
+21  Abanjagala mbawa eby’obusika eby’omuwendo,Era nzijuza amaterekero gaabwe.
+22  Yakuwa yasooka kutonda nze,Nze ow’olubereberye mu mirimu gye egy’edda.
+23  Nnassibwawo dda nnyo,Ku lubereberye ng’ensi tennabaawo.
+24  Nnateekebwawo nga tewannabaawo nnyanja,Wadde ensulo ezijjudde amazzi.
+25  Nnateekebwawo ng’ensozi tezinnassibwawo,Era nga n’obusozi tebunnateekebwawo,
+26  Nga tannatonda nsi n’ettale,N’ettaka ly’oku nsi eryasooka.
+27  Bwe yali ateekateeka eggulu nnaliwo;Bwe yateekerawo amazzi ensalo,
+28  Bwe yassaawo ebire,Bwe yassaawo ensulo z’ennyanja,
+29  Bwe yateerawo ennyanja ekiragiroEreme kusukka nsalo ze yateekawo,Bwe yassaawo emisingi gy’ensi,
+30  Nnali awo ku lusegere lwe ng’omukozi omukugu. Nze gwe yayagalanga ennyo;Nnasanyukiranga mu maaso ge bulijjo;
+31  Nnasanyukira ensi ye etuulwamu,Era okusingira ddala nnayagala nnyo abaana b’abantu.
+32  Kale baana bange, mumpulirize;Balina essanyu abo abatambulira mu makubo gange.
+33  Muwulirize bye mbayigiriza mubenga n’amagezi,Temubivangako.
+34  Alina essanyu oyo ampuliriza. Akeera okujja ku nzigi zange buli lunaku,N’alindira ku myango gy’enzigi zange;
+35  Kubanga oyo anzuula ajja kufuna obulamu,Era asiimibwa Yakuwa.
+36  Naye oyo anneesamba yeerumya yekka;N’abo abankyawa baagala okufa.”
+30  Obubaka obukulu Aguli mutabani wa Yake bwe yategeeza Isiyeri ne Ukali.
+2  Mu bantu bonna nze nsingirayo ddala obutabaako kye mmanyi,Era sirina kutegeera omuntu kw’asaanidde okuba nakwo.
+3  Siyize magezi,Era okumanya kw’Oyo Asinga Obutukuvu sikulina.
+4  Ani yali alinnye mu ggulu ate n’akka? Ani yali akuŋŋaanyirizza empewo mu bibatu bye byombi? Ani yali asibye amazzi mu kyambalo kye? Ani yassaawo ensalo zonna ez’ensi? Erinnya lye y’ani, era erinnya ly’omwana we y’ani, bw’oba omanyi?
+5  Buli kigambo Katonda ky’ayogera kirongoofu,Era ye ngabo eri abo abaddukira gy’ali.
+6  Ebigambo bye tobyongerangako,Aleme okukukangavvula,Obulimba bwo ne bweyoleka.
+7  Waliwo ebintu bibiri bye nkusaba. Nsaba obimpe nga sinnafa.
+8  Obulimba n’ebigambo ebitali bya mazima biggye we ndi obisse wala.Tompa bwavu wadde obugagga.Ka ndye omugabo gwange ogw’emmere,
+9  Nneme okukkuta ne nkwegaana nga ŋŋamba nti, “Yakuwa y’ani?” Era nneme okuba omwavu ne nziba, ne nvumaganya erinnya lya Katonda wange.
+10  Towaayirizanga muweereza eri mukama we,Kubanga ayinza okukukolimira n’obaako omusango.
+11  Waliwo abantu abakolimira bakitaabweEra ne batassa kitiibwa mu bannyaabwe.
+12  Waliwo abantu abalowooza nti balongoofu,Naye nga tebanaaziddwako bucaafu bwabwe.
+13  Waliwo abantu ab’amaaso ag’amalala,Era ab’amaaso ageegulumiza.
+14  Waliwo abantu abalina amannyo agalinga ebitala,Era abalina emba eziringa ebiso;Balya abanaku ab’oku nsiN’abantu abaavu.
+15  Ebinoso birina abaana babiri abagamba nti: “Mpa! Mpa!” Waliwo ebintu bisatu ebitamatira,Ebintu bina ebitagamba nti, “Kimala!”
+16  Amagombe n’enda etazaala,Ettaka ekkalu,N’omuliro ogutagamba nti, “Kimala!”
+17  Omuntu akudaalira kitaawe era atagondera nnyina,Nnamuŋŋoona ez’omu kiwonvu zirimuggyamu eriiso,Era abaana b’empungu balirirya.
+18  Waliwo ebintu bisatu ebisukkiridde okutegeera kwange,Era waliwo bina bye sitegeera:
+19  Ekkubo ly’empungu mu bbanga,Ekkubo ly’omusota ku lwazi,Ekkubo ly’ekyombo ku nnyanja,Era n’ekkubo ly’omusajja ali n’omukazi.
+20  Lino lye kkubo ly’omukazi omwenzi: Alya, n’asangula ku mimwa gye;Awo n’agamba nti, “Sirina kikyamu kye nkoze.”
+21  Waliwo ebintu bisatu ebikankanya ensi,Era waliwo ebintu bina by’etayinza kugumiikiriza:
+22  Omuddu bw’afuga nga kabaka,Omusirusiru bw’aba n’emmere ennyingi,
+23  Omukazi atayagalibwa bw’afumbirwa,Era n’omuweereza omukazi bw’atwala ekifo ky’omukyala mukama we.
+24  Waliwo ebintu bina ku nsi nga bye bimu ku bisingayo obutono,Naye birina amagezi agaabitonderwamu:
+25  Enkuyege tezirina maanyi,Naye zeeteekerateekera eby’okulya mu kiseera eky’omusana.
+26  Obumyu obw’omu njazi si bwa maanyi,Naye buzimba ennyumba zaabwo mu njazi.
+27  Enzige tezirina kabaka,Naye zitambulira mu bibinja.
+28  Omunya gwekwata ku bintu n’ebigere byagwo,Ne gugenda mu lubiri lwa kabaka.
+29  Waliwo ebintu bisatu; weewaawo bina,Ebitambula mu ngeri eyeewuunyisa:
+30  Empologoma, esinga ensolo zonna amaanyi,Etedduka muntu yenna;
+31  Embwa enjizzi; embuzi ennume;Ne kabaka ali n’eggye lye.
+32  Bwe kiba nti obusirusiru bukuleetedde okwegulumiza,Oba bwe kiba nti obadde olowooza okukikola,Kwata ku mumwa gwo.
+33  Kubanga ng’okusunda amata bwe kuvaamu omuzigo,Era ng’okunyiga ennyindo bwe kugireetera okuvaamu omusaayi,Bwe kutyo n’okusunguwala bwe kuvaamu ennyombo.
+16  Omuntu ateekateeka ebirowoozo by’omutima gwe,Naye by’addamu biva eri Yakuwa.
+2  Amakubo g’omuntu gonna galabika ng’amatuufu gy’ali,Naye Yakuwa yeekenneenya ebiruubirirwa.
+3  Buli ky’okola kikwase Yakuwa,Olwo nno by’oteekateeka bijja kugenda bulungi.
+4  Buli kimu Yakuwa alina bw’akikoze okusobola okutuukiriza ekigendererwa kye,N’ababi abaleetera okuzikirizibwa ku lunaku olw’akatyabaga.
+5  Yakuwa akyayira ddala omuntu ow’omutima ogw’amalala,Era ba mukakafu nti ajja kubonerezebwa.
+6  Obwesigwa n’okwagala okutajjulukuka bisobozesa ekibi okusonyiyibwa,N’okutya Yakuwa kuleetera omuntu okwewala okukola ebibi.
+7  Yakuwa bw’asanyukira omuntu by’akola,Aleetera n’abalabe b’omuntu oyo okutabagana naye.
+8  Okuba n’ebitono ng’oli mutuukirivuKisinga okuba n’ebingi nga toli mwenkanya.
+9  Omuntu ayinza okuteekateeka mu mutima gwe ky’anaakola,Naye Yakuwa y’aluŋŋamya ebigere bye.
+10  Katonda ky’aba asazeewo kye kisaanidde okuba ku mimwa gya kabaka;Era tateekeddwa kusala misango mu ngeri etali ya bwenkanya.
+11  Ebipima ebituufu ne minzaani entuufu biva eri Yakuwa;Amayinja gonna ag’okupimisa agali mu nsawo ye yagakola.
+12  Bakabaka bakyayira ddala ebikolwa ebibi,Kubanga obutuukirivu bwe bunyweza entebe y’obwakabaka.
+13  Bakabaka basanyukira abo aboogera eby’obutuukirivu. Baagala omuntu ayogera amazima.
+14  Obusungu bwa kabaka bulinga omubaka aleeta okufa,Naye omuntu ow’amagezi abukkakkanya.
+15  Kabaka bw’alaga omuntu ekisa, omuntu oyo aba n’obulamu obweyagaza;Ekisa kya kabaka kiba ng’ekire ky’enkuba ey’omu ttoggo.
+16  Okufuna amagezi nga kisingira wala okufuna zzaabu! N’okufuna okutegeera kisinga okufuna ffeeza.
+17  Abagolokofu beewala ekkubo ebbi. Era omuntu eyeegendereza mu kkubo lye awonya obulamu bwe.
+18  Amalala gaviirako omuntu okugwa,Era okwegulumiza kuviirako omuntu okwesittala.
+19  Okuba omwetoowaze ng’oli wamu n’abawoombeefuKisinga okugabana ku munyago gw’ab’amalala.
+20  Omuntu ayoleka amagezi mu by’akola ajja kutuuka ku buwanguzi,Era alina essanyu oyo eyeesiga Yakuwa.
+21  Ow’omutima ogw’amagezi ajja kuyitibwa mutegeevu,Era oyo ayogeza ekisa abantu gwe bawuliriza.
+22  Okutegeera nsulo ya bulamu eri abo abakulina,Naye abasirusiru bakangavvulwa obusirusiru bwabwe.
+23  Omutima gw’omuntu ow’amagezi guwa akamwa ke okutegeera,Era gumusobozesa okwogera ebigambo ebisikiriza.
+24  Ebigambo ebirungi biringa ebisenge by’omubisi gw’enjuki,Biwoomera omuntu era biwonya amagumba.
+25  Waliwo ekkubo omuntu ly’alaba ng’ettuufu,Naye nga ku nkomerero litwala mu kufa.
+26  Okwagala okulya kuleetera omukozi okukola ennyo,Kubanga okulumwa enjala kumuwaliriza okukola.
+27  Omuntu atalina mugaso alowooza kukola bibi;Ebigambo bye biringa omuliro ogubabula.
+28  Omuntu ow’effujjo aleeta enjawukana,N’oyo awaayiriza ayawukanya ab’omukwano.
+29  Omuntu akola ebikolwa eby’obukambwe asendasenda munne,N’amutwala mu kkubo ekkyamu.
+30  Atta ku liiso ng’ateekateeka okukola akabi. Aluma emimwa ng’akola ebibi.
+31  Envi ngule erabika obulungiBwe zisangibwa mu kkubo ery’obutuukirivu.
+32  Omuntu alwawo okusunguwala asinga omusajja ow’amaanyi,N’oyo afuga obusungu bwe asinga awamba ekibuga.
+33  Akalulu kakubibwa nga kasuulibwa mu kikondoolo,Naye kyonna ekiva mu kalulu, Yakuwa y’aba akisazeewo.
+18  Eyeeyawula ku balala yeenoonyeza bibye,Era yeesamba amagezi amalungi gonna.
+2  Omusirusiru tasanyukira kutegeera,Wabula ky’ayagala kyokka kwe kwogera ekyo ky’alowooza.
+3  Omubi bw’ajja, n’okunyoomebwa kujja,Era n’awaba okuweebuulwa wabaawo okuswazibwa.
+4  Ebigambo by’omu kamwa k’omuntu mazzi ga buziba. Ensibuko y’amagezi eringa omugga ogukulukuta.
+5  Si kirungi okwekubiira ku ludda lw’omubiOba okuyisa omutuukirivu mu ngeri etali ya bwenkanya.
+6  Ebigambo by’omusirusiru bireeta ennyombo,Era akamwa ke kamuleetera okukubibwa.
+7  Akamwa k’omusirusiru ke kamuleetera okuzikirira,Era emimwa gye gisuula obulamu bwe mu mutego.
+8  Ebigambo by’omuntu awaayiriza biringa emmere ewooma;Bimirwa ne bikka mu lubuto.
+9  Akola emirimu n’obugayaavuAba muganda w’oyo asaanyaawo ebintu.
+10  Erinnya lya Yakuwa kigo kya maanyi. Omutuukirivu addukira omwo n’afuna obukuumi.
+11  Ebintu by’omugagga kye kibuga kye ekiriko bbugwe;Biringa ekigo mu kulaba kwe.
+12  Omutima ogw’amalala guleetera omuntu emitawaana,Naye obuwombeefu buvaamu ekitiibwa.
+13  Omuntu yenna bw’addamu nga tannawuliriza nsonga,Aba akoze kya busirusiru era kimuswaza.
+14  Omutima omugumu guyamba omuntu okugumira obulwadde,Naye ani ayinza okuguma omutima gwe bwe guba nga mwennyamivu?
+15  Omutima gw’omutegeevu gufuna okumanya,N’okutu kw’ab’amagezi kunoonya okumanya.
+16  Ekirabo ky’omuntu kimuggulirawo ekkubo;Kimusobozesa okutuuka ku bantu ab’ekitiibwa.
+17  Asooka okwanja ensonga ze alabika ng’omutuufu,Okutuusa omulala lw’ajja n’amusoya ebibuuzo awe obukakafu.
+18  Akalulu kamala empaka,Era katawulula abalina enkaayana.
+19  Kyangu okuwamba ekibuga ekiriko bbugwe okusinga okusemberera ow’oluganda anyiize,Era wabaawo ennyombo eziringa ebisiba eby’ekigo.
+20  Omuntu by’ayogera n’akamwa ke biringa emmere ejjula mu lubuto lwe;Ajja kwolekagana n’ebyo ebiva mu by’ayogera.
+21  Olulimi lulina obuyinza ku kufa n’obulamu;Abo abaagala okulukozesa bajja kulya ebibala byalwo.
+22  Oyo afuna omukyala omulungi aba afunye ekintu ekirungi,Era Yakuwa amusiima.
+23  Omwavu yeegayirira omugagga amuyambe,Naye omugagga amuddamu na bukambwe.
+24  Wabaawo abantu ababa ab’omukwano kyokka nga buli omu ayagala okutuusa akabi ku munne,Naye wabaawo ow’omukwano anywerera ku munne okusinga ow’oluganda.
+17  Okulya emmere ennuma nga waliwo emirembeKisinga okulya embaga mu nnyumba omuli okuyomba.
+2  Omuddu omutegeevu alifuga omwana akola ebiswaza;Alifuna obusika ng’omu ku baana.
+3  Entamu eba ya kugezesa ffeeza, n’ekyoto kiba kya kugezesa zzaabu,Naye Yakuwa y’akebera emitima.
+4  Omuntu omubi assaayo omwoyo ku bigambo ebirumya,N’omusajja omulimba awuliriza ebigambo eby’ettima.
+5  Akudaalira omwavu anyiiza eyamutonda,N’oyo asanyuka ng’abalala bafunye emitawaana taaleme kubonerezebwa.
+6  Abazzukulu ye ngule y’abakaddiye,Era bataata kye kitiibwa kya batabani baabwe.
+7  Okwogera ebituufu tekigwanira musirusiru. Kati olwo omufuzi y’agwanira okwogera eby’obulimba?
+8  Ekirabo kiringa ejjinja ery’omuwendo eri nnyini kyo;Yonna gy’alaga, kimutuusa ku buwanguzi.
+9  Asonyiwa akoze ekibi aba anoonya okwagalibwa,Naye ayogera ku nsonga olutatadde ayawukanya ab’omukwano ennyo.
+10  Omuntu omutegeevu anenyezebwa lumu n’aganyulwaOkusinga omusirusiru akubibwa emirundi kikumi.
+11  Omuntu omubi aba ayagala kujeema bujeemi,Naye bajja kumutumira omubaka omukambwe amubonereze.
+12  Waakiri osisinkana eddubu eriggiddwako abaana baalyoN’otosisinkana musirusiru mu busirusiru bwe.
+13  Omuntu asasula ekibi olw’ekirungi,Emitawaana tegiriva mu nnyumba ye.
+14  Okutandika olutalo kuba nga kuggulira mazzi. Ovangawo ng’oluyombo terunnabalukawo.
+15  Omuntu eyejjeereza omubi, n’oyo asingisa omutuukirivu omusango—Bombi Yakuwa abakyayira ddala.
+16  Kigasa ki omusirusiru okuba n’obusobozi bw’okufuna amageziNg’ate talina mutima gwa kugafuna?
+17  Ow’omukwano owa nnamaddala alaga okwagala ebbanga lyonna,Era afuuka muganda wo mu biro eby’okulaba ennaku.
+18  Atalina magezi akola endagaano era n’akkirizaOkweyimirira omulala nga waliwo munne.
+19  Ayagala ennyombo aba ayagala okwonoona. N’oyo akola omulyango omuwanvu yeereetera okugwa.
+20  Ow’omutima omukyamu tajja kutuuka ku buwanguzi,N’oyo ayogera eby’obulimba ajja kugwa mu kabi.
+21  Omuntu azaala omwana omusirusiru ajja kulaba ennaku;Era kitaawe w’omwana omusirusiru taba na ssanyu.
+22  Omutima omusanyufu ddagala ddungi,Naye omwoyo omwennyamivu gunafuya omubiri.
+23  Omuntu omubi alya enguzi mu nkukutuN’atasala musango mu bwenkanya.
+24  Amagezi gaba awo mu maaso g’omutegeevu,Naye amaaso g’abasirusiru gataayaaya okutuuka ku nkomerero y’ensi.
+25  Omwana omusirusiru anakuwaza kitaaweEra yennyamiza oyo eyamuzaala.
+26  Si kirungi okubonereza omutuukirivu,Era kiba kikyamu okukuba abantu ab’ebitiibwa.
+27  Omuntu ow’amagezi yeefuga mu by’ayogera,N’omutegeevu asigala mukkakkamu.
+28  Omusirusiru bw’asirika atwalibwa okuba ow’amagezi,N’oyo abunira atwalibwa okuba omutegeevu.
+9  Amagezi gazimbye ennyumba yaago;Gagikoledde empagi musanvu.
+2  Gateeseteese bulungi ennyama yaago;Gatabudde omwenge gwago,Era gategese n’emmeeza yaago.
+3  Gasindise abaweereza baago abakazi,Bagende mu bifo by’ekibuga ebigulumivu balangirire nti:
+4  “Buli atalina bumanyirivu ajje eno.” Amagezi gagamba oyo atalina magezi nti:
+5  “Jjangu olye emmere gye nfumbye,Era onywe n’omwenge gwe ntabudde.
+6  Mulekere awo obutaba na bumanyirivu mube balamu;Mutambulire mu kkubo ery’okutegeera.”
+7  Oyo awabula omunyoomi yeereetera okuswala,Na buli anenya omuntu omubi ajja kulumizibwa.
+8  Tonenyanga munyoomi, aleme okukukyawa. Nenya ow’amagezi, anaakwagalanga.
+9  Yigiriza omuntu ow’amagezi, aneeyongera okuba ow’amagezi. Yigiriza omutuukirivu, aneeyongera okuyiga.
+10  Okutya Yakuwa ye ntandikwa y’amagezi,Era okumanya Oyo Asingayo Okuba Omutukuvu kwe kutegeera.
+11  Kubanga nja kusobozesa ennaku zo okuba ennyingi,Era ojja kuwangaala.
+12  Bw’ofuna amagezi, ggwe aganyulwa mu magezi go,Naye bw’oganyooma, ggwe wekka akosebwa.
+13  Omukazi omusirusiru ayogerera waggulu. Tategeera era talina ky’amanyi.
+14  Atuula ku mulyango gw’ennyumba ye,Ku ntebe mu bifo ebigulumivu eby’omu kibuga,
+15  N’akoowoola abayitawo,Abali ku ŋŋendo zaabwe ng’agamba nti:
+16  “Buli atalina bumanyirivu, ajje eno.” Era agamba abo abatalina magezi nti:
+17  “Amazzi amabbe gawooma,N’emmere eriibwa mu nkukutu ewooma.”
+18  Naye abo b’ayita tebamanyi nti abaafa bali eyo,Era nti n’abagenze gy’ali bali wansi ddala mu magombe.
+28  Ababi badduka nga tewali abagoba,Naye abatuukirivu bagumu ng’empologoma.
+2  Ensi bw’ebaamu obujeemu, eba n’abafuzi ab’omuddiŋŋanwa,Naye omufuzi bw’ayambibwa omuntu omutegeevu era ow’amagezi awangaala nnyo.
+3  Omuntu omwavu akumpanya abanaku,Aba ng’enkuba etwala emmere yonna.
+4  Abo abatakwata mateeka batendereza omubi,Naye abo abakwata amateeka babasunguwalira.
+5  Abantu ababi tebategeera bwenkanya,Naye abo abanoonya Yakuwa basobola okutegeera ebintu byonna.
+6  Omwavu atambulira mu bugolokofu,Asinga omugagga atambulira mu makubo amakyamu.
+7  Omwana omutegeevu akwata amateeka,Naye munne w’ab’omululu aswaza kitaawe.
+8  Oyo agaggawala olw’okuggya amagoba ku abo b’awola,Obugagga bwe abukuŋŋaanyiza oyo asaasira abaavu.
+9  Agaana okuwuliriza amateeka,N’okusaba kwe kuba kwa muzizo.
+10  Oyo awabya omugolokofu n’amutwala mu kkubo ekkyamu ajja kugwa mu kinnya ye kennyini ky’asimye,Naye ataliiko kya kunenyezebwa ajja kusikira ebirungi.
+11  Omugagga alowooza nti wa magezi,Naye omwavu ategeera asobola okumanya omugagga oyo ky’ali.
+12  Abatuukirivu bwe bawangula, kiba kya kitiibwa,Naye ababi bwe bafuna obuyinza, abantu beekweka.
+13  Oyo abikka ku bibi bye ebintu tebijja kumugendera bulungi,Naye buli ayatula ebibi bye n’abireka ajja kusaasirwa.
+14  Alina essanyu omuntu aba omwegendereza buli kiseera,Naye akakanyaza omutima gwe ajja kufuna ebizibu.
+15  Omufuzi afuga obubi abantu abateesobola,Aba ng’empologoma ewuluguma oba ng’eddubu eriswakidde.
+16  Omukulembeze atategeera akozesa bubi obuyinza bwe,Naye oyo akyawa okwefunira ebintu mu makubo amakyamu ajja kuwangaala.
+17  Oyo omutima gwe gulumiriza olw’okutta omuntu anaabungeetanga okutuusa lw’aligenda mu ntaana. Tewabangawo amuyamba.
+18  Oyo atambulira mu bugolokofu ajja kulokolebwa,Naye atambulira mu makubo amakyamu ajja kugwa mbagirawo.
+19  Omuntu alima ennimiro ye anaabanga n’emmere nnyingi,Naye oyo akola ebitagasa ajja kwavuwala.
+20  Omuntu omwesigwa anaafunanga emikisa mingi,Naye oyo ayagala okugaggawala amangu taaleme kubaako kya kunenyezebwa.
+21  Okusosola si kirungi;Naye omuntu ayinza okukola ekintu ekibi olw’okwagala okufuna eky’okulya.
+22  Omuntu ow’ensaalwa ayagala nnyo okugaggawala,Kyokka n’atamanya nti aliyavuwala.
+23  Oyo anenya omuntu oluvannyuma alisiimibwa,Okusinga oyo akozesa olulimi lwe okumuwaanawaana.
+24  Oyo anyaga kitaawe ne nnyina n’agamba nti, “Si kikyamu,” Aba munne w’oyo asaanyaawo ebintu.
+25  Ow’omululu awakula ennyombo,Naye oyo eyeesiga Yakuwa anaabanga bulungi.
+26  Buli eyeesiga omutima gwe musirusiru,Naye atambulira mu magezi ajja kuwona akabi.
+27  Buli agabira abaavu taajulenga kintu kyonna,Naye oyo azibiriza amaaso ge aleme kubalaba alikolimirwa ebikolimo bingi.
+28  Ababi bwe bafuna obuyinza, abantu beekweka;Naye bwe bazikirira abatuukirivu beeyongera.
+27  Teweenyumiririzanga mu bya nkya,Kubanga tomanyi lunaku bye lunaaleeta.
+2  Leka omuntu omulala akutendereze so si akamwa ko;Leka abalala bakutendereze so si emimwa gyo.
+3  Ejjinja lizitowa n’omusenyu muzito,Naye emitawaana egireetebwa omusirusiru gibisinga byombi obuzito.
+4  Obusungu bukambwe n’ekiruyi kiringa amataba,Naye ani ayinza okugumira obuggya?
+5  Okunenya mu lwatu kusinga okwagala okukisiddwa.
+6  Ow’omukwano omwesigwa akuwabula wadde nga kiyinza obutakusanyusa,Naye okunywegera kw’omulabe kuba kungi.
+7  Omuntu akkuse agaana omubisi ogw’omu bisenge by’enjuki,Naye omuyala n’ekikaawa kiba kimuwoomera.
+8  Omuntu ava ewaabwe n’abula,Aba ng’ekinyonyi ekivudde mu kisu kyakyo.
+9  Ng’amafuta g’ezzeyituuni n’obubaani bwe bisanyusa omutima,N’ow’omukwano akuwabula mu bwesimbu bw’atyo bw’aba.
+10  Toyabuliranga mukwano gwo oba mukwano gwa kitaawo,Era toyingiranga mu nnyumba ya muganda wo ng’oli mu buzibu;Munno ali okumpi asinga ow’oluganda ali ewala.
+11  Mwana wange beeranga wa magezi osanyusenga omutima gwange,Ndyoke mbeere n’eky’okuddamu eri oyo ansoomooza.
+12  Omuntu ow’amagezi alaba akabi ne yeekweka,Naye atalina bumanyirivu agenda bugenzi mu maaso n’agwa mu mitawaana.
+13  Twala ekyambalo ky’omusajja eyeeyimirira omuntu gw’atamanyi;Twala kye yasingawo bw’aba nga yakisingawo olw’omukazi omwenzi.
+14  Omuntu bw’ayagaliza munne emikisa mu ddoboozi ery’omwanguka ku makya ennyo,Aba ng’amukolimidde.
+15  Omukazi omuyombi alinga ennyumba etonnya olutata.
+16  Asobola okumuziyiza, asobola n’okuziyiza empewo,Era asobola n’okunyweza amafuta mu mukono gwe ogwa ddyo.
+17  Ng’ekyuma bwe kiwagala ekyuma,N’omuntu bw’atyo bw’awagala mukwano gwe.
+18  Omuntu alabirira omutiini alya ebibala byagwo,N’omuntu afa ku mukama we agulumizibwa.
+19  Ng’omuntu bwe yeeraba ng’atunudde mu mazzi,N’omutima gw’omuntu omu bwe gwoleka ebiri mu gw’omulala.
+20  Amagombe n’ekifo eky’okuzikiririramu tebimatira;Amaaso g’omuntu nago tegamatira.
+21  Entamu eba ya kugezesa ffeeza, n’ekyoto kiba kya kugezesa zzaabu,Bwe kutyo n’okutenderezebwa omuntu kw’afuna kwe kumugezesa.
+22  Ne bw’osekula omusirusiru n’omusekuzo mu kinuNga bw’osekula emmere ey’empeke,Obusirusiru bwe tebujja kumuvaamu.
+23  Osaanidde okumanya obulungi ekisibo kyo bwe kifaanana. Labirira bulungi endiga zo,
+24  Kubanga obugagga tebuba bwa lubeerera,N’engule teba ya mirembe gyonna.
+25  Omuddo gukala omulala ne gumera,N’omuddo ogw’oku nsozi gukuŋŋaanyizibwa.
+26  Ebyoya by’endiga ento bikolebwamu ebyambalo,N’embuzi ennume zivaamu ssente ezigula ekibanja.
+27  Wajja kubangawo amata g’embuzi agamala okukuliisa,N’okuliisa ab’omu nnyumba yo, era n’abaweereza bo abakazi.
+7  Mwana wange, kwata ebigambo byange,Era okuumire mu mutima gwo ebiragiro byange.
+2  Kwata ebiragiro byange obenga mulamu;Bye nkuyigiriza bikuume ng’emmunye y’eriiso lyo.
+3  Bisibe ku ngalo zo;Biwandiike ku mutima gwo.
+4  Gamba amagezi nti, “Oli mwannyinaze,” N’okutegeera kugambe nti: “nkulinako oluganda,”
+5  Bijja kukukuuma bikuwonye omukazi omwenzi,Omukazi omugwenyufu ayogera ebigambo ebisikiriza.
+6  Nnayima ku ddirisa ly’ennyumba yange,Ne ntunula wansi,
+7  Ne nneetegereza abavubuka abatalina bumanyirivu,Ne ndaba mu bo omuvubuka atalina magezi.
+8  Yali atambula ng’ayita okumpi n’ekkubo erikyama ew’omukazi oyo,N’akyama n’ayolekera ennyumba ye,
+9  Obudde bwali buwungedde,Ng’enzikiza etandise okukwata.
+10  Awo ne ndaba omukazi eyamusisinkana,Eyali ayambadde nga malaaya, era ow’omutima omukuusa.
+11  Omukazi oyo ayogerera waggulu era muwaganyavu. Tatuula waka.
+12  Ebiseera ebimu aba bweru, ate ebiseera ebirala aba mu bifo ebya lukale,Ateegera mu buli kkoona.
+13  Yavumbagira omuvubuka oyo n’amunywegera;Yamutunuulira nga taliiko nsonyi ku maaso, n’amugamba nti:
+14  “Nnalina okuwaayo ssaddaaka ez’emirembe. Olwa leero ntuukirizza obweyamo bwange.
+15  Kyenvudde nzija nkusisinkane,Nkunoonyezza, era kaakano nkuzudde!
+16  Ekitanda kyange nkyazeeko essuuka ennungi,Eza langi ez’enjawulo eza kitaani ava e Misiri.
+17  Nkimansiddeko miira, alowe, ne mudalasiini.
+18  Jjangu tutamiire omukwano okukeesa obudde;Ka tunyumirwe omukwano,
+19  Kubanga baze taliiyo eka;Yagenda ku lugendo luwanvu.
+20  Yagenda n’essente,Ajja kukomawo ng’omwezi gwa ggabogabo.”
+21  Amulimbalimba n’olulimi olusendasenda ennyo n’amukkirizisa. Amusendasenda n’ebigambo ebisikiriza.
+22  Amangu ago omuvubuka amugoberera ng’ente gye batwala okusala,Ng’omuntu omusirusiru agenda okuteekebwa mu nvuba,
+23  Okutuusa akasaale lwe kafumita ekibumba kye;Okufaananako ekinyonyi ekigenda okugwa mu mutego, tamanyi nti ajja kufiirwa obulamu bwe.
+24  Kale baana bange, mumpulirizeMusseeyo omwoyo eri ebigambo bye njogera.
+25  Temukkirizanga emitima gyammwe okutwalirizibwa ne mugoberera amakubo ge. Temuwabanga ne mutambulira mu mpenda ze,
+26  Kubanga aleetedde bangi okuttibwa,Era n’abo b’asse nkumu.
+27  Ennyumba ye etwala abantu emagombe;Ebaserengesa mu bisenge by’okufa.
+23  Bw’otuulanga okuliira awamu ne kabaka,Ogendereranga nnyo ebiba biteekeddwa mu maaso go;
+2  WeefugangaBw’oba oyagala nnyo okulya.
+3  Teweegombanga mmere ye ewooma,Kubanga ebuzaabuza.
+4  Teweekooya kunoonya bya bugagga. Lekera awo era yoleka amagezi.
+5  Bw’obitunuulira, tebibaawo,Kubanga byefunira ebiwaawaatiro ng’empungu ne bibuuka mu bbanga.
+6  Tolyanga mmere ya mukodo;Teweegombanga mmere ye ewooma,
+7  Kubanga aba ng’oyo alina ky’aluubirira. Akugamba nti: “Lya era onywe,” naye nga takitegeeza.
+8  Ojja kusesema by’olidde,N’ebigambo ebirungi by’oyogedde bijja kukufa bwereere.
+9  Toyogeranga na musirusiru,Kubanga ajja kunyooma eby’amagezi by’oyogera.
+10  Tojjululanga kabonero ak’edda akalamba olusalosalo,Era toyingiriranga kibanja ky’abaana abatalina bakitaabwe.
+11  Kubanga Omununuzi waabwe wa maanyi;Ajja kubalwanirira.
+12  Ssaayo omwoyo ku ebyo ebikuyigirizibwaEra wuliriza ebigambo eby’amagezi.
+13  Tolekangayo kukangavvula mwana. Bw’omukuba n’omuggo, tajja kufa.
+14  Mukube n’omuggo,Omuwonye okugenda emagombe.
+15  Mwana wange, omutima gwo bwe gunaabanga ogw’amagezi,Omutima gwange gunaasanyukanga.
+16  Era omutima gwange gunaasanyukangaEmimwa gyo bwe ginaayogeranga ebituufu.
+17  Omutima gwo ka guleme okukwatirwanga aboonoonyi ensaalwa,Naye tyanga Yakuwa olunaku lwonna,
+18  Ebiseera byo eby’omu maaso biryoke bibe birungiEra n’eby’osuubira bireme kugwa butaka.
+19  Mwana wange, wuliriza ofuuke wa magezi,Omutima gwo guluŋŋamizibwe mu kkubo ettuufu.
+20  Tobanga mu abo abeekamirira omwenge,Wadde mu abo abeevuubiika ennyama,
+21  Kubanga omutamiivu n’omuluvu baavuwala,Era okwebakiriza kwambaza omuntu enziina.
+22  Wuliranga kitaawo eyakuzaala,Era tonyoomanga nnyoko olw’okuba akaddiye.
+23  Gula amazima, n’amagezi, n’okuyigirizibwa, awamu n’okutegeera,Era tobitundanga.
+24  Kitaawe w’omutuukirivu anaabanga musanyufu,Era buli azaala omwana ow’amagezi anaamwenyumiririzangamu.
+25  Kitaawo ne nnyoko bajja kusanyuka,Era omukazi eyakuzaala ajja kujaganya.
+26  Mwana wange, mpa omutima gwo,Era amaaso go ka gasanyukirenga amakubo gange.
+27  Kubanga omukazi malaaya kinnya kiwanvu,N’omukazi omugwenyufu luzzi lufunda.
+28  Ateega ng’omunyazi,Era ayongera ku muwendo gw’abasajja abatali beesigwa.
+29  Baani abalina ennaku? Baani abeeraliikirira? Baani abayomba? Baani abeemulugunya? Baani abalina ebiwundu eby’obwereere? Baani abalina amaaso agamyuse?
+30  Abo abalwa ku mwenge;Abo abanoonya omwenge omuka.
+31  Totunuulira bumyufu bwa mwengeNga gutangalijja mu kikopo era nga gukka bulungi mu mumiro,
+32  Kubanga oluvannyuma gubojja ng’omusota,Era guvaamu obusagwa ng’obw’omusota.
+33  Amaaso go gajja kulaba ebintu ebitategeerekeka,N’omutima gwo gujja kwogera ebitasaana.
+34  Era ojja kuba ng’omuntu agalamidde wakati mu nnyanja,Oba ng’omuntu agalamidde waggulu ku mulongooti gw’ekyombo.
+35  Ojja kugamba nti: “Bankubye, naye sirumiddwa. Bankubye naye ne simanya. Nnaazuukuka ddiNzireyo ngunoonye nate?”
+22  Okulondawo erinnya eddungi kisinga okulondawo eby’obugagga ebingi;Okussibwamu ekitiibwa kisinga ffeeza ne zzaabu.
+2  Abagagga n’abaavu kino kye bafaananya: Bonna Yakuwa ye yabatonda.
+3  Omuntu ow’amagezi alaba akabi ne yeekweka,Naye atalina bumanyirivu agenda bugenzi mu maaso n’agwa mu mitawaana.
+4  Obuwombeefu n’okutya YakuwaBivaamu obugagga n’ekitiibwa n’obulamu.
+5  Amaggwa n’emitego biri mu kkubo ly’abatali bagolokofu,Naye oyo ayagala obulamu bwe abyewala.
+6  Yigiriza omwana ekkubo ly’asaanidde okutambuliramu;Ne bw’aliba ng’akaddiye talirivaamu.
+7  Omugagga y’afuga omwavu,Era oyo eyeewola aba muddu w’oyo amuwola.
+8  Oyo asiga obutali butuukirivu akungula mitawaana,Era omuggo gw’obusungu bwe gujja kuggwaawo.
+9  Omuntu omugabi ajja kuweebwa emikisa,Kubanga abaavu abawa ku mmere ye.
+10  Gobawo omunyoomi,Ennyombo zijja kuggwaawo,Era enkaayana n’okuvuma bijja kukoma.
+11  Omuntu ayagala omutima omulongoofu era ayogeza ekisaAjja kufuuka mukwano gwa kabaka.
+12  Amaaso ga Yakuwa gakuuma okumanya,Naye asaanyaawo ebigambo by’ab’enkwe.
+13  Omugayaavu agamba nti: “Ebweru eriyo empologoma! Ejja kunzitira mu luguudo!”
+14  Akamwa k’omukazi omwenzi kinnya kiwanvu. Oyo Yakuwa gw’asalidde omusango alikigwamu.
+15  Obusirusiru buba mu mutima gw’omwana,Naye omuggo gubuggyamu.
+16  Oyo akumpanya omwavu ye yeegaggawaze,N’oyo agabira abagagga ebirabo,Bajja kwavuwala.
+17  Tega okutu owulire ebigambo ab’amagezi bye boogera,Osobole okumanya bye nkuyigiriza,
+18  Kubanga kiba kirungi okubikuumira mu mutima gwo,Osobole okubyogerangako.
+19  Nkunnyonnyodde ebintu leeroOsobole okussa obwesige mu Yakuwa.
+20  NkuwandiikiddeOkukubuulirira n’okubaako bye nkuyigiriza,
+21  Okukuyigiriza ebigambo ebituufu era ebyesigika,Osobole okuddayo n’obubaka obutuufu eri oyo eyakutuma.
+22  Tonyaganga mwavu olw’okuba mwavu,Era tonyigiririzanga munaku mu mulyango gw’ekibuga,
+23  Kubanga Yakuwa ajja kukakasa nti balamulwa mu bwenkanya,Era ajja kuzikiriza abo ababanyaga.
+24  Tokolagananga na muntu wa busungu,Oba oyo ow’ekiruyi,
+25  Sikulwa ng’oyiga emize gyeN’ogwa mu kyambika.
+26  Tobanga mu abo abakwatagana mu ngalo okukakasa endagaano,Abeeyimirira abo ababa beewoze amabanja.
+27  Bw’oliremwa okusasula,Balitwala ekitanda kyo kw’osula!
+28  Tojjululanga kabonero ak’edda akalamba olusalosaloBajjajjaabo ke bassaawo.
+29  Olabye omusajja eyakuguka mu mulimu gwe? Ajja kuyimirira mu maaso ga bakabaka;Tajja kuyimirira mu maaso g’abantu aba bulijjo.
+6  Mwana wange, bw’oba nga weeyimiririra munno,Bw’oba nga wakola endagaano n’omuntu gw’otomanyi,
+2  Bye wasuubiza bwe biba bikusudde mu mutego,Ng’ebigambo ebyava mu kamwa ko bikukwasizza,
+3  Kola bw’oti mwana wange, osobole okwewonya,Kubanga ogudde mu mukono gw’omuntu omulala: Genda gy’ali weetoowaze, omwegayirire.
+4  Teweebaka,Era tosumagira okutuusa ng’omaze okukikola.
+5  Mwetakkuluzeeko ng’enjaza bwe yeetakkuluza ku muyizzi,Era ng’ekinyonyi bwe kyetakkuluza ku oyo atega ebinyonyi.
+6  Ggwe omugayaavu, genda eri enkuyege;Weetegereze bye zikola ofune amagezi.
+7  Newakubadde tezirina muduumizi, mukulu, oba mufuzi,
+8  Ziteekateeka emmere yaazo mu kiseera eky’omusana,Era zikuŋŋaanya eby’okulya mu kiseera eky’amakungula.
+9  Kale ggwe omugayaavu, onootuusa wa okwebaka? Onoozuukuka ddi mu tulo two?
+10  Bwe weebakamu katono, bw’osumagiramu katono,Era bw’ozinga emikono owummuleko,
+11  Obwavu bujja kukuzinda ng’omuzigu,N’obwetaavu bukuzinde ng’omusajja akutte eby’okulwanyisa.
+12  Omusajja omubi ataliiko ky’agasa agenda ayogera ebigambo eby’obulimba;
+13  Atta ku liiso, asiita ekigere, era awenyaawenya n’engalo ze.
+14  Omutima gwe mwonoonefu,Era buli kiseera aba ateekateeka kukola bibi na kuleetawo njawukana.
+15  Akabi kyekanaava kamugwako embagirawo;Mu kaseera katono ajja kumenyebwa abe nga tasobola kuwona.
+16  Waliwo ebintu mukaaga Yakuwa by’akyawa;Weewaawo musanvu by’atayagalira ddala:
+17  Amaaso ag’amalala, olulimi olulimba, n’emikono egiyiwa omusaayi ogutaliiko musango,
+18  Omutima ogugunja enkwe, ebigere ebidduka embiro okukola ebibi,
+19  Omujulizi ow’obulimba ayogera bulimba,N’omuntu aleetawo enjawukana mu b’oluganda.
+20  Mwana wange, kwatanga ebiragiro bya kitaawo,Era tovanga ku ebyo nnyoko by’akuyigiriza.
+21  Bulijjo bisibenga ku mutima gwo;Bisibenga mu bulago bwo.
+22  Binaakukulemberanga ng’otambula;Binaakukuumanga nga weebase;Era binaayogeranga naawe ng’ozuukuse.
+23  Kubanga ekiragiro ttaala,N’etteeka kitangaala,Era okuwabulwa n’okukangavvulwa kkubo lya bulamu.
+24  Bijja kukukuuma owone omukazi omubi,N’ebigambo ebisendasenda eby’omukazi omugwenyufu.
+25  Teweegombanga bulungi bwe mu mutima gwo,Era tosikirizibwanga maaso ge amalungi,
+26  Olwa malaaya, omusajja tasigaza kantu konna okuggyako omugaati,Era muka omusajja aleetera omuntu okufiirwa obulamu bwe.
+27  Omuntu asobola okuteeka omuliro mu kifuba kye ne gutayokya byambalo bye?
+28  Oba omuntu asobola okutambulira ku manda agookya ne gatamwokya bigere?
+29  Bwe kityo bwe kiba eri omuntu eyeegatta ne muka munne;Omuntu eyeegatta naye talirema kubonerezebwa.
+30  Omuntu abba olw’okuba alumwa enjalaAbantu tebamunyooma.
+31  Naye bwe bamukwata, aliwa emirundi musanvu,Era awaayo ebintu byonna eby’omuwendo eby’omu nnyumba ye.
+32  Omuntu yenna ayenda ku mukazi talina magezi;Oyo akikola azikiriza obulamu bwe.
+33  Afuna ebiwundu era afeebezebwa,N’obuswavu tebulimuvaako.
+34  Kubanga obuggya buleetera omusajja nnyini mukazi okusunguwala ennyo;Tajja kusaasira ng’awoolera eggwanga.
+35  Tajja kukkiriza kuliyirirwa;Ne bw’onoomuwa ebirabo ebyenkana wa, obusungu bwe tebujja kukkakkana.
+31  Ebigambo bya Kabaka Lemweri; obubaka obukulu nnyina bwe yamuwa okumuyigiriza:
+2  Nkugambe ki, mwana wange,Nkugambe ki, omwana w’enda yange,Nkugambe ki, omwana ow’obweyamo bwange?
+3  Towa bakazi maanyi go,Era tokwata makubo gazikiriza bakabaka.
+4  Lemweri, bakabaka tebagwaniddeBakabaka tebagwanidde kunywa mwenge,Era n’abafuzi tebagwanidde kugamba nti, “Omwenge gwange guliwa?”
+5  Baleme okunywa ne beerabira amateekaEra ne batakola ku nsonga z’abanaku.
+6  Omwenge guwe abo abagenda okufa,Era n’envinnyo giwe abennyamivu.
+7  Leka banywe beerabire obwavu bwabwe;Baleme okujjukira ebizibu byabwe.
+8  Yogerera abo abatasobola kweyogerera,Era lwanirira abo abagenda okufa.
+9  Yogera era olamule mu butuukirivu;Lwanirira abanaku n’abaavu.
+10  Ani ayinza okuzuula omukyala omulungi? Wa muwendo okusinga amayinja ag’omuwendo ag’omu nnyanja.
+11  Omwami we amwesiga n’omutima gwe gwonna,Era omwami we tajula kintu kyonna kya muwendo.
+12  Amukolera birungi, so si bibi,Ennaku zonna ez’obulamu bwe.
+13  Afuna ebyoya by’endiga ne kitaani;Era ayagala nnyo okukola n’emikono gye.
+14  Alinga amaato g’abasuubuzi,Era emmere ye agiggya wala.
+15  Azuukuka nga tebunnakya,N’awa ab’omu nnyumba ye emmere,Era n’awa abazaana be emigabo gyabwe.
+16  Alambula ennimiro n’agigula,Era akola n’amaanyi ge n’asimba ennimiro y’emizabbibu.
+17  Yeeteekateeka okukola emirimu egy’amaanyi,Era akozesa emikono gye n’amaanyi.
+18  Alaba nga by’atunda bireeta amagoba,Era ettaala ye tezikira kiro.
+19  Engalo ze zikwata akati okuzingiddwa ebyoya by’endiga,Era zikwata n’akati akalanga wuzi.
+20  Ayamba abanaku,Era agabira abaavu.
+21  Mu budde obunnyogovu teyeeraliikirira ku lw’ab’omu nnyumba ye,Kubanga baba bambadde engoye ezibugumya.
+22  Yeekolera eby’okwebikka,Era engoye ze zaakolebwa mu kitaani n’ebyoya by’endiga ebya kakobe.
+23  Omwami we amanyiddwa ku miryango gy’ekibuga,Gy’atuula wakati mu basajja abakulu ab’omu kitundu.
+24  Aluka engoye eza kitaani n’azitunda,Era aguza abasuubuzi emisipi.
+25  Wa maanyi era wa kitiibwa,Era teyeeraliikirira biseera bya mu maaso.
+26  Ayogera eby’amagezi,Era etteeka ery’ekisa liba ku lulimi lwe.
+27  Afaayo ku ebyo ebikolebwa mu maka ge,Era si mugayaavu n’akamu.
+28  Abaana be basituka ne bamutendereza;N’omwami we asituka n’amutendereza.
+29  Abakyala abalungi bangi,Naye ggwe obasinga bonna.
+30  Okusikiriza kuyinza okulimba, n’obulungi buyinza okuggwaawo amangu,Naye omukazi atya Yakuwa y’atenderezebwa.
+31  Muwe empeera olw’ebyo by’akola,Era emirimu gye ka gimutenderezenga mu miryango gy’ekibuga.
+21  Omutima gwa kabaka gulinga emikutu gy’amazzi mu mukono gwa Yakuwa. Aguzza buli gy’ayagala.
+2  Amakubo g’omuntu gonna galabika ng’amatuufu gy’ali,Naye Yakuwa akebera emitima.
+3  Okukola ekituufu era eky’obwenkanyaKisanyusa Yakuwa okusinga ssaddaaka.
+4  Amaaso ag’amalala n’omutima ogwekulumbaza—Ye ttaala emulisa ababi, era ebyo byonna kwonoona.
+5  Enteekateeka z’abanyiikivu zivaamu ebirungi,Naye abo bonna abapapa bajja kwavuwala.
+6  Eby’obugagga ebifunibwa mu bulimbaBiringa olufu oluggwaawo amangu, era kyambika.
+7  Ababi ebikolwa byabwe eby’obukambwe biribasaanyaawo,Kubanga tebaagala kukola bya bwenkanya.
+8  Ekkubo ly’omuntu aliko omusango si ttereevu,Naye ebikolwa by’omulongoofu biba birungi.
+9  Waakiri obeera ku nsonda y’akasolya k’ennyumbaOkusinga okubeera n’omukazi omuyombi mu nnyumba.
+10  Omuntu omubi yeegomba ebintu ebibi;Era takwatirwa muntu yenna kisa.
+11  Omukudaazi bw’abonerezebwa, atalina bumanyirivu yeeyongera okuba ow’amagezi,Era ow’amagezi bw’ayigirizibwa, yeeyongera okumanya.
+12  Katonda omutuukirivu yeetegereza ennyumba y’omubi;Afufuggaza ababi ne bazikirira.
+13  Oyo atawuliriza kukaaba kwa munakuNaye alikoowoola n’ataddibwamu.
+14  Ekirabo ekigabibwa mu kyama kikkakkanya obusungu,N’enguzi eweebwa mu nkukutu ekkakkanya ekiruyi.
+15  Kya ssanyu omutuukirivu okukola eby’obwenkanya,Naye emitawaana girindiridde abo abakola ebibi.
+16  Omuntu awaba okuva mu kkubo ery’amageziAjja kwegatta ku abo abaafa.
+17  Omuntu ayagala eby’amasanyu ajja kwavuwala;N’oyo ayagala ennyo omwenge n’amafuta tajja kugaggawala.
+18  Omubi kye kinunulo ky’omutuukirivu,Era ow’enkwe kye kinunulo ky’abagolokofu.
+19  Waakiri obeera mu ddunguN’otobeera na mukazi muyombi era anyiiganyiiga.
+20  Ebintu eby’omuwendo omungi n’amafuta biba mu nnyumba z’abo abalina amagezi,Naye omusirusiru ayonoona by’alina.
+21  Buli afuba okunoonya obutuukirivu n’okwagala okutajjulukukaAjja kufuna obulamu, obutuukirivu, n’ekitiibwa.
+22  Omuntu ow’amagezi asobola okulinnya bbugwe w’ekibuga eky’ab’amaanyi,N’amenya ekigo kyabwe kye beesiga.
+23  Omuntu afuga akamwa ke n’olulimi lweYeewala emitawaana.
+24  Omuntu eyeetulinkiriza era eyeewaanaAyitibwa mwetulinkirize.
+25  Omugayaavu kye yeegomba kijja kumutta,Kubanga tayagala kukola.
+26  Olunaku lwonna asiiba yeegomba,Naye ye omutuukirivu agaba era takodowala.
+27  Ssaddaaka z’ababi za muzizo. Naye ate kiba kitya bwe ziweebwayo n’ekigendererwa ekibi!
+28  Awa obujulizi obw’obulimba ajja kuzikirira,Naye omuntu awuliriza n’obwegendereza ajja kuwa obujulizi obukkirizibwa.
+29  Omuntu omubi taba na nsonyi ku maaso,Naye omugolokofu ekkubo lye liba kkakafu.
+30  Tewayinza kubaawo magezi, kutegeera, wadde okuteesa mu kuwakanya Yakuwa.
+31  Embalaasi zitegekerwa olunaku lw’olutalo,Naye obulokozi buva eri Yakuwa.
+25  Na zino ngero za Sulemaani, abasajja ba Keezeekiya kabaka wa Yuda ze baakoppolola:
+2  Ekitiibwa kya Katonda kwe kukuuma ensonga nga ya kyama,Era ekitiibwa kya bakabaka kwe kwekenneenya obulungi ensonga.
+3  Ng’eggulu bwe liri waggulu ennyo era ng’ensi bw’ekka wansi ennyo,N’omutima gwa bakabaka nagwo bwe gutyo tegukeberekeka.
+4  Ggya amasengere mu ffeeza,Aveemu ng’alongookedde ddala.
+5  Ggya omubi mu maaso ga kabaka,Entebe ye ey’obwakabaka enywezebwe mu butuukirivu.
+6  Teweegulumizanga mu maaso ga kabaka,Era teweeteekanga mu b’ekitiibwa,
+7  Waakiri ye akugambe nti, “Jjangu otuule wano,” Mu kifo ky’okukufeebya mu maaso g’omuntu ow’ekitiibwa.
+8  Toyanguwanga kuwaaba musango,Kubanga onookola ki nga munno awozezza n’akusinga?
+9  Ensonga mugyogereko ne munno,Naye toyasanguza byakugambibwa mu kyama,
+10  Awulira aleme kukuswazaNg’olaalaasizza ebigambo ebitali birungi by’otasobola kuzzaayo.
+11  Ekigambo ekyogerwa mu kiseera ekituufuKiringa apo eza zzaabu eziri mu bbakuli eza ffeeza.
+12  Omuntu ow’amagezi anenya omuntu awulirizaAlinga empeta ey’oku matu eya zzaabu, oba amajolobero aga zzaabu omulungi.
+13  Omubaka omwesigwa eri abo abamutumaAlinga amazzi agannyogoga mu kiseera eky’amakungulaKubanga azzaamu mukama we amaanyi.
+14  Omuntu eyeewaana olw’ekirabo ky’atagabyeAlinga ebire n’embuyaga ebitaleeta nkuba.
+15  Obugumiikiriza bugonza omukulembeze,Era olulimi olugonvu lusobola okumenya eggumba.
+16  Bw’osanga omubisi gw’enjuki, olyangako ogwo ogukumala,Kubanga bw’olya omungi, oyinza okugusesema.
+17  Tokyalakyalanga mu maka ga munno,Aleme okukwetamwa n’akukyawa.
+18  Omuntu awa obujulizi obw’obulimba ku munneAba ng’embukuuli n’ekitala n’akasaale akoogi.
+19  Okussa obwesige mu muntu ateesigika mu biseera eby’obuyinike,Kufaananako okuba n’erinnyo erimenyese oba ekigere ekinuuse.
+20  Omuntu ayimbira ow’omutima omwennyamivuAba ng’omuntu eyeeyambula engoye mu budde obunnyogovuOba ng’omwenge omukaatuufu oguyiiriddwa ku kisula.
+21  Omulabe wo bw’aba alumwa enjala, muwe emmere alye;Bw’aba alumwa ennyonta, muwe amazzi anywe,
+22  Kubanga ojja kuba otuuma amanda agaaka ku mutwe gwe,Era Yakuwa ajja kukuwa empeera.
+23  Embuyaga y’ebukiikakkono ereeta enkuba,N’olulimi olw’olugambo luleetera omuntu okusunguwala.
+24  Waakiri obeera ku nsonda y’akasolya k’ennyumba,N’otobeera mu nju na mukazi muyombi.
+25  Amawulire amalungi agava mu nsi ey’ewala,Gabanga okunywa amazzi agannyogoga ng’obadde olumwa ennyonta.
+26  Omuntu omutuukirivu eyekkiriranya eri omubiAba ng’oluzzi olwonoonese, oba ng’ensulo y’amazzi etabanguse.
+27  Si kirungi okulya omubisi gw’enjuki omungi,Era si kirungi okwenoonyeza ekitiibwa.
+28  Omuntu atafuga busungu bwe,Aba ng’ekibuga ekiriko bbugwe eyabomolwabomolwa.
+13  Omwana ow’amagezi akkiriza okubuulirira kwa kitaawe,Naye omunyoomi tawuliriza ng’anenyezebwa.
+2  Omuntu by’ayogera bye bimuviiramu ebirungi,Naye ab’enkwe baagala bya bukambwe.
+3  Oyo afuga akamwa ke akuuma obulamu bwe,Naye oyo ayasamya ennyo akamwa ke ajja kugwa mu mitawaana.
+4  Omugayaavu abaako ebintu bye yeegomba, naye tewali ky’alina,Kyokka omunyiikivu afuna byonna by’ayagala.
+5  Omutuukirivu akyawa obulimba,Naye ebyo ababi bye bakola biswaza era biweebuula.
+6  Obutuukirivu bukuuma oyo ataliiko kya kunenyezebwa,Naye ebikolwa ebibi bisuula omwonoonyi.
+7  Waliwo omuntu eyeeyisa ekigagga, naye nga talina kantu;Ne wabaawo omulala eyeeyisa ng’omwavu, naye ng’alina eby’obugagga bingi.
+8  Eby’obugagga by’omuntu bye binunula obulamu bwe,Naye abaavu tebabaako kibatiisa.
+9  Ekitangaala ky’abatuukirivu kyaka nnyo,Naye ettaala y’ababi ejja kuzikizibwa.
+10  Okwetulinkiriza kuvaamu ennyombo,Kyokka abo abanoonya okubuulirirwa baba n’amagezi.
+11  Eby’obugagga ebifunibwa amangu biggwaawo mangu,Naye eby’obugagga omuntu by’afuna empolampola byeyongera okwala.
+12  Ekisuubirwa bwe kirwawo okutuuka, omutima gulwala,Naye ekyegombebwa bwe kifunibwa kiba ng’omuti ogw’obulamu.
+13  Oyo anyooma bye bamuyigiriza ajja kwolekagana n’ebizibu ebinaavaamu,Naye assa ekitiibwa mu kiragiro ajja kufuna empeera.
+14  Okuyigiriza kw’omuntu ow’amagezi ye nsibuko y’obulamu,Kubanga kuwonya omuntu emitego gy’okufa.
+15  Omuntu omutegeevu aganja,Naye ekkubo ly’ab’enkwe lijjudde ebizibu.
+16  Omuntu omutegeevu yeeyisa mu ngeri ey’amagezi,Naye omusirusiru ayolesa obusirusiru bwe.
+17  Omubaka omubi agwa mu mitawaana,Naye omubaka omwesigwa aleeta ebirungi.
+18  Atafaayo ku kubuulirirwa ayavuwala era aswala,Naye akkiriza okugololwa agulumizibwa.
+19  Ekyegombebwa bwe kifunibwa kisanyusa omuntu,Naye abasirusiru tebaagalira ddala kulekayo bibi.
+20  Omuntu atambula n’ab’amagezi naye ajja kuba wa magezi,Naye oyo akolagana n’abasirusiru ajja kugwa mu mitawaana.
+21  Aboonoonyi ebizibu bibalondoola,Naye abatuukirivu bafuna ebirungi.
+22  Omuntu omulungi alekera bazzukulu be eby’obusika,Naye obugagga bw’ababi buterekerwa batuukirivu.
+23  Ennimiro z’abaavu zibala emmere nnyingi,Naye eyinza okutwalibwa olw’obutali bwenkanya.
+24  Atakwatira mwana we muggo aba tamwagala,Naye oyo amwagala, anyiikira okumukangavvula.
+25  Omutuukirivu alya n’akkuta,Naye embuto z’ababi tezibaamu kantu.
+14  Omukazi ow’amagezi azimba ennyumba ye,Naye omusirusiru agimenyaamenya n’emikono gye.
+2  Omuntu atambulira mu bugolokofu atya Yakuwa,Naye oyo atambulira mu makubo ag’obukuusa amunyooma.
+3  Omuggo ogw’amalala guba mu kamwa k’abasirusiru,Naye emimwa gy’ab’amagezi gibakuuma.
+4  Bwe watabaawo nte, olutiba mwe ziriira luba luyonjo,Naye olw’amaanyi g’ente ennume ebikungulwa biba bingi.
+5  Omujulizi omwesigwa talimba,Naye omujulizi ow’obulimba ayogera bulimba bwereere.
+6  Omukudaazi anoonya amagezi n’atagafuna,Naye omuntu omutegeevu ayanguyirwa okumanya ebintu.
+7  Weewale omuntu omusirusiru,Kubanga tolimuwulira ng’ayogera eby’amagezi.
+8  Amagezi gayamba omutegeevu okumanya gy’alaga,Naye abasirusiru babuzaabuzibwa obusirusiru bwabwe.
+9  Abasirusiru baseka busesi ne bwe baba nga balina ekibi kye bakoze,Naye abagolokofu baba beetegefu okutabagana n’abalala.
+10  Omutima gumanyi ennaku yaagwo,Era tewali muntu mulala asobola kugabana ku ssanyu lyagwo.
+11  Ennyumba y’ababi ejja kuzikirizibwa,Naye weema y’abagolokofu ejja kweyongera okugaziwa.
+12  Waliwo ekkubo omuntu ly’alaba ng’ettuufu,Naye nga ku nkomerero litwala mu kufa.
+13  Omuntu ne bw’aba ng’aseka, ayinza okuba ng’alina obulumi ku mutima,Era essanyu liyinza okuvaamu ennaku.
+14  Omuntu omujeemu akungula ebyo ebiva mu nneeyisa ye,Naye omuntu omulungi afuna empeera eva mu bikolwa bye.
+15  Atalina bumanyirivu akkiriza buli kye bamugamba,Naye omuntu ow’amagezi afumiitiriza ku buli ky’agenda okukola.
+16  Omuntu ow’amagezi yeegendereza era yeewala okukola ebibi,Naye omusirusiru teyeegendereza era yeekakasa ekisukkiridde.
+17  Omuntu asunguwala amangu akola ebitali bya magezi,Naye oyo alowooza ku ebyo by’agenda okukola akyayibwa.
+18  Abatalina bumanyirivu bajja kusikira obusirusiru,Naye ab’amagezi bajja kutikkirwa engule ey’okumanya.
+19  Ababi bajja kuvunnamira abalungi,Era bajja kuvunnama ku miryango gy’abatuukirivu.
+20  Omwavu ne banne bamukyawa,Naye omugagga aba n’emikwano mingi.
+21  Omuntu anyooma munne aba ayonoona,Naye asaasira omunaku aba musanyufu.
+22  Abateesa okukola ebibi bajja kuwaba. Naye abaagala okukola ebirungi balagibwa okwagala okutajjulukuka era beesigibwa.
+23  Kya muganyulo okukola omulimu gwonna ogw’amaanyi,Naye okwogera obwogezi kyavuwaza.
+24  Engule y’ab’amagezi bwe bugagga bwabwe;Naye obusirusiru bw’abatalina magezi busirusiru bwereere.
+25  Omujulizi ow’amazima awonya obulamu bw’abantu,Naye omujulizi ow’obulimba ayogera bulimba bwereere.
+26  Omuntu atya Yakuwa amwesiga mu byonna,Era n’abaana be bajja kuba n’obuddukiro.
+27  Okutya Yakuwa nsulo ya bulamu,Kuwonya omuntu emitego gy’okufa.
+28  Abantu abangi kye kitiibwa kya kabaka,Naye omufuzi atalina b’afuga obuyinza bumuggwaako.
+29  Omuntu alwawo okusunguwala aba mutegeevu,Naye atali mugumiikiriza ayoleka obusirusiru bwe.
+30  Omutima omukkakkamu guwa omubiri obulamu,Naye obuggya buvunza amagumba.
+31  Omuntu akumpanya omunaku anyiiza eyamutonda,Naye asaasira omwavu agulumiza Katonda.
+32  Omubi ebibi bye bijja kumuleetera okugwa,Naye omutuukirivu ajja kufuna obuddukiro mu bugolokofu bwe.
+33  Amagezi gasirikira mu mutima gw’omuntu omutegeevu,Naye geemanyisa mu basirusiru.
+34  Obutuukirivu bugulumiza eggwanga,Naye ekibi kiswaza abantu.
+35  Kabaka asanyukira omuweereza we eyeeyisa mu ngeri ey’amagezi,Naye asunguwalira nnyo oyo akola ebiswaza.
+29  Omuntu anenyezebwa enfunda n’enfunda naye n’akakanyaza ensingo ye,Ajja kumenyebwa mbagirawo abe nga tasobola kuwona.
+2  Abatuukirivu bwe baba abangi abantu basanyuka,Naye omubi bw’afuga, abantu basinda.
+3  Omuntu ayagala amagezi asanyusa kitaawe,Naye abeera ne bamalaaya ayonoona ebintu bye.
+4  Kabaka bw’afuga n’obwenkanya aleeta obutebenkevu mu nsi ye,Naye omuntu ayagala enguzi ayonoona ensi.
+5  Omuntu awaanawaana munneAtega ebigere bye ekitimba.
+6  Okwonoona kw’omuntu omubi kumusuula mu kyambika,Naye omutuukirivu asanyuka era n’ajaganya.
+7  Omutuukirivu afaayo ku nsonga z’abaavu,Naye omubi tazifaako.
+8  Abantu abeewaana baleetera ekibuga okubuubuuka n’obusungu,Naye ab’amagezi bakkakkanya obusungu.
+9  Omuntu ow’amagezi bw’akaayana n’omusirusiru,Omusirusiru aleekaana n’amusekerera, era omuntu ow’amagezi talina ky’aganyulwamu.
+10  Abantu abaagala okuyiwa omusaayi tebaagala muntu yenna ataliiko kya kunenyezebwa,Era baagala okuggyawo obulamu bw’abagolokofu.
+11  Omusirusiru ayoleka obusungu bwe bwonna,Naye ow’amagezi abufuga.
+12  Omufuzi bw’awuliriza eby’obulimba,Abaweereza be bonna baba babi.
+13  Omwavu n’oyo anyigiriza abalala kino kye bafaanaganya: Yakuwa y’awa amaaso gaabwe bombi ekitangaala.
+14  Kabaka bw’alamula abaavu mu bwenkanya,Entebe ye ey’obwakabaka eneenyweranga bulijjo.
+15  Omuggo n’okunenya bireeta amagezi,Naye omwana gwe batagambako aswaza nnyina.
+16  Ababi bwe beeyongera n’ebikolwa ebibi byeyongera,Naye abatuukirivu balibalaba nga bagwa.
+17  Kangavvula omwana wo, alikuwa emirembe;Era alikuleetera essanyu lingi.
+18  Awatali kuluŋŋamizibwa Katonda, abantu bakola kyonna kye baagala,Naye abo abakwata amateeka baba basanyufu.
+19  Omuweereza takangavvulwa na bigambo bugambo,Kubanga wadde ategeera, tassa mu nkola.
+20  Wali olabye omuntu ayanguyiriza okwogera? Omusirusiru wandimusuubira okukyusaamu okusinga omuntu ng’oyo.
+21  Omuweereza bwe bamuginya okuva mu buvubuka bwe,Mu maaso eyo alifuuka omuntu atasiima.
+22  Omuntu ow’obusungu asaanuula ennyombo;Era omuntu ow’ekiruyi akola ebibi bingi.
+23  Amalala g’omuntu galimutoowaza,Naye abeetoowaze balifuna ekitiibwa.
+24  Munne w’omubbi akyawa obulamu bwe. Ayinza okuwulira ekirango ekiyita ab’okuwa obujulizi, naye n’atavaayo kubaako ky’ayogera.
+25  Okutya abantu kyambika,Naye eyeesiga Yakuwa anaakuumibwanga.
+26  Bangi abaagala okwogerako n’omufuzi,Naye obwenkanya buva eri Yakuwa.
+27  Abatuukirivu tebaagala muntu atali mwenkanya,Naye omubi akyawa oyo akwata ekkubo eggolokofu.
+19  Okuba omwavu ng’otambulira mu bugolokofuKisinga okuba omusirusiru era ng’oyogera eby’obulimba.
+2  Omuntu atalina kumanya si mulungi,N’oyo ayanguyiriza okukola ekintu ayonoona.
+3  Obusirusiru bw’omuntu bwe bwonoona ekkubo lye,Kyokka omutima gwe ne gusunguwalira Yakuwa.
+4  Omugagga aba n’emikwano mingi,Naye omwavu, ne mukwano gwe amwabulira.
+5  Awa obujulizi obw’obulimba taaleme kubonerezebwa,N’oyo ayogera obulimba taabeeko w’awonera.
+6  Bangi baagala okuganja eri omuntu ow’ekitiibwa,Era buli muntu aba mukwano gw’oyo agaba ebirabo.
+7  Omwavu baganda be bonna bamukyawa;Kati olwo mikwano gye gye gitaamwesambe? Abeegayirira bamuyambe, naye tewali amufaako.
+8  Oyo afuna amagezi aba ayagala obulamu bwe. N’oyo ayagala okutegeera, ebintu bijja kumugendera bulungi.
+9  Awa obujulizi obw’obulimba taaleme kubonerezebwa,N’oyo ayogera obulimba ajja kuzikirizibwa.
+10  Omusirusiru tasaanira kuba mu bulamu bwa kwejalabya;Olwo ate omuddu ayinza atya okufuga abalangira?
+11  Obutegeevu bw’omuntu bukkakkanya obusungu bwe,Era bw’abuusa amaaso ensobi y’omulala kimulungiya.
+12  Obusungu bwa kabaka buba ng’okuwuluguma kw’empologoma,Naye okusiima kwe kuba ng’omusulo ku muddo.
+13  Omwana omusirusiru aleetera kitaawe ennaku,N’omukazi omuyombi alinga ennyumba etonnya olutata.
+14  Ennyumba n’eby’obugagga abantu babisikira kuva ku bakitaabwe,Naye omukyala omutegeevu ava eri Yakuwa.
+15  Obugayaavu buleeta otulo tungi,Era omuntu omugayaavu ajja kulumwa enjala.
+16  Akwata ebiragiro akuuma obulamu bwe;Atafaayo ku makubo ge ajja kufa.
+17  Alaga omunaku ekisa aba awola Yakuwa,Era ajja kumusasula olw’ekyo ky’akola.
+18  Gunjula omwana wo nga wakyaliwo essuubi,Oleme kuvunaanyizibwa kufa kwe.
+19  Omuntu ow’obusungu ajja kuliwa;Singa ogezaako okumutaasa, kijja kukwetaagisa okukikola enfunda n’enfunda.
+20  Wulirizanga okubuulirirwa era okkirizenga okukangavvulwa,Olyoke obe wa magezi gye bujja.
+21  Omuntu aba n’enteekateeka nnyingi mu mutima gwe,Naye ekigendererwa kya Yakuwa kye kijja okutuukirira.
+22  Ekintu ekyegombebwa mu muntu kwe kwagala kwe okutajjulukuka;Era okuba omwavu kisinga okuba omulimba.
+23  Okutya Yakuwa kutuusa omuntu mu bulamu;Oyo amutya yeebaka bulungi era tatuukibwako kabi.
+24  Omugayaavu ateeka omukono gwe mu kibya,Naye n’alemererwa okuguggyamu okuguzza ku mumwa.
+25  Kuba omukudaazi, omuntu atalina bumanyirivu afuuke wa magezi,Era nenya omuntu omutegeevu asobole okuba n’okumanya okusingawo.
+26  Oyo ayisa obubi kitaawe era n’agoba nnyinaAba mwana aswaza era akwasa ensonyi.
+27  Mwana wange, bw’onoolekera awo okuwuliriza ebikuyigirizibwa,Ojja kuwaba ove ku bigambo eby’amagezi.
+28  Omujulizi atalina mugaso anyooma obwenkanya,Era ababi banyumirwa okukola ebibi.
+29  Abakudaazi bajja kusalirwa omusango,N’abasirusiru bajja kukubibwa emiggo mu mugongo.
+24  Tokwatirwanga abantu ababi obuggya,Era teweegombanga kubeera nabo,
+2  Kubanga emitima gyabwe girowooza ku bikolwa bya bukambwe,N’emimwa gyabwe gibeera gyogera ku kukola bintu bya mutawaana.
+3  Amagezi ge gazimba ennyumba,Era okutegeera kwe kuginyweza.
+4  Olw’okumanya, ebisenge byayo bijjulaEby’obugagga ebya buli ngeri eby’omuwendo era ebisanyusa.
+5  Omuntu ow’amagezi aba wa maanyi,Era olw’okumanya, omuntu yeeyongera okuba n’obuyinza.
+6  Okusobola okulwana olutalo kyetaagisa obulagirizi obulungi,Era bwe wabaawo abawi b’amagezi abangi wabaawo obuwanguzi.
+7  Eri omusirusiru amagezi tegasobola kufunika;Era taba na kya kwogera ku mulyango gw’ekibuga.
+8  Ateekateeka okukola ebintu eby’akabiAjja kuyitibwa kalinkwe.
+9  Enteekateeka ez’ekisirusiru ziba mbi,Era abantu tebaagalira ddala muntu mukudaazi.
+10  Bw’oterebuka mu kiseera eky’okulabiramu ennaku,Amaanyi go gajja kuba matono.
+11  Nunula abo abatwalibwa okuttibwa,Era wonya abo abagenda okusanjagibwa.
+12  Bw’ogamba nti, “Naye ekyo tetwakimanyaako,”Oyo akebera emitima takitegeera? Mazima ddala, oyo akulaba ajja kukitegeeraEra ajja kusasula buli muntu okusinziira ku bikolwa bye.
+13  Mwana wange, lyanga omubisi gw’enjuki kubanga mulungi;Omubisi oguva mu bisenge by’omubisi gw’enjuki guwoomerera.
+14  Kale, kimanye nti n’amagezi ga muganyulo gy’oli. Bw’ogafuna, ebiseera byo eby’omu maaso bijja kuba birungiEra n’essuubi lyo teririggwaawo.
+15  Toba ng’omuntu omubi n’oteega okumenya ennyumba y’omutuukirivu;Tosaanyaawo kifo ky’abeeramu.
+16  Omutuukirivu ayinza okugwa emirundi musanvu, naye addamu n’ayimuka,Naye omubi yeesittala ng’afunye ekizibu.
+17  Omulabe wo bw’agwa, tosanyukanga,Era bwe yeesittala, omutima gwo tegujaganyanga;
+18  Kubanga Yakuwa bw’akulaba ng’okola bw’otyo, anyiiga,N’alekera awo okumusunguwalira.
+19  Tokwatibwanga busungu olw’abantu abakola ebibi;Abantu ababi tobakwatirwanga buggya,
+20  Kubanga ababi tebalina biseera bya mu maaso;Ettaala y’ababi ejja kuzikizibwa.
+21  Mwana wange, otyanga Yakuwa ne kabaka.Era tokolagananga na bawakanyi,
+22  Kubanga emitawaana giribagwako mbagirawo.Ani amanyi akabi abo bombi ke balituusa ku bawakanyi?
+23  Era na bino byayogerwa ba magezi: Okusaliriza mu kusala omusango si kirungi.
+24  Buli agamba omuntu omubi nti, “Oli mutuukirivu,” Abantu bajja kumukolimira era amawanga gajja kumuvumirira.
+25  Naye abo abamunenya bijja kubagendera bulungi;Era bajja kufuna ebintu ebirungi.
+26  Abantu bajja kunywegera emimwa gy’omuntu addamu mu bwesimbu.
+27  Teekateeka emirimu gyo egy’ebweru, era otereeze bulungi ennimiro yo,Oluvannyuma ozimbe ennyumba yo.
+28  Tolumirizanga muntu munno awatali nsonga. Era tokozesanga mimwa gyo kulimba balala.
+29  Togambanga nti: “Ky’ankoze nange nja kukimukola;Nja kumusasula ekyo kye yakola.”
+30  Nnayita ku nnimiro y’omugayaavu,Ku nnimiro y’emizabbibu ey’omuntu atalina magezi.
+31  Nnalaba nga yonna ezise,Ng’ejjudde amaggwa,Nga n’ekikomera kyayo eky’amayinja kigudde.
+32  Nnagyetegereza ne nfumiitiriza nnyo;Nnagitunuulira ne njiga essomo lino:
+33  Bwe weebakamu katono, bw’osumagiramu katono,Era bw’ozinga emikono owummuleko,
+34  Obwavu bujja kukuzinda ng’omuzigu,N’obwetaavu bukuzinde ng’omusajja akutte eby’okulwanyisa.
+5  Mwana wange, ssaayo omwoyo eri amagezi gange. Tega okutu eri okutegeera kwange,
+2  Olyoke okuume obusobozi bwo obw’okulowooza obulungiN’emimwa gyo gikuume okumanya.
+3  Kubanga emimwa gy’omukazi omwenzi gitonnya ng’ebisenge by’omubisi gw’enjuki,N’akamwa ke kasinga amafuta g’ezzeyituuni obuweweevu.
+4  Naye ku nkomerero akaawa ng’omususa,Era asala ng’ekitala ekisala eruuyi n’eruuyi.
+5  Ebigere bye bikkirira mu kufa. Ayolekera magombe.
+6  Talowooza ku kkubo ery’obulamu. Abungeeta bubungeesi, tamanyi gy’alaga.
+7  Kale baana bange, mumpulirize;Temuvanga ku bigambo byange.
+8  Omukazi ng’oyo omwewalanga;N’oluggi lw’ennyumba ye tolusembereranga,
+9  Oleme kuggwaamu kitiibwa,Era oleme kubonaabona ekiseera ky’obulamu bwo ekisigaddeyo;
+10  N’abantu abalala baleme kutwala bya bugagga byo,Era n’ebintu bye wateganira bireme kugenda mu nnyumba y’omugwira.
+11  Oleme okusinda ku nkomerero y’obulamu bwoNga tokyalina maanyi, era nga n’omubiri gukuweddeko,
+12  N’ogamba nti: “Kale nnakyayira ki okubuulirirwa? Omutima gwange gwanyoomera ki okunenyezebwa?
+13  Saawuliriza ddoboozi ly’abo abanjigirizanga,Era sassaayo mwoyo eri abasomesa bange.
+14  Kaakano nnaatera okusaanawoNg’ekibiina kyonna kiraba.”
+15  Nywa amazzi ag’omu luzzi lwoN’amazzi agakulukuta okuva mu nsulo zo.
+16  Amazzi g’omu nsulo zo gandisaasaanidde ebweru,Amazzi g’emigga gyo ne gasaasaana mu bifo ebya lukale?
+17  Leka gabe gago wekka,So si ga bantu balala.
+18  Ensulo y’amazzi go k’ebenga n’omukisa,Era sanyukanga n’omukazi ow’omu buvubuka bwo,
+19  Empeewo ekwagala, era enjaza etambuza essimbo. Amabeere ge ka gakumatizenga ebiro byonna. K’osanyusibwenga okwagala kwe bulijjo.
+20  Kale mwana wange, lwaki osikirizibwa omukazi omwenziN’ogwa mu kifuba ky’omukazi omugwenyufu?
+21  Yakuwa alaba amakubo g’omuntu;Yeetegereza empenda ze zonna.
+22  Ebyonoono by’omuntu omubi bimusuula mu mutego,Emiguwa gy’ebibi bye gijja kumusiba.
+23  Ajja kufa olw’obutawabulwa,Ajja kuwaba olw’obusirusiru bwe obungi.
+15  Okuddamu n’eggonjebwa kukkakkanya ekiruyi,Naye ekigambo eky’ekkayu kireeta obusungu.
+2  Olulimi lw’ab’amagezi lukozesa bulungi okumanya,Naye akamwa k’abasirusiru koogera eby’obusirusiru.
+3  Amaaso ga Yakuwa gaba buli wamu,Nga gatunuulira ababi n’abalungi.
+4  Olulimi olukkakkamu muti gwa bulamu,Naye ebigambo ebinyooleddwanyooleddwa bireetera omuntu okuggwaamu essuubi.
+5  Omuntu omusirusiru anyooma ebyo kitaawe by’amubuulirira,Naye omuntu ow’amagezi akkiriza okugololwa.
+6  Mu nnyumba y’omutuukirivu mubaamu eby’omuwendo bingi,Naye ebyo omubi by’akola bimuleetera emitawaana.
+7  Emimwa gy’ab’amagezi gibunyisa okumanya,Naye omutima gw’abasirusiru si bwe gukola.
+8  Yakuwa akyayira ddala ssaddaaka z’ababi,Naye essaala z’abagolokofu zimusanyusa.
+9  Yakuwa akyawa ekkubo ly’omubi,Naye ayagala oyo agoberera obutuukirivu.
+10  Okukangavvulwa tekusanyusa oyo aleka ekkubo ettuufu,Era buli atayagala kunenyezebwa ajja kufa.
+11  Yakuwa alaba amagombe n’ekifo eky’okuzikiririramu. Kati ate olwo emitima gy’abantu?
+12  Omukudaazi tayagala oyo amuwabula. Era teyeebuuza ku ba magezi.
+13  Omutima omusanyufu guleeta essanyu ku maaso,Naye ennaku emenya omwoyo.
+14  Omutima omutegeevu gunoonya okumanya,Naye akamwa k’abasirusiru kalya busirusiru.
+15  Ennaku zonna ez’omuntu abonaabona ziba mbi,Naye ow’omutima omusanyufu aba ng’ali ku mbaga ebbanga lyonna.
+16  Okuba n’ebitono ng’otya YakuwaKisinga okuba n’eby’obugagga ebingi naye nga weeraliikirira.
+17  Okulya enva endiirwa awali okwagalanaKisinga okulya ennyama y’ente ensava awali okukyawagana.
+18  Omuntu asunguwala amangu asaanuula ennyombo,Naye oyo alwawo okusunguwala amalawo ennyombo.
+19  Ekkubo ly’omugayaavu liringa olukomera olw’amaggwa,Naye ekkubo ly’abagolokofu liringa oluguudo olw’omuseetwe.
+20  Omwana ow’amagezi asanyusa kitaawe,Naye omuntu omusirusiru anyooma nnyina.
+21  Obusirusiru busanyusa atalina magezi,Naye omuntu omutegeevu atambulira mu kkubo ettuufu.
+22  Awatali kuteesa enteekateeka zigwa butaka,Naye bwe wabaawo abawi b’amagezi abangi wabaawo ekituukibwako.
+23  Omuntu asanyuka bw’addamu ekituufu,Era ekigambo ekyogerwa mu kiseera ekituufu nga kiba kirungi!
+24  Eri omutegeevu ekkubo ly’obulamu lyambuka waggulu,Okumuwonya okukka emagombe.
+25  Yakuwa ajja kumenya ennyumba z’ab’amalala,Naye ajja kukuuma ensalosalo za nnamwandu.
+26  Yakuwa akyawa enkwe z’omuntu omubi,Naye ebigambo ebirungi biba birongoofu mu maaso ge.
+27  Oyo afuna amagoba mu makubo amakyamu aleetera ab’omu nnyumba ye emitawaana,Naye oyo akyawa enguzi ajja kusigala nga mulamu.
+28  Omutima gw’omutuukirivu gufumiitiriza nga tannaba kwanukula,Naye akamwa k’ababi kafubutukamu ebintu ebibi.
+29  Ababi Yakuwa ababeera wala,Naye awulira essaala z’abatuukirivu.
+30  Amaaso amacamufu galeetera omutima okusanyuka;Amawulire amalungi gazzaamu amagumba amaanyi.
+31  Oyo awuliriza okubuulirira okuwa obulamuAb’amagezi abagyaamu bulungi.
+32  Omuntu atayagala kukangavvulwa obulamu bwe tabutwala nga bwa muwendo,Naye oyo awuliriza nga bamunenya afuna okutegeera.
+33  Okutya Yakuwa kuyigiriza omuntu okweyisa mu ngeri ey’amagezi,Era obuwombeefu buvaamu ekitiibwa.
+20  Omwenge mukudaazi, n’ebitamiiza tebifugika;Omuntu yenna awaba olw’ebintu ebyo taba wa magezi.
+2  Entiisa ya kabaka eringa okuwuluguma kw’empologoma;Buli amusunguwaza ateeka obulamu bwe mu kabi.
+3  Kya kitiibwa omuntu okwewala enkaayana,Naye buli muntu omusirusiru ajja kuzeeyingizaamu.
+4  Omugayaavu talima mu budde obunnyogovu,Kyava asabiriza mu kiseera eky’amakungula kubanga aba talina kantu.
+5  Ebirowoozo by’omu mutima gw’omuntu biringa amazzi ag’ebuziba,Naye omuntu omutegeevu abisenayo.
+6  Abantu bangi bagamba nti balina okwagala okutajjulukuka,Naye ani ayinza okuzuula omuntu omwesigwa?
+7  Omutuukirivu atambulira mu bugolokofu. Abaana be baba basanyufu.
+8  Kabaka bw’atuula ku ntebe ye okulamula,Yeekenneenya ebintu byonna asobole okuggyamu buli kibi.
+9  Ani ayinza okugamba nti: “Ntukuzza omutima gwange;Sirina kibi kyonna”?
+10  Ebipimo ebikyamu ne minzaani ezitali ntuufu—Byombi Yakuwa abikyawa.
+11  Omwana by’akola bye biraga ki ky’ali,Obanga empisa ze nnongoofu era nga nnungi.
+12  Amatu agawulira n’amaaso agalaba—Byombi Yakuwa ye yabikola.
+13  Toyagalanga kwebaka, si kulwa ng’oyavuwala. Zibula amaaso go, obenga n’emmere nnyingi ey’okulya.
+14  Omuguzi agamba nti, “ekintu si kirungi, ekintu si kirungi!” Ate oluvannyuma n’agenda ne yeewaana nga bw’akiguze ssente entono.
+15  Waliwo zzaabu, n’amayinja ag’omuwendo ag’omu nnyanja mangi,Naye emimwa gy’ab’amagezi gya muwendo nnyo.
+16  Twala ekyambalo ky’omusajja eyeeyimirira omuntu gw’atamanyi;Twala kye yasingawo bw’aba yakisingawo olw’omukazi omwenzi.
+17  Emmere omuntu gy’afuna mu makubo amakyamu emuwoomera,Naye oluvannyuma akamwa ke kajjula omusenyu.
+18  Bwe wabaawo okuteesa enteekateeka zigenda bulungi,Era lwana olutalo lwo ng’olina obulagirizi obulungi.
+19  Awaayiriza abalala agenda ayasanguza ebyama;Tokolagananga n’oyo abungeesa eŋŋambo.
+20  Oyo akolimira kitaawe ne nnyina,Ettaala ye ejja kuzikizibwa ng’enzikiza ekutte.
+21  Obusika obufunibwa mu kululunkanaTebuba na mukisa ku nkomerero.
+22  Togambanga nti: “Nja kuwoolera eggwanga!” Essuubi lyo lisse mu Yakuwa, ajja kukuyamba.
+23  Ebipima ebikyamu Yakuwa abikyawa,Ne minzaani ezitali ntuufu si nnungi.
+24  Yakuwa y’aluŋŋamya ebigere by’omuntu;Kale omuntu ayinza atya okutegeera ekkubo lye?
+25  Kuba kwesuula mu mutego omuntu okwanguwa okugamba nti, “Kitukuvu!” Ate oluvannyuma n’alyoka alowooza ku ebyo bye yeeyamye.
+26  Kabaka ow’amagezi awewa abantu n’aggyamu ababi,N’abayisaako nnamuziga ewuula.
+27  Omukka oguva mu nnyindo y’omuntu ye ttaala ya Yakuwa,Eyoleka omuntu ky’ali munda.
+28  Obwesigwa n’okwagala okutajjulukuka bikuuma kabaka;Era okwagala okutajjulukuka kwe kunyweza entebe ye ey’obwakabaka.
+29  Ekitiibwa ky’abavubuka ge maanyi gaabwe,N’obulungi bw’abakaddiye ze nvi zaabwe.
+30  Ebinuubule n’ebiwundu bimalawo ebikolwa ebibi,Era okukubibwa kulongoosa omutima.
+1  Engero za Sulemaani, mutabani wa Dawudi, kabaka wa Isirayiri:
+2  Ezisobozesa omuntu okufuna amagezi n’okuyigirizibwa;Ezisobozesa omuntu okutegeera ebigambo eby’amagezi;
+3  Ezisobozesa omuntu okuyigirizibwa n’aba ow’amagezi,Omutuukirivu, omwenkanya, era omugolokofu;
+4  Eziwa amagezi abo abatalina bumanyirivu;Ezisobozesa omuvubuka okufuna okumanya n’obusobozi bw’okulowooza obulungi.
+5  Omuntu ow’amagezi awuliriza era ne yeeyongera okuyiga;Omuntu omutegeevu afuna obulagirizi obulungi
+6  Asobole okutegeera engero, n’ebikokyo,Ebigambo eby’abagezigezi n’ebyo bye boogera mu ngeri y’okugereesa.
+7  Okutya Yakuwa ye ntandikwa y’okumanya. Abasirusiru bokka be banyooma amagezi n’okubuulirirwa.
+8  Mwana wange, wuliriza kitaawo by’akuyigiriza,Era tovanga ku ebyo nnyoko by’akuyigiriza.
+9  Biringa omuge ogulabika obulungi ku mutwe gwoEra biringa omukuufu omulungi mu bulago bwo.
+10  Mwana wange, ababi bwe bakusendasenda, tokkirizanga.
+11  Bwe bakugambanga nti: “Jjangu tugende ffenna, Tuteege abantu tubatte. Tujja kwekweka tulindirire abo abatalina musango.
+12  Tujja kubamira nga balamu, ng’amagombe bwe gakola,Nga balamba, ng’abo abakka mu kinnya.
+13  Tunyage ebintu byabwe byonna eby’omuwendo;Tujjuze ennyumba zaffe omunyago.
+14  Jjangu otwegatteko,Tujja kugabana kyenkanyi ebyo bye tunnabba.”
+15  Mwana wange, tobagobereranga. Tokwatanga kkubo lyabwe,
+16  Kubanga ebigere byabwe bidduka mbiro okukola ebibi;Banguwa okuyiwa omusaayi.
+17  Mazima tekigasa kutega kitimba ng’ekinyonyi kikulaba.
+18  Ababi kyebava bateega okuyiwa omusaayi;Bateega abantu basaanyeewo obulamu bwabwe.
+19  Ebyo bye bikolwa by’abo abaagala okwefunira ebintu mu makubo amakyamu,Ebijja okumalawo obulamu bw’abo ababifuna.
+20  Amagezi aga nnamaddala galeekaanira mu nguudo. Googerera waggulu mu bifo eby’olukale.
+21  Gakoowoolera mu masaŋŋanzira awaba abantu abangi. Googerera ku miryango gy’ekibuga nti:
+22  “Mmwe abatalina kye mumanyi mulituusa wa okwagala obutamanya? Mmwe abasekerezi mulituusa wa okwagala okusekerera abalala?Nammwe abasirusiru mulituusa wa okukyawa okumanya?
+23  Mubeeko kye mukolawo nga mbanenyezza. Ndyoke mbafukeko omwoyo gwange,Mbamanyise ebigambo byange.
+24  Kubanga nnakoowoola, naye ne mugaana okuwuliriza,Nnagolola omukono gwange, naye tewali n’omu yafaayo.
+25  Mwasambajja amagezi gonna ge nnabawa,Era mwagaana okubaako kye mukolawo nga mbanenyezza.
+26  Nange nja kubasekerera nga mutuukiddwako akabi;Nja kubakudaalira nga kye mutya kibatuuseeko,
+27  Kye mutya bwe kinajja ng’enkuba erimu embuyaga,Akabi ne kabajjira ng’omuyaga,Era ennaku n’ebizibu bwe binaabajjira.
+28  Olwo balinkoowoola, naye siribaddamu;Balinnoonya, naye tebalindaba,
+29  Kubanga baakyawa okumanya,Era baasalawo obutatya Yakuwa.
+30  Baasambajja amagezi ge nnabawa;Baanyooma byonna bye nnabagamba nga mbanenya.
+31  N’olwekyo ebinaabatuukako bijja kuba bibagwanira,Bajja kukkuta enkwe zammwe.
+32  Obujeemu bw’abo abatalina bumanyirivu bulibassa,N’obuteefiirayo bw’abasirusiru bulibazikiriza.
+33  Naye oyo ampuliriza aliba mirembeEra talitya kabi konna.”
+2  Mwana wange, bw’onokkiriza ebigambo byangeEra ebiragiro byange n’obikuuma ng’ekintu eky’omuwendo,
+2  N’otega okutu kwo n’owuliriza amageziEra n’ossaayo omutima gwo eri okutegeera;
+3  Bw’onookoowoolanga okumanyaEra n’okaabirira okutegeera;
+4  Bw’onoobinoonyanga ng’anoonya ffeeza,N’obiwenja ng’awenja eby’obugagga ebyakwekebwa;
+5  Olwo lw’onootegeera kye kitegeeza okutya Yakuwa,N’ovumbula okumanya okukwata ku Katonda.
+6  Kubanga Yakuwa y’awa amagezi;Era mu kamwa ke mwe muva okumanya n’okutegeera.
+7  Aterekera abagolokofu amagezi;Ye ngabo y’abo abatambulira mu bugolokofu.
+8  Akuuma amakubo ag’obwenkanya,Era ajja kukuuma ekkubo ly’abantu be abeesigwa.
+9  Olwo lw’ojja okutegeera eby’obutuukirivu n’eby’obwenkanya,Enkola yonna ey’ebintu ebirungi.
+10  Amagezi bwe gayingira mu mutima gwoN’oyagala ennyo okumanya,
+11  Obusobozi bw’okulowooza obulungi bunaakukuumangaN’okutegeera kunaakukuumanga,
+12  Bijja kukuwonya okukwata ekkubo ebbi,N’omuntu ayogera ebitasaana,
+13  N’abo abava mu makubo amagolokofuNe batambulira mu mpenda ez’ekizikiza,
+14  Bijja kukuwonya abo abasanyukira ebikolwa ebibi,Abasanyukira ebitasaana,
+15  Abatambulira mu makubo amakyamuEra abatali beesigwa mu byonna bye bakola.
+16  Bijja kukuwonya omukazi omwenzi,N’ebigambo ebisikiriza eby’omukazi omugwenyufu,
+17  Alekawo munne ow’oku lusegere ow’omu buvubuka bweEra eyeerabira endagaano ya Katonda we;
+18  Kubanga ennyumba ye ekka mu kufa,N’amakubo ge gatwala omuntu eri abo abaafa.
+19  Tewali n’omu ku abo abeegatta naye alidda,Oba alikomawo mu kkubo ery’obulamu.
+20  N’olwekyo, tambulira mu kkubo ery’abantu abalungi,Era tova mu kkubo ly’abatuukirivu,
+21  Kubanga abagolokofu be balibeera mu nsi,Era abo abataliiko kya kunenyezebwa be baligisigalamu.
+22  Naye ababi balimalibwawo mu nsi,N’abo ab’enkwe balisimbulibwamu.
+3  Mwana wange teweerabiranga bye nkuyigiriza,Era omutima gwo gukwatenga ebiragiro byange,
+2  Olyoke owangaale emyaka mingi,Era obe n’emirembe.
+3  Obwesigwa n’okwagala okutajjulukuka tobiganyanga kukuvaako. Bisibe mu bulago bwo;Biwandiike ku mutima gwo;
+4  Olwo lw’ojja okusiimibwa era omanyibwe ng’omuntu omutegeevuMu maaso ga Katonda n’abantu.
+5  Weesigenga Yakuwa n’omutima gwo gwonna,Era teweesigamanga ku kutegeera kwo.
+6  Mulowoozengako mu byonna by’okola,Anaatereezanga amakubo go.
+7  Teweetwalanga kuba wa magezi. Tya Yakuwa oleke ebibi.
+8  Ekyo kijja kuwonya omubiri gwoEra kijja kuweweeza amagumba go.
+9  Ossangamu Yakuwa ekitiibwa n’omuwa ku bintu byo eby’omuwendo,N’ebibala ebibereberye eby’amakungula go gonna;
+10  Olwo amaterekero go lwe ganajjula,Era n’amatogero go lwe ganajjula ne gabooga omwenge omusu.
+11  Mwana wange, togaananga kukangavvula kwa Yakuwa,Era teweetamwanga by’akugamba ng’akunenya,
+12  Kubanga abo Yakuwa b’ayagala abanenya,Nga taata bw’anenya omwana amusanyusa.
+13  Alina essanyu oyo afuna amagezi,N’oyo afuna okutegeera;
+14  Okufuna amagezi kisinga okufuna ffeeza,Okuba nago kisinga okuba ne zzaabu.
+15  Ga muwendo okusinga amayinja ag’omuwendo ag’omu nnyanja;Tewali kintu ky’oyinza kwegomba ekiyinza okugenkana.
+16  Mu mukono gwago ogwa ddyo mulimu okuwangaala;Ne mu mukono gwago ogwa kkono mulimu obugagga n’ekitiibwa.
+17  Amakubo gaago malungi,Era empenda zaago zonna za mirembe.
+18  Amagezi muti gwa bulamu eri abo abagafuna,Era abo abaganywererako bajja kuyitibwa basanyufu.
+19  Emisingi gy’ensi Yakuwa yagisimbisa magezi. Eggulu yalinyweza na kutegeera.
+20  Olw’okumanya kw’alina yayawulamu amazzi,Era ebire byatonnya enkuba.
+21  Mwana wange, ebyo tobiggyangako maaso. Amagezi n’obusobozi bw’okulowooza obulungi tobiganyanga kukuvaako;
+22  Bijja kukuwa obulamuEra bijja kuba ng’omukuufu omulungi mu bulago bwo;
+23  Olwo ojja kutambulira mu kkubo lyo mirembe,Era ekigere kyo tekiryesittala ku kintu kyonna.
+24  Bw’oneebakanga tootyenga;Oneebakanga, otulo two ne tukuwoomera.
+25  Tolitya kintu kyonna eky’entiisa ekigwawo obugwi,Wadde embuyaga erijjira ababi.
+26  Kubanga obwesige bwo bujja kuba mu Yakuwa;Ajja kukuuma ekigere kyo kireme kugwa mu mutego.
+27  Tommanga kirungi abo b’ogwanidde okukiwa,Bw’oba ng’osobola okubayamba.
+28  Togambanga munno nti, “Genda; ojja kukomawo edda. Nja kukikuwa enkya,” Ng’ate osobola okukimuweerawo.
+29  Tokolanga lukwe okutuusa akabi ku munnoNg’ate akwesiga.
+30  Toyombanga na muntu awatali nsonga,Nga talina kibi ky’akukoze.
+31  Omuntu akola eby’obukambwe tomukwatirwanga nsaalwa,Era tokolanga ebyo by’akola,
+32  Kubanga Yakuwa akyayira ddala omuntu omukuusa,Naye abagolokofu abafuula mikwano gye egy’oku lusegere.
+33  Ekikolimo kya Yakuwa kiba ku nnyumba y’omubi,Naye amaka g’abatuukirivu agawa omukisa.
+34  Asekerera abo abakudaala,Naye asiima abawombeefu.
+35  Ab’amagezi bajja kufuna ekitiibwa,Naye abasirusiru beenyumiririza mu ebyo ebimalamu ekitiibwa.
+12  Ayagala okubuulirirwa aba ayagala okumanya,Naye oyo atayagala kunenyezebwa talina magezi.
+2  Yakuwa asiima omuntu omulungi,Naye avumirira omuntu ow’enkwe.
+3  Tewali muntu asobola kuba na bulamu bulungi ng’akola ebibi,Naye abatuukirivu tebalisiguukululwa.
+4  Omukyala omulungi ngule eri bba,Naye omukyala akola ebiswaza alinga endwadde evunza amagumba ga bba.
+5  Ebirowoozo by’abatuukirivu biba bya bwenkanya,Naye obulagirizi bw’ababi buba bwa bulimba.
+6  Ebigambo by’ababi biteega okuyiwa omusaayi,Naye akamwa k’abatuukirivu kalokola.
+7  Ababi bwe bazikirizibwa, basaanawo,Naye ennyumba y’omutuukirivu esigalawo.
+8  Omuntu atenderezebwa olw’ebigambo bye eby’amagezi,Naye omuntu ow’omutima omukyamu anyoomebwa.
+9  Omuntu anyoomebwa ng’alina omuweerezaAsinga eyeegulumiza naye nga talina kya kulya.
+10  Omutuukirivu alabirira ebisolo bye,Naye n’okwandibadde ng’okusaasira kw’ababi kuba kwa bukambwe.
+11  Omuntu alima ettaka lye ajja kuba n’emmere emumala,Naye aluubirira ebintu ebitaliimu nsa taba na magezi.
+12  Omuntu omubi akwatirwa abantu abalala ababi ensaalwa olw’ebyo bye baba bakwasizza,Naye omutuukirivu alinga omuti ogulina emirandira eminywevu ogubala ebibala.
+13  Ebigambo ebibi ebyogerwa omuntu omubi bimusuula mu mutego,Naye omutuukirivu awona emitawaana.
+14  Omuntu by’ayogera bye bimuviiramu ebirungi,Era by’akola bye bimuviiramu empeera.
+15  Ekkubo ly’omusirusiru liba ddungi mu maaso ge,Naye ow’amagezi akkiriza okuweebwa amagezi.
+16  Omusirusiru alaga mangu obusungu bwe,Naye omuntu omutegeevu ne bw’avumibwa takissaako mwoyo.
+17  Omujulizi omwesigwa ayogera mazima,Naye omujulizi ow’obulimba ayogera bya bulimba.
+18  Ayogera nga tasoose kulowooza, ebigambo bye bifumita ng’ekitala,Naye ebigambo by’ab’amagezi biwonya.
+19  Ebigambo eby’amazima bijja kubaawo emirembe gyonna,Naye ebigambo eby’obulimba bijja kubaawo okumala akaseera katono.
+20  Obulimba buba mu mitima gy’abo abateesa okukola ebibi,Naye abo abafuba okuleetawo emirembe baba basanyufu.
+21  Tewali kabi kajja kutuuka ku mutuukirivu,Naye ababi bajja kufuna emitawaana mingi.
+22  Yakuwa akyawa emimwa egyogera eby’obulimba,Naye abeesigwa bamusanyusa.
+23  Omuntu ow’amagezi asirikira ekyo ky’amanyi,Naye omutima gw’omusirusiru gwogera eby’obusirusiru.
+24  Omukono gw’abanyiikivu gujja kufuga,Naye emikono gy’abagayaavu gijja kukozesebwa emirimu egy’obuddu.
+25  Okweraliikirira okuba mu mutima gw’omuntu kugwennyamiza,Naye ebigambo ebirungi biguleetera okusanyuka.
+26  Omutuukirivu alambula amalundiro ge,Naye ababi ekkubo lyabwe libawabya.
+27  Omugayaavu tayigga,Naye obunyiikivu kya bugagga eri omuntu.
+28  Ekkubo ery’obutuukirivu lituusa mu bulamu,Era mu lyo temuli kufa.

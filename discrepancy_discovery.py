@@ -7,8 +7,8 @@ import re
 @click.option('--book', help='number of book you are aligning eg. 12')
 
 def discrepancy_discovery(language, book):
-    eng = open("datasets/preprocessed/english_nwt_preprocessed/" + book + "." + bible_dictionaries.languages["english"][book] + ".txt", "r").read() 
-    lang = open("datasets/preprocessed/" + language + "_nwt_preprocessed/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "r").read() 
+    eng = open("datasets/preprocessed/english/" + book + "." + bible_dictionaries.languages["english"][book] + ".txt", "r").read() 
+    lang = open("datasets/preprocessed/" + language + "/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "r").read() 
     
     eng = eng.split('\n')
     lang = lang.split('\n')
