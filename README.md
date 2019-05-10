@@ -3,6 +3,20 @@ This project is aimed at aligning translations of the Bible for the task of Mach
 We consider the English version to be our point of reference so all other efforts at adding datasets for other languages work towards aligning them with the English version, hence by extension, with each other.
 **NEVER EDIT THE ENGLISH TEXTS AS THEY ARE THE 'SOURCE OF TRUTH'**.
 
+## Current Languages:
+* english
+* kamba
+* kikuyu
+* kinyarwanda
+* luganda
+* luo
+* sesotho_lso
+* setswana
+* shona
+* swahili
+* tsonga
+* xhosa
+
 ## Software Requirements:
 * python3
 * click
