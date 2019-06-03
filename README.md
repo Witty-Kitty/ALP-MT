@@ -55,7 +55,14 @@ example usage:
 ```sh
 $ python3 text_preprocessing.py --language swahili --book 4
 ```
+## NOTE:
+-The text_preprocessing function may throw a UnicodeDecodeError. This will require you to edit line 10 of text_preprocessing.py, to explicitly state the encoding to be used, depending on the language you are working on.For example, in swahili, use utf-8, in kikuyu, use latin-1.
 
+example usage:
+```sh
+   10.  file = open("datasets/raw/" + language + "/" + book + "." + bible_dictionaries.languages[language][book] + ".txt", "r",encoding="latin-1").read()
+
+```
 2. the alignment_check.py function will check to see if the text you are working on has the same number of sentences as its English equivalent. Should it not, you will see the difference in the number of lines. 
 
 example usage:
